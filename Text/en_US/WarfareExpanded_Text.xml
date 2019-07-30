@@ -60,13 +60,13 @@
 			<Text>Heavy Cannon</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION">
-			<Text>Industrial era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+			<Text>Industrial era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they have more than 2 movement (e.g. great general, logistics) or the Expert Crew promotion.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_NAME">
 			<Text>Heavy Howitzer</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION">
-			<Text>Atomic era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+			<Text>Atomic era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they have more than 2 movement (e.g. great general, logistics) or the Expert Crew promotion.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_LINE_INFANTRY_NAME">
 			<Text>Line Infantry</Text>
@@ -151,46 +151,46 @@
 			<Text>Early Bomber</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION">
-			<Text>First bomber unit, available in the Modern era.</Text>
+			<Text>First air bomber unit, available in the Modern era.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_STEALTH_BOMBER_NAME">
 			<Text>Stealth Bomber</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION">
-			<Text>Future era bomber unit with stealth capability.</Text>
+			<Text>Future era air bomber unit with stealth capability.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_NAME">
 			<Text>Stealth Fighter</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION">
-			<Text>Future era Jet Fighter upgrade with stealth capability.</Text>
+			<Text>Future era air fighter unit with stealth capability.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME">
-			<Text>Early Ground Attack</Text>
+			<Text>Early Ground-Attack</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION">
-			<Text>First ground attack unit, available in the Modern era.</Text>
+			<Text>The first air ground-attack unit, available in the Modern era.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GROUND_ATTACK_NAME">
-			<Text>Ground Attack</Text>
+			<Text>Ground-Attack</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION">
-			<Text>Atomic era Early Ground Attack upgrade.</Text>
+			<Text>Atomic era air ground-attack unit.</Text></Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME">
-			<Text>Jet Ground Attack</Text>
+			<Text>Jet Ground-Attack</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION">
-			<Text>Information era Ground Attack upgrade.</Text>
+			<Text>Information era air ground-attack unit.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_STEALTH_ATTACK_NAME">
-			<Text>Stealth Ground Attack</Text>
+			<Text>Stealth Ground-Attack</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION">
-			<Text>Future era Jet Ground Attack upgrade with stealth capability.</Text>
+			<Text>Future era air ground-attack unit with stealth capability.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME">
-			<Text>Air Attack</Text>
+			<Text>Air Ground-Attack</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_WILD_WEASEL_NAME">
 			<Text>Wild Weasel</Text>
@@ -202,7 +202,7 @@
 			<Text>Countermeasures</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION">
-			<Text>+7 [ICON_Strength] Combat Strength vs. fighter class units.</Text>
+			<Text>+7 [ICON_Strength] Combat Strength vs. Air Fighter units.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_AIR_SORTIES_NAME">
 			<Text>Air Sorties</Text>
@@ -214,25 +214,25 @@
 			<Text>Guided Bombs</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength vs. fortified defender.</Text>
+			<Text>+10 [ICON_Ranged] Air Attack Strength vs. a fortified defender.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME">
 			<Text>Strategic Bombing</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION">
-			<Text>+12 [ICON_Strength] Combat Strength vs. district defenses.</Text>
+			<Text>+12 [ICON_Bombard] Air Attack Strength vs. cities and encampments.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_NAME">
 			<Text>Carpet Bombing</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION">
-			<Text>+15 [ICON_Strength] Combat Strength vs. land units.</Text>
+			<Text>+15 [ICON_Bombard] Air Attack Strength vs. land units.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME">
 			<Text>Air Superiority Fighter</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION">
-			<Text>+7 [ICON_Strength] Combat Strength vs. ground attack class units.</Text>
+			<Text>+7 [ICON_Strength] Combat Strength vs. Air Ground-Attack units.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_UAV_NAME">
 			<Text>Unmanned Aerial Vehicle</Text>
@@ -305,10 +305,10 @@
 			<Text>Naval Bombard</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION">
-			<Text>Cancels out the bombard penalty against land units.</Text>
+			<Text>Naval Bombard unit: Cancel the ranged penalty vs land.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>Increase bombard by +17 for Naval Bombard Units.</Text>
+			<Text>+17 Naval Bombard unit: Cancel the ranged penalty vs land.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME">
 			<Text>Attack Submarine</Text>
@@ -347,7 +347,7 @@
 			<Text>Naval Bombard vs Naval Units</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION">
-			<Text>+10 [ICON_Bombard] Bombard Strength vs. naval units.</Text>
+			<Text>+10 [ICON_Bombard] Ranged Attack Strength vs. naval units.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME">
 			<Text>Naval Bombard Extra Movement</Text>
@@ -359,13 +359,13 @@
 			<Text>Naval Bombard vs Land Units</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION">
-			<Text>+10 [ICON_Bombard] Bombard Strength vs. land units.</Text>
+			<Text>+10 [ICON_Bombard] Ranged Attack Strength vs. land units.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME">
 			<Text>Naval Bombard vs Districts</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION">
-			<Text>+10 [ICON_Bombard] Bombard Strength vs. district defenses.</Text>
+			<Text>+10 [ICON_Bombard] Ranged Attack Strength vs. cities and encampments.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME">
 			<Text>Naval Bombard Heal Outside</Text>
@@ -374,7 +374,7 @@
 			<Text>Heal outside of friendly territory.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME">
-			<Text>Naval Bombard vs Air Units</Text>
+			<Text>Proximity Fuses</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION">
 			<Text>+7 [ICON_Strength] Combat Strength when defending vs. air attacks.</Text>
