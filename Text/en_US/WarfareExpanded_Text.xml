@@ -175,7 +175,7 @@
 			<Text>Ground-Attack</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION">
-			<Text>Atomic era air ground-attack unit.</Text></Text>
+			<Text>Atomic era air ground-attack unit.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME">
 			<Text>Jet Ground-Attack</Text>
