@@ -196,7 +196,7 @@
 			<Text>Wild Weasel</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when defending vs. anti-air.</Text>
+			<Text>+10 [ICON_Strength] Combat Strength when attacking Anti-Aircraft units.[NEWLINE]+10 [ICON_Strength] Combat Strength vs Anti-Aircraft damage when attacking tiles they cover.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_NAME">
 			<Text>Countermeasures</Text>
