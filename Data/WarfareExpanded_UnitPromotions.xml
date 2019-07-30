@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<!-- Air Units -->
+		<Row Type="PROMOTION_CLASS_AIR_ATTACK" Kind="KIND_PROMOTION_CLASS"/>
+		<Row Type="PROMOTION_WILD_WEASEL" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_COUNTERMEASURES" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_AIR_SORTIES" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_GUIDED_BOMBS" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_CARPET_BOMBING" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_STRATEGIC_BOMBING" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_AIR_SUPERIORITY_FIGHTER" Kind="KIND_PROMOTION"/>
+		<!-- Naval Units -->
+		<Row Type="PROMOTION_CLASS_NAVAL_BOMBARD" Kind="KIND_PROMOTION_CLASS"/>
+		<Row Type="PROMOTION_BOMBARD_VS_NAVAL" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_BOMBARD_EXTRA_MOVE" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_BOMBARD_VS_LAND" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_BOMBARD_VS_DISTRICT" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_BOMBARD_OUTSIDE_HEAL" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_BOMBARD_VS_AIR" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_BOMBARD_EXTRA_ATTACK" Kind="KIND_PROMOTION"/>
+		<!-- Marine Units -->
+		<Row Type="PROMOTION_CLASS_MARINE" Kind="KIND_PROMOTION_CLASS"/>
+		<Row Type="PROMOTION_RIVER_PATROL" Kind="KIND_PROMOTION_CLASS"/>
+		<Row Type="PROMOTION_COAST_GUARD" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_EXPEDITIONARY_FORCE" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_RESERVE_FORCES" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_COMBINED_ARMS" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_CORPSMEN" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_ELITE_RAIDER" Kind="KIND_PROMOTION"/>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row Type="PROMOTION_CLASS_AUTOMATIC_GUN" Kind="KIND_PROMOTION_CLASS"/>
+		<Row Type="PROMOTION_LK_FUSILLADE" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_LK_COUNTER_FIRE" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_LK_MANTLET" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_LK_ENTRENCH" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_LK_MARKSMAN" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_LK_OVERWATCH" Kind="KIND_PROMOTION"/>
+		<Row Type="PROMOTION_LK_FIRE_AND_MANEUVER" Kind="KIND_PROMOTION"/>
+	</Types>
+	<UnitPromotionClasses>
+		<!-- Air Units -->
+		<Row PromotionClassType="PROMOTION_CLASS_AIR_ATTACK" Name="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME"/>
+		<!-- Naval Units -->
+		<Row PromotionClassType="PROMOTION_CLASS_NAVAL_BOMBARD" Name="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME"/>
+		<!-- Marine Units -->
+		<Row PromotionClassType="PROMOTION_CLASS_MARINE" Name="LOC_PROMOTION_CLASS_MARINE_NAME"/>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row PromotionClassType="PROMOTION_CLASS_AUTOMATIC_GUN" Name="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME"/>
+	</UnitPromotionClasses>
+	<UnitPromotions>
+		<!-- Air Units -->
+		<Row UnitPromotionType="PROMOTION_WILD_WEASEL" Name="LOC_PROMOTION_WILD_WEASEL_NAME" Description="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION" Level="1" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_AIR_ATTACK"/>
+		<Row UnitPromotionType="PROMOTION_COUNTERMEASURES" Name="LOC_PROMOTION_COUNTERMEASURES_NAME" Description="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION" Level="1" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_AIR_ATTACK"/>
+		<Row UnitPromotionType="PROMOTION_AIR_SORTIES" Name="LOC_PROMOTION_AIR_SORTIES_NAME" Description="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION" Level="3" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_AIR_ATTACK"/>
+		<Row UnitPromotionType="PROMOTION_GUIDED_BOMBS" Name="LOC_PROMOTION_GUIDED_BOMBS_NAME" Description="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION" Level="4" Specialization="" Column="2" PromotionClass="PROMOTION_CLASS_AIR_ATTACK"/>
+		<Row UnitPromotionType="PROMOTION_STRATEGIC_BOMBING" Name="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Description="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Level="2" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_AIR_BOMBER"/>
+		<Row UnitPromotionType="PROMOTION_CARPET_BOMBING" Name="LOC_PROMOTION_CARPET_BOMBING_NAME" Description="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Level="2" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_AIR_BOMBER"/>
+		<Row UnitPromotionType="PROMOTION_AIR_SUPERIORITY_FIGHTER" Name="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Description="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Level="3" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_AIR_FIGHTER"/>
+		<!-- Naval Units -->
+		<Row UnitPromotionType="PROMOTION_BOMBARD_VS_NAVAL" Name="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME" Description="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION" Level="1" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		<Row UnitPromotionType="PROMOTION_BOMBARD_EXTRA_MOVE" Name="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME" Description="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION" Level="1" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		<Row UnitPromotionType="PROMOTION_BOMBARD_VS_LAND" Name="LOC_PROMOTION_BOMBARD_VS_LAND_NAME" Description="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION" Level="2" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		<Row UnitPromotionType="PROMOTION_BOMBARD_VS_DISTRICT" Name="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME" Description="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION" Level="2" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		<Row UnitPromotionType="PROMOTION_BOMBARD_OUTSIDE_HEAL" Name="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME" Description="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION" Level="3" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		<Row UnitPromotionType="PROMOTION_BOMBARD_VS_AIR" Name="LOC_PROMOTION_BOMBARD_VS_AIR_NAME" Description="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION" Level="3" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		<Row UnitPromotionType="PROMOTION_BOMBARD_EXTRA_ATTACK" Name="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME" Description="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION" Level="4" Specialization="" Column="2" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		<!-- Marine Units -->
+		<Row UnitPromotionType="PROMOTION_RIVER_PATROL" Name="LOC_PROMOTION_RIVER_PATROL_NAME" Description="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION" Level="1" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		<Row UnitPromotionType="PROMOTION_COAST_GUARD" Name="LOC_PROMOTION_COAST_GUARD_NAME" Description="LOC_PROMOTION_COAST_GUARD_DESCRIPTION" Level="1" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		<Row UnitPromotionType="PROMOTION_EXPEDITIONARY_FORCE" Name="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME" Description="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION" Level="2" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		<Row UnitPromotionType="PROMOTION_RESERVE_FORCES" Name="LOC_PROMOTION_RESERVE_FORCES_NAME" Description="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION" Level="2" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		<Row UnitPromotionType="PROMOTION_COMBINED_ARMS" Name="LOC_PROMOTION_COMBINED_ARMS_NAME" Description="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION" Level="3" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		<Row UnitPromotionType="PROMOTION_CORPSMEN" Name="LOC_PROMOTION_CORPSMEN_NAME" Description="LOC_PROMOTION_CORPSMEN_DESCRIPTION" Level="3" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		<Row UnitPromotionType="PROMOTION_ELITE_RAIDER" Name="LOC_PROMOTION_ELITE_RAIDER_NAME" Description="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION" Level="4" Specialization="" Column="2" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row UnitPromotionType="PROMOTION_LK_FUSILLADE" Name="LOC_PROMOTION_LK_FUSILLADE_NAME" Description="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION" Level="1" Column="1" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
+		<Row UnitPromotionType="PROMOTION_LK_COUNTER_FIRE" Name="LOC_PROMOTION_LK_COUNTER_FIRE_NAME" Description="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION" Level="1" Column="3" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
+		<Row UnitPromotionType="PROMOTION_LK_MANTLET" Name="LOC_PROMOTION_LK_MANTLET_NAME" Description="LOC_PROMOTION_LK_MANTLET_DESCRIPTION" Level="2" Column="1" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
+		<Row UnitPromotionType="PROMOTION_LK_ENTRENCH" Name="LOC_PROMOTION_LK_ENTRENCH_NAME" Description="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION" Level="2" Column="3" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
+		<Row UnitPromotionType="PROMOTION_LK_MARKSMAN" Name="LOC_PROMOTION_LK_MARKSMAN_NAME" Description="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION" Level="3" Column="1" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
+		<Row UnitPromotionType="PROMOTION_LK_OVERWATCH" Name="LOC_PROMOTION_LK_OVERWATCH_NAME" Description="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION" Level="3" Column="3" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
+		<Row UnitPromotionType="PROMOTION_LK_FIRE_AND_MANEUVER" Name="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME" Description="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION" Level="4" Column="2" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
+	</UnitPromotions>
+	<UnitPromotionPrereqs>
+		<!-- Delete Air UnitPromotionPrereqs -->
+		<Delete UnitPromotion="PROMOTION_TANK_BUSTER" PrereqUnitPromotion="PROMOTION_STRAFE"/>
+		<Delete UnitPromotion="PROMOTION_DROP_TANKS" PrereqUnitPromotion="PROMOTION_TANK_BUSTER"/>
+		<Delete UnitPromotion="PROMOTION_TORPEDO_BOMBER" PrereqUnitPromotion="PROMOTION_BOX_FORMATION"/>
+		<Delete UnitPromotion="PROMOTION_TORPEDO_BOMBER" PrereqUnitPromotion="PROMOTION_EVASIVE_MANEUVERS"/>
+		<Delete UnitPromotion="PROMOTION_TACTICAL_MAINTENANCE" PrereqUnitPromotion="PROMOTION_TORPEDO_BOMBER"/>
+		<Delete UnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT" PrereqUnitPromotion="PROMOTION_EVASIVE_MANEUVERS"/>
+		<Delete UnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT" PrereqUnitPromotion="PROMOTION_BOX_FORMATION"/>
+		<Delete UnitPromotion="PROMOTION_LONG_RANGE" PrereqUnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT"/>
+		<!-- New Air UnitPromotionPrereqs -->
+		<Row UnitPromotion="PROMOTION_AIR_SORTIES" PrereqUnitPromotion="PROMOTION_TORPEDO_BOMBER"/>
+		<Row UnitPromotion="PROMOTION_GUIDED_BOMBS" PrereqUnitPromotion="PROMOTION_AIR_SORTIES"/>
+		<Row UnitPromotion="PROMOTION_GUIDED_BOMBS" PrereqUnitPromotion="PROMOTION_TANK_BUSTER"/>
+		<Row UnitPromotion="PROMOTION_STRATEGIC_BOMBING" PrereqUnitPromotion="PROMOTION_BOX_FORMATION"/>
+		<Row UnitPromotion="PROMOTION_CARPET_BOMBING" PrereqUnitPromotion="PROMOTION_EVASIVE_MANEUVERS"/>
+		<Row UnitPromotion="PROMOTION_AIR_SUPERIORITY_FIGHTER" PrereqUnitPromotion="PROMOTION_STRAFE"/>
+		<!-- Modified Air UnitPromotionPrereqs -->
+		<Row UnitPromotion="PROMOTION_TANK_BUSTER" PrereqUnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT"/>
+		<Row UnitPromotion="PROMOTION_DROP_TANKS" PrereqUnitPromotion="PROMOTION_AIR_SUPERIORITY_FIGHTER"/>
+		<Row UnitPromotion="PROMOTION_TORPEDO_BOMBER" PrereqUnitPromotion="PROMOTION_WILD_WEASEL"/>
+		<Row UnitPromotion="PROMOTION_TACTICAL_MAINTENANCE" PrereqUnitPromotion="PROMOTION_STRATEGIC_BOMBING"/>
+		<Row UnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT" PrereqUnitPromotion="PROMOTION_COUNTERMEASURES"/>
+		<Row UnitPromotion="PROMOTION_LONG_RANGE" PrereqUnitPromotion="PROMOTION_CARPET_BOMBING"/>
+		<!-- New Naval UnitPromotionPrereqs -->
+		<Row UnitPromotion="PROMOTION_BOMBARD_VS_LAND" PrereqUnitPromotion="PROMOTION_BOMBARD_VS_NAVAL"/>
+		<Row UnitPromotion="PROMOTION_BOMBARD_VS_DISTRICT" PrereqUnitPromotion="PROMOTION_BOMBARD_EXTRA_MOVE"/>
+		<Row UnitPromotion="PROMOTION_BOMBARD_OUTSIDE_HEAL" PrereqUnitPromotion="PROMOTION_BOMBARD_VS_LAND"/>
+		<Row UnitPromotion="PROMOTION_BOMBARD_VS_AIR" PrereqUnitPromotion="PROMOTION_BOMBARD_VS_DISTRICT"/>
+		<Row UnitPromotion="PROMOTION_BOMBARD_EXTRA_ATTACK" PrereqUnitPromotion="PROMOTION_BOMBARD_OUTSIDE_HEAL"/>
+		<Row UnitPromotion="PROMOTION_BOMBARD_EXTRA_ATTACK" PrereqUnitPromotion="PROMOTION_BOMBARD_VS_AIR"/>
+		<!-- New Marine UnitPromotionPrereqs -->
+		<Row UnitPromotion="PROMOTION_EXPEDITIONARY_FORCE" PrereqUnitPromotion="PROMOTION_RIVER_PATROL"/>
+		<Row UnitPromotion="PROMOTION_RESERVE_FORCES" PrereqUnitPromotion="PROMOTION_COAST_GUARD"/>
+		<Row UnitPromotion="PROMOTION_COMBINED_ARMS" PrereqUnitPromotion="PROMOTION_EXPEDITIONARY_FORCE"/>
+		<Row UnitPromotion="PROMOTION_CORPSMEN" PrereqUnitPromotion="PROMOTION_RESERVE_FORCES"/>
+		<Row UnitPromotion="PROMOTION_ELITE_RAIDER" PrereqUnitPromotion="PROMOTION_COMBINED_ARMS"/>
+		<Row UnitPromotion="PROMOTION_ELITE_RAIDER" PrereqUnitPromotion="PROMOTION_CORPSMEN"/>
+		<!-- New Automatic Gun UnitPromotionPrereqs - Created by Laurana Kanan -->
+		<Row UnitPromotion="PROMOTION_LK_MANTLET" PrereqUnitPromotion="PROMOTION_LK_FUSILLADE"/>
+		<Row UnitPromotion="PROMOTION_LK_MANTLET" PrereqUnitPromotion="PROMOTION_LK_COUNTER_FIRE"/>
+		<Row UnitPromotion="PROMOTION_LK_ENTRENCH" PrereqUnitPromotion="PROMOTION_LK_FUSILLADE"/>
+		<Row UnitPromotion="PROMOTION_LK_ENTRENCH" PrereqUnitPromotion="PROMOTION_LK_COUNTER_FIRE"/>
+		<Row UnitPromotion="PROMOTION_LK_MARKSMAN" PrereqUnitPromotion="PROMOTION_LK_MANTLET"/>
+		<Row UnitPromotion="PROMOTION_LK_OVERWATCH" PrereqUnitPromotion="PROMOTION_LK_ENTRENCH"/>
+		<Row UnitPromotion="PROMOTION_LK_FIRE_AND_MANEUVER" PrereqUnitPromotion="PROMOTION_LK_MARKSMAN"/>
+		<Row UnitPromotion="PROMOTION_LK_FIRE_AND_MANEUVER" PrereqUnitPromotion="PROMOTION_LK_OVERWATCH"/>
+	</UnitPromotionPrereqs>
+	<UnitPromotionModifiers>
+		<!-- Air Units -->
+		<Row>
+			<UnitPromotionType>PROMOTION_WILD_WEASEL</UnitPromotionType>
+			<ModifierId>WILD_WEASEL_BONUS_VS_ANTIAIR</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_COUNTERMEASURES</UnitPromotionType>
+			<ModifierId>COUNTERMEASURES_BONUS_VS_FIGHTERS</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_AIR_SORTIES</UnitPromotionType>
+			<ModifierId>AIR_SORTIES_HEAL_AFTER_ACTION</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_GUIDED_BOMBS</UnitPromotionType>
+			<ModifierId>GUIDED_BOMBS_BONUS_VS_FORTIFIED</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_STRATEGIC_BOMBING</UnitPromotionType>
+			<ModifierId>STRATEGIC_BOMBING_VS_DISTRICTS</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_CARPET_BOMBING</UnitPromotionType>
+			<ModifierId>CARPET_BOMBING_BONUS_VS_LAND</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_AIR_SUPERIORITY_FIGHTER</UnitPromotionType>
+			<ModifierId>ASF_BONUS_VS_GROUND_ATTACK</ModifierId>
+		</Row>
+		<!-- Naval Bombard -->
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_VS_NAVAL</UnitPromotionType>
+			<ModifierId>BOMBARD_BONUS_VS_NAVAL</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_EXTRA_MOVE</UnitPromotionType>
+			<ModifierId>HELMSMAN_BONUS_WATER_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_VS_LAND</UnitPromotionType>
+			<ModifierId>BOMBARD_BONUS_VS_LAND</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_VS_DISTRICT</UnitPromotionType>
+			<ModifierId>BOMBARD_BONUS_VS_DISTRICT_DEFENSES</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_OUTSIDE_HEAL</UnitPromotionType>
+			<ModifierId>SUPPLY_FLEET_NEUTRAL_TERRITORY_HEAL</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_OUTSIDE_HEAL</UnitPromotionType>
+			<ModifierId>SUPPLY_FLEET_ENEMY_TERRITORY_HEAL</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_VS_AIR</UnitPromotionType>
+			<ModifierId>PROMOTION_PROXIMITY_FUSES_DEFENSE_BONUS_VS_AIR</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_EXTRA_ATTACK</UnitPromotionType>
+			<ModifierId>BOMBARD_ADDITIONAL_ATTACK</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_BOMBARD_EXTRA_ATTACK</UnitPromotionType>
+			<ModifierId>BOMBARD_MOVE_AFTER_ATTACKING</ModifierId>
+		</Row>
+		<!-- Marines -->
+		<Row>
+			<UnitPromotionType>PROMOTION_RIVER_PATROL</UnitPromotionType>
+			<ModifierId>RIVER_PATROL_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_COAST_GUARD</UnitPromotionType>
+			<ModifierId>COAST_GUARD_BONUS_IGNORE_CLIFFS</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_EXPEDITIONARY_FORCE</UnitPromotionType>
+			<ModifierId>EXPEDITIONARY_FORCE_FOREIGN_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_RESERVE_FORCES</UnitPromotionType>
+			<ModifierId>RESERVE_FORCES_CONTINENT_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_COMBINED_ARMS</UnitPromotionType>
+			<ModifierId>COMBINED_ARMS_NO_REDUCTION_DAMAGE</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_CORPSMEN</UnitPromotionType>
+			<ModifierId>CORPSMEN_BONUS_HEALTH</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_ELITE_RAIDER</UnitPromotionType>
+			<ModifierId>ELITE_RAIDER_STRONG_WHEN_ATTACKING</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_ELITE_RAIDER</UnitPromotionType>
+			<ModifierId>ELITE_RAIDER_BONUS_MOVE_AFTER_ATTACKING</ModifierId>
+		</Row>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_FUSILLADE</UnitPromotionType>
+			<ModifierId>LK_FUSILLADE_RANGED_VS_MELEE_ANTI_CAV</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_COUNTER_FIRE</UnitPromotionType>
+			<ModifierId>LK_COUNTER_FIRE_VS_RANGED_SIEGE</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_MANTLET</UnitPromotionType>
+			<ModifierId>LK_MANTLET_BONUS_VS_RANGED_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_ENTRENCH</UnitPromotionType>
+			<ModifierId>LK_ENTRENCH_BONUS_IN_DISTRICT</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_MARKSMAN</UnitPromotionType>
+			<ModifierId>LK_MARKSMAN_BONUS_VS_LAND</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_OVERWATCH</UnitPromotionType>
+			<ModifierId>SUPPRESSION_BONUS_EXERT_ZOC</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_OVERWATCH</UnitPromotionType>
+			<ModifierId>LK_OVERWATCH_BONUS_CLOSE_DEFENSE</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_FIRE_AND_MANEUVER</UnitPromotionType>
+			<ModifierId>LK_FIRE_AND_MANEUVER_ATTACK_AFTER_MOVE</ModifierId>
+		</Row>
+		<Row>
+			<UnitPromotionType>PROMOTION_LK_FIRE_AND_MANEUVER</UnitPromotionType>
+			<ModifierId>LK_FIRE_AND_MANEUVER_BONUS_VS_DISTRICT_DEFENSES</ModifierId>
+		</Row>
+	</UnitPromotionModifiers>
+	<RequirementSets>
+		<!-- Air Units -->
+		<Row>
+			<RequirementSetId>WILD_WEASEL_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>COUNTERMEASURES_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>GUIDED_BOMBS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>STRATEGIC_BOMBING_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>CARPET_BOMBING_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>AIR_SUPERIORITY_FIGHTER_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<!-- Naval Bombard -->
+		<Row>
+			<RequirementSetId>BOMBARD_VS_NAVAL_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>BOMBARD_VS_LAND_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>BOMBARD_VS_DISTRICT_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<!-- Marines -->
+		<Row>
+			<RequirementSetId>RIVER_PATROL_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row>
+			<RequirementSetId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_OPPONENT_RANGED_SIEGE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_FUSILLADE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_COUNTER_FIRE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_OVERWATCH_BONUS_CLOSE_DEFENSE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+	<Modifiers>
+		<!-- Air Units -->
+		<Row>
+			<ModifierId>WILD_WEASEL_BONUS_VS_ANTIAIR</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>WILD_WEASEL_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>COUNTERMEASURES_BONUS_VS_FIGHTERS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>COUNTERMEASURES_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>AIR_SORTIES_HEAL_AFTER_ACTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_GRANT_HEAL_AFTER_ACTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>GUIDED_BOMBS_BONUS_VS_FORTIFIED</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>GUIDED_BOMBS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>STRATEGIC_BOMBING_VS_DISTRICTS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>STRATEGIC_BOMBING_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>CARPET_BOMBING_BONUS_VS_LAND</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>CARPET_BOMBING_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>ASF_BONUS_VS_GROUND_ATTACK</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>AIR_SUPERIORITY_FIGHTER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!-- Naval Bombard -->
+		<Row>
+			<ModifierId>BOMBARD_BONUS_VS_NAVAL</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BOMBARD_VS_NAVAL_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_BONUS_VS_LAND</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BOMBARD_VS_LAND_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_BONUS_VS_DISTRICT_DEFENSES</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BOMBARD_VS_DISTRICT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_ADDITIONAL_ATTACK</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_NUM_ATTACKS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_MOVE_AFTER_ATTACKING</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_ATTACK_AND_MOVE</ModifierType>
+		</Row>
+		<!-- Marines -->
+		<Row>
+			<ModifierId>RIVER_PATROL_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>RIVER_PATROL_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>COAST_GUARD_BONUS_IGNORE_CLIFFS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_CLIFF_WALLS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>EXPEDITIONARY_FORCE_FOREIGN_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REDCOAT_PLOT_IS_FOREIGN_CONTINENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>RESERVE_FORCES_CONTINENT_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>GARDE_PLOT_IS_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>COMBINED_ARMS_NO_REDUCTION_DAMAGE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_NO_REDUCTION_DAMAGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>CORPSMEN_BONUS_HEALTH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_GRANT_HEAL_AFTER_ACTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>ELITE_RAIDER_STRONG_WHEN_ATTACKING</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>UNIT_STRONG_WHEN_ATTACKING_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>ELITE_RAIDER_BONUS_MOVE_AFTER_ATTACKING</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_ATTACK_AND_MOVE</ModifierType>
+		</Row>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row>
+			<ModifierId>LK_FUSILLADE_RANGED_VS_MELEE_ANTI_CAV</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>LK_FUSILLADE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>LK_COUNTER_FIRE_VS_RANGED_SIEGE</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>LK_COUNTER_FIRE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>LK_MANTLET_BONUS_VS_RANGED_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>TORTOISE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>LK_ENTRENCH_BONUS_IN_DISTRICT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>LK_ENTRENCH_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>LK_MARKSMAN_BONUS_VS_LAND</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>VOLLEY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>LK_OVERWATCH_BONUS_CLOSE_DEFENSE</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>LK_OVERWATCH_BONUS_CLOSE_DEFENSE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>LK_FIRE_AND_MANEUVER_ATTACK_AFTER_MOVE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_MOVE_AND_ATTACK</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>LK_FIRE_AND_MANEUVER_BONUS_VS_DISTRICT_DEFENSES</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BOMBARDMENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<!-- Air Units -->
+		<Row>
+			<ModifierId>WILD_WEASEL_BONUS_VS_ANTIAIR</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>COUNTERMEASURES_BONUS_VS_FIGHTERS</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>GUIDED_BOMBS_BONUS_VS_FORTIFIED</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>STRATEGIC_BOMBING_VS_DISTRICTS</ModifierId>
+			<Name>Amount</Name>
+			<Value>12</Value>
+		</Row>
+		<Row>
+			<ModifierId>CARPET_BOMBING_BONUS_VS_LAND</ModifierId>
+			<Name>Amount</Name>
+			<Value>15</Value>
+		</Row>
+		<Row>
+			<ModifierId>ASF_BONUS_VS_GROUND_ATTACK</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<!-- Naval Bombard -->
+		<Row>
+			<ModifierId>BOMBARD_BONUS_VS_NAVAL</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_BONUS_VS_LAND</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_BONUS_VS_DISTRICT_DEFENSES</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_ADDITIONAL_ATTACK</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>BOMBARD_MOVE_AFTER_ATTACKING</ModifierId>
+			<Name>CanMove</Name>
+			<Value>True</Value>
+		</Row>
+		<!-- Marines -->
+		<Row>
+			<ModifierId>RIVER_PATROL_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>COAST_GUARD_BONUS_IGNORE_CLIFFS</ModifierId>
+			<Name>Ignore</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>EXPEDITIONARY_FORCE_FOREIGN_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>RESERVE_FORCES_CONTINENT_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>COMBINED_ARMS_NO_REDUCTION_DAMAGE</ModifierId>
+			<Name>NoReduction</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELITE_RAIDER_STRONG_WHEN_ATTACKING</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>ELITE_RAIDER_BONUS_MOVE_AFTER_ATTACKING</ModifierId>
+			<Name>CanMove</Name>
+			<Value>true</Value>
+		</Row>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row>
+			<ModifierId>LK_FUSILLADE_RANGED_VS_MELEE_ANTI_CAV</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>LK_COUNTER_FIRE_VS_RANGED_SIEGE</ModifierId>
+			<Name>Amount</Name>
+			<Value>6</Value>
+		</Row>
+		<Row>
+			<ModifierId>LK_MANTLET_BONUS_VS_RANGED_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>LK_ENTRENCH_BONUS_IN_DISTRICT</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>LK_MARKSMAN_BONUS_VS_LAND</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>LK_OVERWATCH_BONUS_CLOSE_DEFENSE</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>LK_FIRE_AND_MANEUVER_ATTACK_AFTER_MOVE</ModifierId>
+			<Name>CanAttack</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>LK_FIRE_AND_MANEUVER_BONUS_VS_DISTRICT_DEFENSES</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+	</ModifierArguments>
+	<Requirements>
+		<!-- Air Units -->
+		<Row>
+			<RequirementId>OPPONENT_IS_GROUND_ATTACK_UNIT_REQUIREMENTS</RequirementId>
+			<RequirementType>REQUIREMENT_OPPONENT_UNIT_PROMOTION_CLASS_MATCHES</RequirementType>
+		</Row>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row>
+			<RequirementId>BOMBARDMENT_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_OPPONENT_RANGED_SIEGE_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_ATTACKING_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_DEFENDING_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_ATTACKER_OCCUPYING_ALCAZAR_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_ATTACKER_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_ATTACKER_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_ATTACKER_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_FORT_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_ROMAN_FORT_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_ALCAZAR_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_IMPROVEMENT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_BARRAGE_PLOT_REQUIREMENTS_MET</RequirementId>
+			<RequirementType>REQUIREMENT_REQUIREMENTSET_IS_MET</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>LK_OPPONENT_IS_NOT_DISTRICT</RequirementId>
+			<RequirementType>REQUIREMENT_OPPONENT_IS_DISTRICT</RequirementType>
+			<Inverse>true</Inverse>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<!-- Air Units -->
+		<Row>
+			<RequirementId>OPPONENT_IS_GROUND_ATTACK_UNIT_REQUIREMENTS</RequirementId>
+			<Name>UnitPromotionClass</Name>
+			<Value>PROMOTION_CLASS_AIR_ATTACK</Value>
+		</Row>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row>
+			<RequirementId>BOMBARDMENT_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>BOMBARDMENT_REQUIREMENTS</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_OPPONENT_RANGED_SIEGE_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>LK_OPPONENT_RANGED_SIEGE_REQUIREMENTS</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_ATTACKING_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>LK_ENTRENCH_ATTACKING_REQUIREMENTS</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_DEFENDING_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>LK_ENTRENCH_DEFENDING_REQUIREMENTS</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_ATTACKER_OCCUPYING_ALCAZAR_REQUIREMENT</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_ALCAZAR</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_ATTACKER_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_GREAT_WALL</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_FORT_REQUIREMENT</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_FORT</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_ROMAN_FORT_REQUIREMENT</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_ROMAN_FORT</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_ALCAZAR_REQUIREMENT</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_ALCAZAR</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_DEFENDER_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+			<Name>ImprovementType</Name>
+			<Value>IMPROVEMENT_GREAT_WALL</Value>
+		</Row>
+		<Row>
+			<RequirementId>LK_BARRAGE_PLOT_REQUIREMENTS_MET</RequirementId>
+			<Name>RequirementSetId</Name>
+			<Value>LK_BARRAGE_PLOT_REQUIREMENTS</Value>
+		</Row>
+	</RequirementArguments>
+	<RequirementSetRequirements>
+		<!-- Air Units -->
+		<Row>
+			<RequirementSetId>WILD_WEASEL_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_ANTI_AIR_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>COUNTERMEASURES_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_FIGHTER_UNIT_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>GUIDED_BOMBS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_FORTIFIED</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>CARPET_BOMBING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>STRATEGIC_BOMBING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_DISTRICT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>CARPET_BOMBING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_LAND_UNIT_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>AIR_SUPERIORITY_FIGHTER_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_GROUND_ATTACK_UNIT_REQUIREMENTS</RequirementId>
+		</Row>
+		<!--Naval Ranged-->
+		<Row>
+			<RequirementSetId>BOMBARD_VS_NAVAL_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>BOMBARD_VS_NAVAL_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_NAVAL_UNIT_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>BOMBARD_VS_LAND_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>BOMBARD_VS_LAND_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_LAND_UNIT_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>BOMBARD_VS_DISTRICT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>BOMBARD_VS_DISTRICT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_DISTRICT_IS_DEFENDED_REQUIREMENTS</RequirementId>
+		</Row>
+		<!-- Marines -->
+		<Row>
+			<RequirementSetId>RIVER_PATROL_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_MARSH_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>RIVER_PATROL_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_ADJACENT_TO_RIVER</RequirementId>
+		</Row>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row>
+			<RequirementSetId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_IS_PROMOTION_CLASS_MELEE</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_ANTI_CAVALRY_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_OPPONENT_RANGED_SIEGE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_RANGED_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_OPPONENT_RANGED_SIEGE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>OPPONENT_SIEGE_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_FUSILLADE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS_MET</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_FUSILLADE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_COUNTER_FIRE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_OPPONENT_RANGED_SIEGE_REQUIREMENTS_MET</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_COUNTER_FIRE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_ENTRENCH_ATTACKING_REQUIREMENTS_MET</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_ENTRENCH_DEFENDING_REQUIREMENTS_MET</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS_MET</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_ATTACKER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS_MET</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_DEFENDER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>UNIT_IS_OCCUPYING_FORT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>UNIT_IS_OCCUPYING_ROMAN_FORT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_ATTACKER_OCCUPYING_ALCAZAR_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_ATTACKER_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_ATTACKING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>ATTACKER_IS_OCCUPYING_DISTRICT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_DEFENDER_OCCUPYING_FORT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_DEFENDER_OCCUPYING_ROMAN_FORT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_DEFENDER_OCCUPYING_ALCAZAR_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>LK_DEFENDER_OCCUPYING_GREAT_WALL_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_ENTRENCH_DEFENDING_PLOT_REQUIREMENTS</RequirementSetId>
+			<RequirementId>DEFENDER_IS_OCCUPYING_DISTRICT_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_OVERWATCH_BONUS_CLOSE_DEFENSE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLAYER_IS_DEFENDER_REQUIREMENTS</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>LK_OVERWATCH_BONUS_CLOSE_DEFENSE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MELEE_COMBAT_REQUIREMENTS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+	<ModifierStrings>
+		<!-- Air Units -->
+		<Row ModifierId="WILD_WEASEL_BONUS_VS_ANTIAIR" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_WILD_WEASEL_NAME} {LOC_PROMOTION_WILD_WEASEL_DESCRIPTION}"/>
+		<Row ModifierId="COUNTERMEASURES_BONUS_VS_FIGHTERS" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_COUNTERMEASURES_NAME} {LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION}"/>
+		<Row ModifierId="GUIDED_BOMBS_BONUS_VS_FORTIFIED" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_GUIDED_BOMBS_NAME} {LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION}"/>
+		<Row ModifierId="STRATEGIC_BOMBING_VS_DISTRICTS" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_STRATEGIC_BOMBING_NAME} {LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION}"/>
+		<Row ModifierId="CARPET_BOMBING_BONUS_VS_LAND" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_CARPET_BOMBING_NAME} {LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION}"/>
+		<Row ModifierId="ASF_BONUS_VS_GROUND_ATTACK" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME} {LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION}"/>
+		<!-- Naval Bombard -->
+		<Row ModifierId="BOMBARD_BONUS_VS_NAVAL" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME} {LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION}"/>
+		<Row ModifierId="BOMBARD_BONUS_VS_LAND" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_BOMBARD_VS_LAND_NAME} {LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION}"/>
+		<Row ModifierId="BOMBARD_BONUS_VS_DISTRICT_DEFENSES" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME} {LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION}"/>
+		<!-- Marines -->
+		<Row ModifierId="RIVER_PATROL_COMBAT_BONUS" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_RIVER_PATROL_NAME} {LOC_PROMOTION_RIVER_PATROL_DESCRIPTION}"/>
+		<Row ModifierId="EXPEDITIONARY_FORCE_FOREIGN_COMBAT" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME} {LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION}"/>
+		<Row ModifierId="RESERVE_FORCES_CONTINENT_COMBAT" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_RESERVE_FORCES_NAME} {LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION}"/>
+		<Row ModifierId="COMBINED_ARMS_NO_REDUCTION_DAMAGE" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_COMBINED_ARMS_NAME} {LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION}"/>
+		<Row ModifierId="CORPSMEN_BONUS_HEALTH" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_CORPSMEN_NAME} {LOC_PROMOTION_CORPSMEN_DESCRIPTION}"/>
+		<Row ModifierId="ELITE_RAIDER_STRONG_WHEN_ATTACKING" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_ELITE_RAIDER_NAME} {LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION}"/>
+		<!-- Automatic Gun - Created by Laurana Kanan -->
+		<Row ModifierId="LK_FUSILLADE_RANGED_VS_MELEE_ANTI_CAV" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_FUSILLADE_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		<Row ModifierId="LK_COUNTER_FIRE_VS_RANGED_SIEGE" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_COUNTER_FIRE_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		<Row ModifierId="LK_MANTLET_BONUS_VS_RANGED_COMBAT" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_MANTLET_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		<Row ModifierId="LK_ENTRENCH_BONUS_IN_DISTRICT" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_ENTRENCH_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		<Row ModifierId="LK_MARKSMAN_BONUS_VS_LAND" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_MARKSMAN_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		<Row ModifierId="LK_OVERWATCH_BONUS_CLOSE_DEFENSE" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_OVERWATCH_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		<Row ModifierId="LK_FIRE_AND_MANEUVER_BONUS_VS_DISTRICT_DEFENSES" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+	</ModifierStrings>
+</GameData>
