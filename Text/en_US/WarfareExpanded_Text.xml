@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Land Units -->
+		<Row Tag="LOC_UNIT_ARMORED_INFANTRY_NAME">
+			<Text>Armored Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION">
+			<Text>Atomic era mounted infantry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME">
+			<Text>Composite Bowman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION">
+			<Text>Ancient era ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BOWMAN">
+			<Text>Own 3 Composite Bowman.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN">
+			<Text>You look to machinery to improve the performance of your sizable contingent of ranged troops.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CULVERIN_NAME">
+			<Text>Culverin</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CULVERIN_DESCRIPTION">
+			<Text>Renaissance era ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_GUN_NAME">
+			<Text>Field Gun</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION">
+			<Text>Modern era ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_INFANTRY_NAME">
+			<Text>Heavy Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION">
+			<Text>Clasical era melee unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME">
+			<Text>Armored Horseman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION">
+			<Text>Hard-hitting, Clasical era heavy cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_REITER_NAME">
+			<Text>Reiter</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_REITER_DESCRIPTION">
+			<Text>Hard-hitting, Renaissance era heavy cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANDSHIP_NAME">
+			<Text>Landship</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANDSHIP_DESCRIPTION">
+			<Text>Hard-hitting, Modern era heavy cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLED_CANNON_NAME">
+			<Text>Heavy Cannon</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION">
+			<Text>Industrial era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_NAME">
+			<Text>Heavy Howitzer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION">
+			<Text>Atomic era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LINE_INFANTRY_NAME">
+			<Text>Line Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION">
+			<Text>Industrial era melee unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_INFANTRY_NAME">
+			<Text>Early Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_INFANTRY_DESCRIPTION">
+			<Text>Modern era melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_HOWITZER_NAME">
+			<Text>Field Howitzer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_HOWITZER_DESCRIPTION">
+			<Text>Atomic era ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_ARTILLERY_NAME">
+			<Text>Field Artillery</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_ARTILLERY_DESCRIPTION">
+			<Text>Information era ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HARQUEBUSIER_NAME">
+			<Text>Harquebusier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION">
+			<Text>Fast-moving Renaissance era light cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_INFANTRY_NAME">
+			<Text>Modern Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_INFANTRY_DESCRIPTION">
+			<Text>Information Era Melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_RIFLE_NAME">
+			<Text>Anti-tank Rifle Team</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_RIFLE_DESCRIPTION">
+			<Text>Modern era melee unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_GUN_NAME">
+			<Text>Anti-tank Artillery</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTI_TANK_GUN_DESCRIPTION">
+			<Text>Industrial era anti-cavalry unit that's effective against mounted units and aircraft.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOUNTED_RIFLES_NAME">
+			<Text>Mounted Rifles</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOUNTED_RIFLES_DESCRIPTION">
+			<Text>Modern era mounted infantry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARQUEBUSIER_NAME">
+			<Text>Arquebusier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION">
+			<Text>Renaissance era fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AXE_THROWER_NAME">
+			<Text>Javelineer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AXE_THROWER_DESCRIPTION">
+			<Text>Medieval era fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PELTAST_NAME">
+			<Text>Psiloi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PELTAST_DESCRIPTION">
+			<Text>Classical era fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_NAME">
+			<Text>Pike and Shot</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_DESCRIPTION">
+			<Text>Renaissance era melee unit that's effective against mounted units.</Text>
+		</Row>
+		<!-- Air Units -->
+		<Row Tag="LOC_UNIT_WW1_BOMBER_NAME">
+			<Text>Early Bomber</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION">
+			<Text>First bomber unit, available in the Modern era.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_BOMBER_NAME">
+			<Text>Stealth Bomber</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION">
+			<Text>Future era bomber unit with stealth capability.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_NAME">
+			<Text>Stealth Fighter</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION">
+			<Text>Future era Jet Fighter upgrade with stealth capability.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME">
+			<Text>Early Ground Attack</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION">
+			<Text>First ground attack unit, available in the Modern era.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GROUND_ATTACK_NAME">
+			<Text>Ground Attack</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION">
+			<Text>Atomic era Early Ground Attack upgrade.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME">
+			<Text>Jet Ground Attack</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION">
+			<Text>Information era Ground Attack upgrade.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_ATTACK_NAME">
+			<Text>Stealth Ground Attack</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION">
+			<Text>Future era Jet Ground Attack upgrade with stealth capability.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME">
+			<Text>Air Attack</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WILD_WEASEL_NAME">
+			<Text>Wild Weasel</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when defending vs. anti-air.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_NAME">
+			<Text>Countermeasures</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength vs. fighter class units.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SORTIES_NAME">
+			<Text>Air Sorties</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION">
+			<Text>Can heal after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME">
+			<Text>Guided Bombs</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength vs. fortified defender.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME">
+			<Text>Strategic Bombing</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION">
+			<Text>+12 [ICON_Strength] Combat Strength vs. district defenses.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_NAME">
+			<Text>Carpet Bombing</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Combat Strength vs. land units.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME">
+			<Text>Air Superiority Fighter</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength vs. ground attack class units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UAV_NAME">
+			<Text>Unmanned Aerial Vehicle</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UAV_DESCRIPTION">
+			<Text>Information era attack drone.</Text>
+		</Row>
+		<!-- Naval Units -->
+		<Row Tag="LOC_UNIT_RAIDER_NAME">
+			<Text>Merchant Raider</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAIDER_DESCRIPTION">
+			<Text>Industrial era naval raider unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORVETTE_NAME">
+			<Text>Corvette</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CORVETTE_DESCRIPTION">
+			<Text>Fast Renaissance era melee naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_NAME">
+			<Text>Guided Missile Destroyer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION">
+			<Text>Strongest melee naval unit. Reveals submarines within sight range.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPERCARRIER_NAME">
+			<Text>Supercarrier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION">
+			<Text>Information era melee naval unit that can transport air units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEASS_NAME">
+			<Text>Galleass</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+			<Text>Medieval era ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CRUISER_NAME">
+			<Text>Armored Cruiser</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION">
+			<Text>Industrial era ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLECRUISER_NAME">
+			<Text>Battlecruiser</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION">
+			<Text>Modern era ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEON_NAME">
+			<Text>Carrack</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEON_DESCRIPTION">
+			<Text>Medieval era naval bombard unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME">
+			<Text>Ship Of The Line</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION">
+			<Text>Renaissance era naval bombard unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME">
+			<Text>Pre-Dreadnought Battleship</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION">
+			<Text>Industrial era naval bombard unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME">
+			<Text>Naval Bombard</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION">
+			<Text>Cancels out the bombard penalty against land units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Increase bombard by +17 for Naval Bombard Units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME">
+			<Text>Attack Submarine</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION">
+			<Text>Information era melee naval unit. Cannot be seen unless adjacent to it. Has a +15 [ICON_Strength] attack bonus vs Naval Raider units and a +7 [ICON_Strength] vs other warships.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME">
+			<Text>Naval Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION">
+			<Text>Mechanized Industrial era amphibious naval infantry unit. Specialized in assault from the sea.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW2_MARINE_NAME">
+			<Text>Marine</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION">
+			<Text>Mechanized Atomic era amphibious naval infantry unit. Specialized in assault from the sea.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_MARINE_NAME">
+			<Text>Modern Marine</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION">
+			<Text>Mechanized Information era amphibious naval infantry unit. Specialized in assault from the sea.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MARINE_NAME">
+			<Text>Marine Amphibious Training</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MARINE_DESCRIPTION">
+			<Text>Marines suffer no [ICON_Strength] Combat Strength and [ICON_Movement] Movement penalty when attacking from sea or river and +10 [ICON_Strength] Combat Strength when fighting on costal tiles.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME">
+			<Text>Naval Bombard</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME">
+			<Text>Naval Bombard vs Naval Units</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] Bombard Strength vs. naval units.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME">
+			<Text>Naval Bombard Extra Movement</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME">
+			<Text>Naval Bombard vs Land Units</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] Bombard Strength vs. land units.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME">
+			<Text>Naval Bombard vs Districts</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION">
+			<Text>+10 [ICON_Bombard] Bombard Strength vs. district defenses.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME">
+			<Text>Naval Bombard Heal Outside</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION">
+			<Text>Heal outside of friendly territory.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME">
+			<Text>Naval Bombard vs Air Units</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength when defending vs. air attacks.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME">
+			<Text>Naval Bombard Move After Attack</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION">
+			<Text>Can move after performing an attack.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MARINE_NAME">
+			<Text>Marines</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RIVER_PATROL_NAME">
+			<Text>Marine River Patrol</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength on Marshes and adjacent Rivers.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COAST_GUARD_NAME">
+			<Text>Marine Amphibious Recon</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION">
+			<Text>A unit with this promotion can scale Cliff walls.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME">
+			<Text>Marine Expeditionary Force</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength on foreign or enemy territory.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_NAME">
+			<Text>Marine Reserve</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength in friendly territory.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_NAME">
+			<Text>Marine Combined Arms</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION">
+			<Text>No combat penalty when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CORPSMEN_NAME">
+			<Text>Marine Corpsmen</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION">
+			<Text>Heal every turn even if an action was made.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_NAME">
+			<Text>Marine Elite Raider</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when attacking and can move after attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting on costal tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME">
+			<Text>Hunter Killer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION">
+			<Text>Hunter Killer submarines have a +15 [ICON_Strength] attack bonus vs Naval Raider units and a +7 [ICON_Strength] vs other warships.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Combat Strength attacking Naval Raider units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength attacking non Naval Raider units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME">
+			<Text>Greek Fire Dromon</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION">
+			<Text>Clasical era naval bombard unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME">
+			<Text>Torpedo Gunboat</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION">
+			<Text>Modern era naval melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_CRUISER_NAME">
+			<Text>Light Cruiser</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION">
+			<Text>Modern era naval ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNOUGHT_NAME">
+			<Text>Dreadnought</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION">
+			<Text>Modern era naval bombard unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME">
+			<Text>Railgun Warship</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION">
+			<Text>Information era naval bombard unit.</Text>
+		</Row>
+		<!-- Deliverator's Units -->
+		<Row Tag="LOC_UNIT_EXPLORER_NAME">
+			<Text>Explorer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
+			<Text>Fast-moving Renaissance Era Recon unit. Ignores rivers when moving and has no disembark cost.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
+			<Text>Longswordsman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
+			<Text>Medieval Era Melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLEMAN_NAME">
+			<Text>Rifleman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
+			<Text>Industrial Era Melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_NAME">
+			<Text>Trebuchet</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+			<Text>Medieval Era Siege unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
+			<Text>Courser</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
+			<Text>Medieval Era Light Cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
+			<Text>Cuirassier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
+			<Text>Industrial Era Heavy Cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GATLING_GUN_NAME">
+			<Text>Gatling Gun</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
+			<Text>Industrial Era Fire Support unit. Bonus [ICON_Strength] Combat Strength against Melee, Anti-Cavalry and Light Cavalry units. Cannot move and attack on the same turn unless the Fire and Maneuver Promotion has been earned.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_NAME">
+			<Text>Cog</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COG_DESCRIPTION">
+			<Text>Medieval Era Naval Melee unit.</Text>
+		</Row>
+		<!-- Created by Laurana Kanan for LKs Units (18.02.10) -->
+		<!-- New promotion class for Steel & Thunder Automatic Guns -->
+		<Row Tag="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME">
+			<Text>Fire Support</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FUSILLADE_NAME">
+			<Text>Fusillade</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION">
+			<Text>+4 [ICON_Ranged] Ranged Strength when attacking melee and anti-cavalry class.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_COUNTER_FIRE_NAME">
+			<Text>Counter Fire</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION">
+			<Text>+6 [ICON_Ranged] Ranged Strength when attacking range and siege class.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MANTLET_NAME">
+			<Text>Mantlet</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MANTLET_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength when defending against ranged attacks.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_ENTRENCH_NAME">
+			<Text>Entrench</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when defending in, or attacking from, a district or fort.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MARKSMAN_NAME">
+			<Text>Marksman</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] Ranged Strength when attacking land units.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_OVERWATCH_NAME">
+			<Text>Overwatch</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION">
+			<Text>Exercise Zone of Control and +5 [ICON_Strength] Combat Strength when defending against close-quarter attacks.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME">
+			<Text>Fire and Maneuver</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION">
+			<Text>Can attack after moving and +5 [ICON_Ranged] Ranged Strength when attacking district defenses.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_NAME">
+			<Text>Fire Support</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_DESCRIPTION">
+			<Text>Provides adjacent Cavalry units +4 [ICON_Strength] Combat Strength when attacking, adjacent Anti-Cavalry units +4 [ICON_Strength] Combat Strength when defending, and adjacent Melee units a flat +2 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_CAV_DESCRIPTION">
+			<Text>+{1_Amount} Support Fire from adjacent Automatic Gun (when attacking).</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_ANTICAV_DESCRIPTION">
+			<Text>+{1_Amount} Support Fire from adjacent Automatic Gun (when defending).</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION">
+			<Text>+{1_Amount} Support Fire from adjacent Automatic Gun.</Text>
+		</Row>
+		<Row Tag="LOC_PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} strength vs Melee, Anti-cav and Light Cavalry.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

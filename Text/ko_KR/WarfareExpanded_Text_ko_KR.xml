@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_NAME" Language="ko_KR">
+			<Text>차량화 보병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 차량에 탑승한 보병(경기병)유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME" Language="ko_KR">
+			<Text>합궁병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION" Language="ko_KR">
+			<Text>고전시대의 원거리 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_BOWMAN" Language="ko_KR">
+			<Text>3기의 합궁병을 보유하십시오.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN" Language="ko_KR">
+			<Text>많은 수의 합궁병을 보유했지만, 아직도 부족한점이 많습니다. 기계장치를 사용해보는건 어떨까요?</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_NAME" Language="ko_KR">
+			<Text>컬버린포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스 시대의 원거리유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_NAME" Language="ko_KR">
+			<Text>암스트롱포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 원거리 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_NAME" Language="ko_KR">
+			<Text>중장보병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION" Language="ko_KR">
+			<Text>고전시대의 대기병유닛으로, 전차 및 말에 탑승한 유닛에게 효과적입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME" Language="ko_KR">
+			<Text>중장기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION" Language="ko_KR">
+			<Text>고전시대의 중기병 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_NAME" Language="ko_KR">
+			<Text>흑기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스시대의 중기병 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_NAME" Language="ko_KR">
+			<Text>지상함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 중기병 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_NAME" Language="ko_KR">
+			<Text>공성포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 공성유닛으로 도시공격에 효과적입니다. 전문승무원 진급을 선택하기전에는 이동후 공격을 할수 없습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_NAME" Language="ko_KR">
+			<Text>중곡사포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 공성유닛으로 도시공격에 효과적입니다. 전문승무원 진급을 선택하기전에는 이동후 공격을 할수 없습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_NAME" Language="ko_KR">
+			<Text>전열보병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 대기병유닛으로, 전차, 차량 및 말에 탑승한 유닛에게 효과적입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_NAME" Language="ko_KR">
+			<Text>1차 세계대전 보병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 근접유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_NAME" Language="ko_KR">
+			<Text>경곡사포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 원거리유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_NAME" Language="ko_KR">
+			<Text>야전포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 원거리유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="ko_KR">
+			<Text>용기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스 시대의 경기병 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_NAME" Language="ko_KR">
+			<Text>현대 보병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 근접유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_NAME" Language="ko_KR">
+			<Text>대전차 소총</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 대기병유닛으로 전차, 차량 및 말에 탑승한 유닛에게 효과적입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_NAME" Language="ko_KR">
+			<Text>대전차포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 대기병유닛으로 전차, 차량 및 말에 탑승한 유닛에게 효과적입니다. 대공기능또한 보유하고 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_NAME" Language="ko_KR">
+			<Text>기마보병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 말에 탑승한 보병(경기병)유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_NAME" Language="ko_KR">
+			<Text>화승총병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스시대의 화력지원 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THROWER_NAME" Language="ko_KR">
+			<Text>도끼투척병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THROWER_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 화력지원 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_NAME" Language="ko_KR">
+			<Text>투창병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_DESCRIPTION" Language="ko_KR">
+			<Text>고전시대의 화력지원 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_NAME" Language="ko_KR">
+			<Text>파이크와 총</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스시대의 대기병유닛으로 말에 탑승한 유닛에게 효과적입니다.</Text>
+		</Replace>
+		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_NAME" Language="ko_KR">
+			<Text>1차 세계대전 폭격기</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대에 등장하는 첫번째 폭격기 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_NAME" Language="ko_KR">
+			<Text>스텔스 폭격기</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대보다 진보된 폭격기 유닛입니다. 스텔스능력을 갖추고 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_NAME" Language="ko_KR">
+			<Text>스텔스 전투기</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대보다 진보된 전투기 유닛입니다. 스텔스능력을 갖추고 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME" Language="ko_KR">
+			<Text>1차 세계대전 건쉽</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대에 등장하는 첫번째 건쉽 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_NAME" Language="ko_KR">
+			<Text>건쉽</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 건쉽 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME" Language="ko_KR">
+			<Text>제트 건쉽</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 건쉽 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_NAME" Language="ko_KR">
+			<Text>스텔스 건쉽</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대보다 진보된 건쉽 유닛입니다. 스텔스능력을 갖추고 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME" Language="ko_KR">
+			<Text>건쉽</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_NAME" Language="ko_KR">
+			<Text>와일드 위슬</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION" Language="ko_KR">
+			<Text>지대공유닛 대항시 방어력[ICON_Strength] +10 추가.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_NAME" Language="ko_KR">
+			<Text>대비책</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION" Language="ko_KR">
+			<Text>전투기유닛 대항시 전투력[ICON_Strength] +7 추가.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_NAME" Language="ko_KR">
+			<Text>빠른 재정비</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION" Language="ko_KR">
+			<Text>공격후 체력을 회복할 수 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME" Language="ko_KR">
+			<Text>유도폭탄</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION" Language="ko_KR">
+			<Text>방어중인 유닛 상대시 전투력보너스[ICON_Strength] +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Language="ko_KR">
+			<Text>전략 폭격</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Language="ko_KR">
+			<Text>방어력이 존재하는 특수지구 공격시 전투력보너스[ICON_Strength] +12.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_NAME" Language="ko_KR">
+			<Text>융단폭격</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Language="ko_KR">
+			<Text>지상유닛을 상대시 전투력보너스[ICON_Strength] +15.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Language="ko_KR">
+			<Text>공역 통제</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Language="ko_KR">
+			<Text>건쉽유닛을 상대시 전투력보너스 [ICON_Strength] +7.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_NAME" Language="ko_KR">
+			<Text>무인 전투기</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 원거리 전투드론입니다.</Text>
+		</Replace>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_UNIT_RAIDER_NAME" Language="ko_KR">
+			<Text>위장 상선</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 해상습격유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_NAME" Language="ko_KR">
+			<Text>코르벳</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스시대의 해상근접유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_NAME" Language="ko_KR">
+			<Text>미사일 구축함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 해상근접 유닛으로 시야 범위내의 잠수함을 드러냅니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_NAME" Language="ko_KR">
+			<Text>대형 항공모함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 항공모함으로 더 많은 함재기를 수납할수 있습니다(함재기가 존재하는 상태에서 업그레이드를 하면 수납했던 함재기가 소멸됩니다!)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_NAME" Language="ko_KR">
+			<Text>갈레아스</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 해상원거리 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_NAME" Language="ko_KR">
+			<Text>장갑순양함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 해상원거리 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_NAME" Language="ko_KR">
+			<Text>전투순양함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 해상원거리 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_NAME" Language="ko_KR">
+			<Text>갈레온</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 해상포격 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME" Language="ko_KR">
+			<Text>전열함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스시대의 해상포격 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME" Language="ko_KR">
+			<Text>전드레드노트</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 해상포격 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME" Language="ko_KR">
+			<Text>해상포격</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION" Language="ko_KR">
+			<Text>지상유닛에 대한 포격공격 전투패널티가 없습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION" Language="ko_KR">
+			<Text>해상포격 유닛의 지상유닛 포격 보너스전투력 +17.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME" Language="ko_KR">
+			<Text>전투잠수함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 원거리 강습용 해상 유닛입니다. 바로 옆이 아닌 경우 보이지 않습니다. 같은 해상강습계열(잠수함류) 유닛을 공격시 전투력보너스 +15, 그 외 해상유닛을 공격시 전투력보너스 +7을 받습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME" Language="ko_KR">
+			<Text>해군 보병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 기계화된 수륙양용보병 유닛입니다. 해안강습에 특화되어있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_NAME" Language="ko_KR">
+			<Text>해병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 기계화된 수륙양용보병 유닛입니다. 해안강습에 특화되어있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_NAME" Language="ko_KR">
+			<Text>현대 해병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 기계화된 수륙양용보병 유닛입니다. 해안강습에 특화되어있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_NAME" Language="ko_KR">
+			<Text>해병 수륙양용 훈련</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_DESCRIPTION" Language="ko_KR">
+			<Text>수륙양용보병유닛은 강과 바다에서 전투력[ICON_Strength]과 이동력[ICON_Movement]패널티를 받지않으며, 육지와 인접한 해안에서 전투력[ICON_Strength] +10 보너스를 받습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME" Language="ko_KR">
+			<Text>해상 포격</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME" Language="ko_KR">
+			<Text>해상유닛대비</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION" Language="ko_KR">
+			<Text>해상유닛을 상대시 전투력[ICON_Bombard] +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME" Language="ko_KR">
+			<Text>추가이동력</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION" Language="ko_KR">
+			<Text>이동력[ICON_Movement] +1.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME" Language="ko_KR">
+			<Text>지상유닛대비</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION" Language="ko_KR">
+			<Text>지상유닛 상대시 전투력[ICON_Bombard] +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME" Language="ko_KR">
+			<Text>특수지구공격 강화</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION" Language="ko_KR">
+			<Text>방어력이 있는 특수지구 상대시 전투력보너스[ICON_Bombard] +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME" Language="ko_KR">
+			<Text>해상보급</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION" Language="ko_KR">
+			<Text>우호적인 영해가 아닌곳에서도 체력을 회복할 수 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME" Language="ko_KR">
+			<Text>대공강화</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION" Language="ko_KR">
+			<Text>공중유닛 대항시 전투력보너스[ICON_Strength] +7.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME" Language="ko_KR">
+			<Text>공격후 이동</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION" Language="ko_KR">
+			<Text>공격후 이동력이 남아있다면 이동이 가능합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_MARINE_NAME" Language="ko_KR">
+			<Text>해병</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_NAME" Language="ko_KR">
+			<Text>강 순찰</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION" Language="ko_KR">
+			<Text>강과 습지에서 전투력보너스[ICON_Strength] +7.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_NAME" Language="ko_KR">
+			<Text>수륙양용 정찰</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION" Language="ko_KR">
+			<Text>절벽을 올라갈수 있게됩니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME" Language="ko_KR">
+			<Text>원정대</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION" Language="ko_KR">
+			<Text>외국 또는 적 영토에 진입시 전투력보너스[ICON_Strength] +7.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_NAME" Language="ko_KR">
+			<Text>비축</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION" Language="ko_KR">
+			<Text>아군영토에서 전투력보너스[ICON_Strength] +7.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_NAME" Language="ko_KR">
+			<Text>결합된 무기체계</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION" Language="ko_KR">
+			<Text>부상으로 인한 전투력패널티를 받지않습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_NAME" Language="ko_KR">
+			<Text>응급처치</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION" Language="ko_KR">
+			<Text>이동 또는 전투를 했어도 매턴의 끝마다 체력을 회복합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_NAME" Language="ko_KR">
+			<Text>정예 침입자</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION" Language="ko_KR">
+			<Text>추가 전투력[ICON_Strength] +10, 공격 후 이동이 가능합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION" Language="ko_KR">
+			<Text>육지와 인접한 해안에서 전투력보너스[ICON_Strength] +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME" Language="ko_KR">
+			<Text>이리떼</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION" Language="ko_KR">
+			<Text>원거리 강습용 해상유닛은 같은 원거리 강습용 해상유닛을 상대시 전투력보너스[ICON_Strength] +15를 얻으며, 그외에 모든 유형의 해상유닛을 상대시 전투력보너스[ICON_Strength] +7을 얻습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION" Language="ko_KR">
+			<Text>원거리 강습용 해상유닛 상대시 전투력보너스[ICON_Strength] +15</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION" Language="ko_KR">
+			<Text>원거리 강습용 해상유닛이 아닌 모든 해상유닛 상대시 전투력보너스[ICON_Strength] +7</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME" Language="ko_KR">
+			<Text>그리스의 불 드로몬</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION" Language="ko_KR">
+			<Text>고전시대의 해상포격유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME" Language="ko_KR">
+			<Text>어뢰정</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 해상근접 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_NAME" Language="ko_KR">
+			<Text>경순양함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 해상원거리 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_NAME" Language="ko_KR">
+			<Text>드레드노트</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 해상포격 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME" Language="ko_KR">
+			<Text>레일건 전함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 해상포격 유닛입니다.</Text>
+		</Replace>
+		<!-- Deliverator's Units -->
+		<Replace Tag="LOC_UNIT_EXPLORER_NAME" Language="ko_KR">
+			<Text>탐험가</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EXPLORER_DESCRIPTION" Language="ko_KR">
+			<Text>빠르게 이동하는 르네상스시대의 정찰유닛입니다. 강 이동력 패널티와 승선시 이동력패널티를 받지않습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_NAME" Language="ko_KR">
+			<Text>장검병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 근접유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_NAME" Language="ko_KR">
+			<Text>소총병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 근접유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_NAME" Language="ko_KR">
+			<Text>트레뷰셋</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 공성유닛으로 도시공격에 효과적입니다. 전문승무원 진급을 선택하기전에는 이동후 공격을 할수 없습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME" Language="ko_KR">
+			<Text>군마</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 경기병 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_NAME" Language="ko_KR">
+			<Text>흉갑기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 중기병 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_NAME" Language="ko_KR">
+			<Text>개틀링 기관총</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 화력지원 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_NAME" Language="ko_KR">
+			<Text>코그</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 해상근접 유닛입니다.</Text>
+		</Replace>
+		<!-- Created by Laurana Kanan for LKs Units (18.02.10) -->
+		<!-- New promotion class for Steel & Thunder Automatic Guns -->
+		<Replace Tag="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME" Language="ko_KR">
+			<Text>화력지원</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_NAME" Language="ko_KR">
+			<Text>일제사격</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION" Language="ko_KR">
+			<Text>근접 및 대기병유닛 상대시 전투력보너스[ICON_Ranged] +4.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_NAME" Language="ko_KR">
+			<Text>맞대응</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION" Language="ko_KR">
+			<Text>원거리 및 공성유닛 상대시 전투력보너스[ICON_Ranged] +6.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_NAME" Language="ko_KR">
+			<Text>짧은 망토</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_DESCRIPTION" Language="ko_KR">
+			<Text>원거리유닛의 공격 방어시 전투력보너스[ICON_Strength] +7.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_NAME" Language="ko_KR">
+			<Text>참호</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION" Language="ko_KR">
+			<Text>방어태세일때 또는 특수지구 공격 방어시 전투력보너스[ICON_Strength] +10.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_NAME" Language="ko_KR">
+			<Text>사격의 달인</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION" Language="ko_KR">
+			<Text>지상유닛 공격시 전투력보너스[ICON_Ranged] +7.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_NAME" Language="ko_KR">
+			<Text>오버워치</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION" Language="ko_KR">
+			<Text>ZOC를 형성하며, 근접공격 방어시 전투력보너스[ICON_Strength] +5.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME" Language="ko_KR">
+			<Text>공격과 책략</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION" Language="ko_KR">
+			<Text>공격 후 이동이 가능하며, 방어력이 있는 특수지구 공격시 전투력보너스[ICON_Ranged] +5.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_NAME" Language="ko_KR">
+			<Text>화력지원</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>인접한 기병유닛은 공격시 +4의 전투력보너스[ICON_Strength]를 받으며, 인접한 대기병유닛은 방어시 +4의 전투력보너스[ICON_Strength]를 받으며, 인접한 근접유닛은 +2의 전투력보너스[ICON_Strength]를 받습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_CAV_DESCRIPTION" Language="ko_KR">
+			<Text>+{1_Amount} 화력지원 보너스 (공격시).</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_ANTICAV_DESCRIPTION" Language="ko_KR">
+			<Text>+{1_Amount} 화력지원 보너스 (방어시).</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION" Language="ko_KR">
+			<Text>+{1_Amount} 화력지원 보너스.</Text>
+		</Replace>
+		<Replace Tag="LOC_PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC" Language="ko_KR">
+			<Text>+{1_Amount} 근접,대기병,경기병유닛 대항 보너스전투력.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

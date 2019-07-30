@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_NAME" Language="de_DE">
+			<Text>Mechanisierte Infanterie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION" Language="de_DE">
+			<Text>Mechanisierte Nahkampfeinheit des Atomzeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME" Language="de_DE">
+			<Text>Kompositbogenschütze</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION" Language="de_DE">
+			<Text>Fernkampfeinheit der Antike.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_BOWMAN" Language="de_DE">
+			<Text>Besitze 3 Kompositbogenschützen.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN" Language="de_DE">
+			<Text>Sie schauen zu Maschinen um die Leistung ihres beträchtlichen Truppenkontingents zu verbessern.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_NAME" Language="de_DE">
+			<Text>Feldschlange</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_DESCRIPTION" Language="de_DE">
+			<Text>Fernkampfeinheit der Renaissance.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_NAME" Language="de_DE">
+			<Text>Feldartillerie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION" Language="de_DE">
+			<Text>Fernkampfeinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_NAME" Language="de_DE">
+			<Text>Schwere Infanterie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampf-Kavallerie-Abwehr der Klassik.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME" Language="de_DE">
+			<Text>Panzerreiter</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION" Language="de_DE">
+			<Text>Schwere und starke Kavallerie Einheit der Klassik.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_NAME" Language="de_DE">
+			<Text>Reiter</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_DESCRIPTION" Language="de_DE">
+			<Text>Schwere und starke Kavallerie Einheit der Renaissance.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_NAME" Language="de_DE">
+			<Text>Landschlachtschiff</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_DESCRIPTION" Language="de_DE">
+			<Text>Schwere und Starke Kavallerie Einheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_NAME" Language="de_DE">
+			<Text>Schweres Geschütz</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION" Language="de_DE">
+			<Text>Bombardierungseinheit des Industriezeitalters, ideal um Städte anzugreifen. Kann sich nicht in der selben Runde bewegen und angreifen außer mit der Experten-Beförderung.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_NAME" Language="de_DE">
+			<Text>Schwere Haubitze</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION" Language="de_DE">
+			<Text>Bombardierungseinheit des Atomzeitalters, ideal um Städte anzugreifen. Kann sich nicht in der selben Runde bewegen und angreifen außer mit der Experten-Beförderung.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_NAME" Language="de_DE">
+			<Text>Linieninfanterie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampf-Kavallerie-Abwehr des Industriezeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_NAME" Language="de_DE">
+			<Text>Frühe Infanterie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampfeinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_NAME" Language="de_DE">
+			<Text>Feldhaubitze</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_DESCRIPTION" Language="de_DE">
+			<Text>Fernkampfeinheit des Atomzeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_NAME" Language="de_DE">
+			<Text>Feldartillerie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_DESCRIPTION" Language="de_DE">
+			<Text>Fernkampfeinheit des Informationszeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="de_DE">
+			<Text>Arkebusierreiter</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="de_DE">
+			<Text>Schnelle leichte Kavallerieeinheit der Renaissance.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_NAME" Language="de_DE">
+			<Text>Moderne Infanterie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampfeinheit des Informationszeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_NAME" Language="de_DE">
+			<Text>Panzerbüchsen-Einheit</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampf-Kavallerie-Abwehr der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_NAME" Language="de_DE">
+			<Text>Panzerabwehrkanone</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_DESCRIPTION" Language="de_DE">
+			<Text>Anti-Kavallerie Einheit des Industriezeitalters. Effektiv gegen Kavallerie und Flugzeuge.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_NAME" Language="de_DE">
+			<Text>Berittene Infanterie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_DESCRIPTION" Language="de_DE">
+			<Text>Berittene Nahkampfeinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_NAME" Language="de_DE">
+			<Text>Arkebusier</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION" Language="de_DE">
+			<Text>Feuerunterstützung der Renaissance.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THReplaceER_NAME" Language="de_DE">
+			<Text>Javelineer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THReplaceER_DESCRIPTION" Language="de_DE">
+			<Text>Feuerunterstützung des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_NAME" Language="de_DE">
+			<Text>Psiloi</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_DESCRIPTION" Language="de_DE">
+			<Text>Feuerunterstützung der Antike.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_NAME" Language="de_DE">
+			<Text>Spanische Ordonnanz</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampf-Kavallerie-Abwehr der Renaissance.</Text>
+		</Replace>
+		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_NAME" Language="de_DE">
+			<Text>Früher Bomber</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION" Language="de_DE">
+			<Text>Erste Bomber-Einheit, verfügbar in der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_NAME" Language="de_DE">
+			<Text>Tarnkappenbomber</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION" Language="de_DE">
+			<Text>Bomber-Einheit mit Stealthtechnik.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_NAME" Language="de_DE">
+			<Text>Tarnkappenflugzeug</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION" Language="de_DE">
+			<Text>Mehrzweckkampfflugzeug mit Stealthtechnik.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME" Language="de_DE">
+			<Text>Sturzkampfbomber</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION" Language="de_DE">
+			<Text>Erstes Erdkampfflugzeug, verfügbar in der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_NAME" Language="de_DE">
+			<Text>Jagdbomber</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION" Language="de_DE">
+			<Text>Upgrade der Erdkampfflugzeuge im Atomzeitalter.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME" Language="de_DE">
+			<Text>Strahlgetriebener Jagdbomber</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION" Language="de_DE">
+			<Text>Upgrade der Jagdbomber im Informationszeitalter.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_NAME" Language="de_DE">
+			<Text>Tarnkappenjagdbomber</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION" Language="de_DE">
+			<Text>Upgrade der Jagdbomber mit Stealthtechnik.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME" Language="de_DE">
+			<Text>Air Attack</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_NAME" Language="de_DE">
+			<Text>Wild Weasel</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION" Language="de_DE">
+			<Text>+10 [ICON_Strength] Kampfstärke bei Verteidigung gegen Luftabwehr.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_NAME" Language="de_DE">
+			<Text>Gegenmaßnahmen</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION" Language="de_DE">
+			<Text>+7 [ICON_Strength] Kampfstärke gegen Kampfflugzeuge.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_NAME" Language="de_DE">
+			<Text>Air Sorties</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION" Language="de_DE">
+			<Text>Kann nach Angriff heilen.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME" Language="de_DE">
+			<Text>Guided Bombs</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION" Language="de_DE">
+			<Text>+10 [ICON_Strength] Kampfstärke gegen verschanzte Verteidiger.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Language="de_DE">
+			<Text>Strategic Bombing</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Language="de_DE">
+			<Text>+12 [ICON_Strength] Kampfstärke gegen Bezirk-Verteidigung.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_NAME" Language="de_DE">
+			<Text>Carpet Bombing</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Language="de_DE">
+			<Text>+15 [ICON_Strength] Kampfstärke gegen Landeinheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Language="de_DE">
+			<Text>Air Superiority Fighter</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Language="de_DE">
+			<Text>+7 [ICON_Strength] Kampfstärke gegen Jagdbomber.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_NAME" Language="de_DE">
+			<Text>Kampfdrohne</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_DESCRIPTION" Language="de_DE">
+			<Text>Kampfdrohneneinheit des Informationszeitalters.</Text>
+		</Replace>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_UNIT_RAIDER_NAME" Language="de_DE">
+			<Text>Handelsräuber</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Raubeinheit des Industriezeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_NAME" Language="de_DE">
+			<Text>Korvette</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_DESCRIPTION" Language="de_DE">
+			<Text>Schnelle Marine-Nahkampfeinheit der Renaissance.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_NAME" Language="de_DE">
+			<Text>Lenkwaffenzerstörer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION" Language="de_DE">
+			<Text>Stärkste Marine-Nahkampfeinheit. Deckt U-Boote in Sichtweite auf.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_NAME" Language="de_DE">
+			<Text>Flottenflugzeugträger</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Kampfeinheit des Informationszeitalters zum Flugzeugtransport.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_NAME" Language="de_DE">
+			<Text>Galeasse</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Fernkampfeinheit des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_NAME" Language="de_DE">
+			<Text>Panzerkreuzer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Fernkampfeinheit des Industriezeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_NAME" Language="de_DE">
+			<Text>Schlachtkreuzer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Fernkampfeinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_NAME" Language="de_DE">
+			<Text>Galeone</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Bombardierungseinheit des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME" Language="de_DE">
+			<Text>Linienschiff</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Bombardierungseinheit der Renaissance.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME" Language="de_DE">
+			<Text>Einheitslinienschiff</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Bombardierungseinheit des Industriezeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME" Language="de_DE">
+			<Text>Marine Bombardierung</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION" Language="de_DE">
+			<Text>Eleminiert die Bombardierungs-Strafe gegen Landeinheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION" Language="de_DE">
+			<Text>Verstärkt Bombardierung um +17 für Marine-Bombardierungseinheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME" Language="de_DE">
+			<Text>Jäger-Killer-U-Boot</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Nahkampfeinheit des Informationszeitalters. Cannot be seen unless adjacent to it. Ein +15 [ICON_Strength] Kampfbonus gegen Marine-Räubereinheiten und ein +7 [ICON_Strength] gegen andere Kampfschiffe.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME" Language="de_DE">
+			<Text>Marine Infanterie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION" Language="de_DE">
+			<Text>Amphibische mechanisierte Marine-Infanterieeinheit des Industriezeitalters. Spezialisiert im Angriff von Wasser.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_NAME" Language="de_DE">
+			<Text>Marinesicherungstruppen</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION" Language="de_DE">
+			<Text>Amphibische mechanisierte Marine-Infanterieeinheit des Atomzeitalters. Spezialisiert im Angriff von Wasser.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_NAME" Language="de_DE">
+			<Text>Moderne Spezialkräfte Marine</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION" Language="de_DE">
+			<Text>Amphibische mechanisierte Marine-Infanterieeinheit des Informationszeitalters. Spezialisiert im Angriff von Wasser.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_NAME" Language="de_DE">
+			<Text>Amphibisches Marine Training</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Infanterieeinheiten bekommen keine [ICON_Strength] Kampfstärke und [ICON_Movement] Bewegungs-Strafe bei Angriff von See aus und +10 [ICON_Strength] Kampfstärke bei Kampf auf Küsten-Geländefeldern.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME" Language="de_DE">
+			<Text>Marine Bombardement</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME" Language="de_DE">
+			<Text>Marine Bombardement gegen Marine Einheiten</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION" Language="de_DE">
+			<Text>+10 [ICON_Bombard] Kampfstärke gegen Marine Einheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME" Language="de_DE">
+			<Text>Marine Bombardement extra Reichweite</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION" Language="de_DE">
+			<Text>+1 [ICON_Movement] Bewegungsreichweite.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME" Language="de_DE">
+			<Text>Marine Bombardement gegen Landeinheiten</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION" Language="de_DE">
+			<Text>+10 [ICON_Bombard] Kampfstärke gegen Landeinheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME" Language="de_DE">
+			<Text>Marine Bombardement gegen Bezirke</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION" Language="de_DE">
+			<Text>+10 [ICON_Bombard] Kampfstärke gegen Bezirk-Verteidigung.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME" Language="de_DE">
+			<Text>Marine Bombardement heilt Außerhalb</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION" Language="de_DE">
+			<Text>Heilung außerhalb von freundlichem Gebiet.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME" Language="de_DE">
+			<Text>Marine Bombardement gegen Lufteinheiten</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION" Language="de_DE">
+			<Text>+7 [ICON_Strength] Kampfstärke bei Verteidigung gegen Luftangriffe.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME" Language="de_DE">
+			<Text>Marine Bombardement Bewegung nach Angriff</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION" Language="de_DE">
+			<Text>Einheit kann nach Angriff Bewegung ausführen.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_MARINE_NAME" Language="de_DE">
+			<Text>Marines</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_NAME" Language="de_DE">
+			<Text>Marines Flusspatrouille</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION" Language="de_DE">
+			<Text>+7 [ICON_Strength] Kampfstärke auf Schwemmland mit benachbarten Flüssen.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_NAME" Language="de_DE">
+			<Text>Marine Amphibious Recon</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION" Language="de_DE">
+			<Text>Kann Klippen besteigen.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME" Language="de_DE">
+			<Text>Marine Expeditionary Force</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION" Language="de_DE">
+			<Text>+7 [ICON_Strength] Kampfstärke auf Feindgebiet.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_NAME" Language="de_DE">
+			<Text>Marine Reserve</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION" Language="de_DE">
+			<Text>+7 [ICON_Strength] Kampfstärke auf freundlichem Gebiet.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_NAME" Language="de_DE">
+			<Text>Marine Combined Arms</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION" Language="de_DE">
+			<Text>Keine Kampfstärke-Strafe bei beschädigung.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_NAME" Language="de_DE">
+			<Text>Marine Corpsmen</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION" Language="de_DE">
+			<Text>Heal every turn even if an action was made.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_NAME" Language="de_DE">
+			<Text>Marine Elite Raider</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION" Language="de_DE">
+			<Text>+10 [ICON_Strength] Combat Strength when attacking and can move after attacking.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION" Language="de_DE">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting on costal tiles.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME" Language="de_DE">
+			<Text>Hunter Killer</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION" Language="de_DE">
+			<Text>Hunter Killer submarines have a +15 [ICON_Strength] attack bonus vs Naval Raider units and a +7 [ICON_Strength] vs other warships.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION" Language="de_DE">
+			<Text>+15 [ICON_Strength] Combat Strength attacking Naval Raider units.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION" Language="de_DE">
+			<Text>+7 [ICON_Strength] Combat Strength attacking non Naval Raider units.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME" Language="de_DE">
+			<Text>Griechisches Feuer Spritzenschiff</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Bombardierungseinheit der Klassik.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME" Language="de_DE">
+			<Text>Torpedoboot</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Nahkampfeinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_NAME" Language="de_DE">
+			<Text>Leichter Kreuzer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Fernkampfeinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_NAME" Language="de_DE">
+			<Text>Großkampfschiff</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Bombardierungseinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME" Language="de_DE">
+			<Text>Railgun Zerstörer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Bombardierungseinheit des Informationszeitalters.</Text>
+		</Replace>
+		<!-- Deliverator's Units -->
+		<Replace Tag="LOC_UNIT_EXPLORER_NAME" Language="de_DE">
+			<Text>Explorer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EXPLORER_DESCRIPTION" Language="de_DE">
+			<Text>Fast-moving Renaissance Era Recon unit. Ignores rivers when moving and has no disembark cost.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_NAME" Language="de_DE">
+			<Text>Langschwertkämpfer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampfeinheit des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_NAME" Language="de_DE">
+			<Text>Gewehrschütze</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION" Language="de_DE">
+			<Text>Nahkampfeinheit des Industriezeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_NAME" Language="de_DE">
+			<Text>Blide</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_DESCRIPTION" Language="de_DE">
+			<Text>Bombardierungseinheit des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME" Language="de_DE">
+			<Text>Renner</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION" Language="de_DE">
+			<Text>Leichte Kavallerie Einheit des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_NAME" Language="de_DE">
+			<Text>Kürassier</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION" Language="de_DE">
+			<Text>Schwere Kavallerie Einheit des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_NAME" Language="de_DE">
+			<Text>Gatling-Repetiergeschütz</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION" Language="de_DE">
+			<Text>Feuerunterstützung des Industriezeitalters. Bonus [ICON_Strength] Kampfstärke gegen Nahkampf, Kavallerie-Abwehr und leichten Kavallerie Einheiten. Kann nicht Bewegung und Angriff in der selben Runde ausführen außer mit Feuer und Manöver Promotion.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_NAME" Language="de_DE">
+			<Text>Kogge</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_DESCRIPTION" Language="de_DE">
+			<Text>Marine-Nahkampfeinheit des Mittelalters.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

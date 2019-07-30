@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="zh_Hans_HK">
+			<Text>火力支援班</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代火力支援單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="zh_Hans_HK">
+			<Text>先進火力支援班</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代火力支援單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_NAME" Language="zh_Hans_HK">
+			<Text>武裝直升機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>快速移動的信息時代反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="zh_Hans_HK">
+			<Text>妳期待通過建造來提高妳龐大遠程部隊的表現。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>印度獨有的古典時期單位，取代甲胄騎兵。敵對單位-5 [ICON_STRENGTH] 近戰攻擊力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代火力支援單位。對近戰、反騎兵和輕騎兵單位的戰鬥強度加值[ICON_Strength]。除非獲得射擊和機動提升，否則不能移動和攻擊同壹個回合。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSEMAN_NAME" Language="zh_Hans_HK">
+			<Text>騎手</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>文藝複興反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>快速移動的原子能重騎兵單位，忽略區域控制。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME" Language="zh_Hans_HK">
+			<Text>主戰坦克</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代支援單位。相鄰遠程單位+1攻擊範圍[ICON_Range]。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARTILLERY_NAME" Language="zh_Hans_HK">
+			<Text>大炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代騎兵單位。</Text>
+		</Replace>
+		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代早期轟炸機升級。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BIPLANE_NAME" Language="zh_Hans_HK">
+			<Text>近代戰鬥機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代早期戰鬥機升級。</Text>
+		</Replace>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀快速探索近戰海軍單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子時代海軍近戰單位。在視線範圍內可探海軍突襲單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子時代海軍轟炸單位。提供掩護從空中到核攻擊最多1格以外。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="zh_Hans_HK">
+			<Text>核潛艇</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

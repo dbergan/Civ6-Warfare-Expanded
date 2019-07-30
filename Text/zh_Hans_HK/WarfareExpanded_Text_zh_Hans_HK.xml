@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_NAME" Language="zh_Hans_HK">
+			<Text>摩托化步兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME" Language="zh_Hans_HK">
+			<Text>複合弓手</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>古典時代遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_BOWMAN" Language="zh_Hans_HK">
+			<Text>擁有3個複合弓手。</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN" Language="zh_Hans_HK">
+			<Text>妳指望機械來提高妳龐大的遠程部隊的表現。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_NAME" Language="zh_Hans_HK">
+			<Text>蛇炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>文藝複興時代遠程。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_NAME" Language="zh_Hans_HK">
+			<Text>近代野戰炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_NAME" Language="zh_Hans_HK">
+			<Text>重裝方陣</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>古典時代反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME" Language="zh_Hans_HK">
+			<Text>甲胄騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>強力的古典時代重騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_NAME" Language="zh_Hans_HK">
+			<Text>黑騎士</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>強力的文藝複興時代重騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_NAME" Language="zh_Hans_HK">
+			<Text>陸地巡洋艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>強力的現代重騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_NAME" Language="zh_Hans_HK">
+			<Text>膛線炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代攻城單位，非常適合進攻城市。不能在同壹個回合移動和攻擊，除非他們獲得了專家團隊的晉升。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_NAME" Language="zh_Hans_HK">
+			<Text>原子炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子時代攻城單位，非常適合進攻城市。不能在同壹個回合移動和攻擊，除非他們獲得了專家團隊的晉升。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_NAME" Language="zh_Hans_HK">
+			<Text>線列步兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_NAME" Language="zh_Hans_HK">
+			<Text>近代步兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_NAME" Language="zh_Hans_HK">
+			<Text>野戰榴彈炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_NAME" Language="zh_Hans_HK">
+			<Text>先進野戰炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="zh_Hans_HK">
+			<Text>火繩槍騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>快速移動的文藝複興時代輕騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_NAME" Language="zh_Hans_HK">
+			<Text>先進步兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_NAME" Language="zh_Hans_HK">
+			<Text>反坦克步槍</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_NAME" Language="zh_Hans_HK">
+			<Text>反坦克炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_NAME" Language="zh_Hans_HK">
+			<Text>卡賓槍騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_NAME" Language="zh_Hans_HK">
+			<Text>火繩槍手</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>文藝複興火力支援單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THROWER_NAME" Language="zh_Hans_HK">
+			<Text>散兵陣</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THROWER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀火力支援單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_NAME" Language="zh_Hans_HK">
+			<Text>標槍步兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>古典時代火力支援單位。</Text>
+		</Replace>
+		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_NAME" Language="zh_Hans_HK">
+			<Text>近代轟炸機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代第壹級轟炸機單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_NAME" Language="zh_Hans_HK">
+			<Text>隱身轟炸機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>擁有隱身能力的未來轟炸機單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_NAME" Language="zh_Hans_HK">
+			<Text>隱身戰鬥機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>擁有隱身能力的未來戰鬥機升級。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME" Language="zh_Hans_HK">
+			<Text>近代攻擊機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代第壹級攻擊機單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_NAME" Language="zh_Hans_HK">
+			<Text>地面攻擊機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代攻擊機升級。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME" Language="zh_Hans_HK">
+			<Text>噴氣式攻擊機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代攻擊機升級。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_NAME" Language="zh_Hans_HK">
+			<Text>隱身攻擊機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>擁有隱身能力的未來時代攻擊機升級。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME" Language="zh_Hans_HK">
+			<Text>空中打擊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_NAME" Language="zh_Hans_HK">
+			<Text>野鼬鼠</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗防空單位+10戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_NAME" Language="zh_Hans_HK">
+			<Text>對抗措施</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗戰鬥機單位+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_NAME" Language="zh_Hans_HK">
+			<Text>起飛架次</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>攻擊後可治愈。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME" Language="zh_Hans_HK">
+			<Text>制導炸彈</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗駐紮單位+10戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Language="zh_Hans_HK">
+			<Text>戰略轟炸</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗區域防禦+12戰鬥力 [ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_NAME" Language="zh_Hans_HK">
+			<Text>地毯式轟炸</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗陸地單位+15戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Language="zh_Hans_HK">
+			<Text>制空戰鬥機</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗地面攻擊機單位+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_NAME" Language="zh_Hans_HK">
+			<Text>無人攻擊機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代無人攻擊機。</Text>
+		</Replace>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_UNIT_CORVETTE_NAME" Language="zh_Hans_HK">
+			<Text>海防艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>快速文藝複興時代海軍近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_NAME" Language="zh_Hans_HK">
+			<Text>導彈驅逐艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>強力海軍近戰單位。視野內反潛作戰。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_NAME" Language="zh_Hans_HK">
+			<Text>超級航母</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代海軍載機近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_NAME" Language="zh_Hans_HK">
+			<Text>三桅帆戰艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀時代海軍遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_NAME" Language="zh_Hans_HK">
+			<Text>裝甲巡洋艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代海軍遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_NAME" Language="zh_Hans_HK">
+			<Text>戰鬥巡洋艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代海軍遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_NAME" Language="zh_Hans_HK">
+			<Text>大帆戰艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀時代海軍轟炸單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME" Language="zh_Hans_HK">
+			<Text>主力艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>文藝複興時代轟炸單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME" Language="zh_Hans_HK">
+			<Text>前無畏艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代海軍轟炸單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME" Language="zh_Hans_HK">
+			<Text>海上炮擊</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>消除對土地單位的轟炸損益。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗海軍轟炸單位+17攻擊力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME" Language="zh_Hans_HK">
+			<Text>攻擊型潛艇</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代海軍近戰單位。不可發現除非相鄰。對抗海軍劫掠單位+15攻擊力[ICON_Strength]，對抗其他海軍單位+7 [ICON_Strength]攻擊力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME" Language="zh_Hans_HK">
+			<Text>海軍步兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代的水陸兩棲步兵單位。專門從事海上攻擊。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_NAME" Language="zh_Hans_HK">
+			<Text>海軍陸戰隊</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代的水陸兩棲步兵單位。專門從事海上攻擊。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_NAME" Language="zh_Hans_HK">
+			<Text>先進海軍陸戰隊</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代的水陸兩棲步兵單位。專門從事海上攻擊。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_NAME" Language="zh_Hans_HK">
+			<Text>海軍陸戰隊兩棲訓練</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>海軍陸戰隊從海上或河流發起進攻時忽略戰鬥力[ICON_Strength]和移動[ICON_Movement]損益並且位于沿岸地格作戰時+10戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME" Language="zh_Hans_HK">
+			<Text>海上對抗</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME" Language="zh_Hans_HK">
+			<Text>攻擊海上單位</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗海軍+10戰鬥力[ICON_Bombard]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME" Language="zh_Hans_HK">
+			<Text>額外航程</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>+1移動力[ICON_Movement]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME" Language="zh_Hans_HK">
+			<Text>對陸攻擊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗陸地單位+10戰鬥力[ICON_Bombard]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME" Language="zh_Hans_HK">
+			<Text>區域對抗</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗區域防禦+10戰鬥力[ICON_Bombard]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME" Language="zh_Hans_HK">
+			<Text>補給線</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>位于友軍領土外治愈。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME" Language="zh_Hans_HK">
+			<Text>防空作戰</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗空襲單位+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME" Language="zh_Hans_HK">
+			<Text>特遣艦隊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>攻擊後可移動。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_MARINE_NAME" Language="zh_Hans_HK">
+			<Text>海軍陸戰隊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_NAME" Language="zh_Hans_HK">
+			<Text>內河巡邏隊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>位于沼澤或河岸作戰時+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_NAME" Language="zh_Hans_HK">
+			<Text>強力偵搜隊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>此次晉升能使單位翻山越嶺。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME" Language="zh_Hans_HK">
+			<Text>遠征特遣隊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>位于外國或敵國領土作戰時+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_NAME" Language="zh_Hans_HK">
+			<Text>海上禁區</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>位于友軍領土作戰+7戰鬥[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_NAME" Language="zh_Hans_HK">
+			<Text>海上聯合作戰</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>受傷時作戰沒有戰鬥損益。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_NAME" Language="zh_Hans_HK">
+			<Text>海岸警衛隊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>行動伊始每回合獲得治愈。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_NAME" Language="zh_Hans_HK">
+			<Text>海豹部隊</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>攻擊時+10戰鬥力[ICON_Strength]且可在攻擊後移動。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>沿岸作戰+10戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME" Language="zh_Hans_HK">
+			<Text>獵殺</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗海軍劫掠單位+15戰鬥力[ICON_Strength]，對抗其他戰艦+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗海軍劫掠單位+15戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗海軍非劫掠單位+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME" Language="zh_Hans_HK">
+			<Text>希臘火帆</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>古典時代海軍轟炸單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME" Language="zh_Hans_HK">
+			<Text>魚雷快艇</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代海軍近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_NAME" Language="zh_Hans_HK">
+			<Text>輕巡洋艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代海軍遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_NAME" Language="zh_Hans_HK">
+			<Text>無畏艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代海軍轟炸單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME" Language="zh_Hans_HK">
+			<Text>軌道炮戰艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代海軍轟炸單位。</Text>
+		</Replace>
+		<!-- Deliverator's Units -->
+		<Replace Tag="LOC_UNIT_EXPLORER_NAME" Language="zh_Hans_HK">
+			<Text>探索者</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EXPLORER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>快速移動文藝複興時代偵查單位，位于河流移動和裝卸時沒有損益.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_NAME" Language="zh_Hans_HK">
+			<Text>長劍士</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_NAME" Language="zh_Hans_HK">
+			<Text>來複槍兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代近戰單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_NAME" Language="zh_Hans_HK">
+			<Text>重型抛石機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀攻城單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME" Language="zh_Hans_HK">
+			<Text>輕騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀輕騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_NAME" Language="zh_Hans_HK">
+			<Text>胸甲騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代重騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_NAME" Language="zh_Hans_HK">
+			<Text>加特林機槍</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代火力支援單位。對抗近戰、反騎兵、輕騎兵單位有戰鬥獎勵[ICON_Strength]。除非獲得射擊和機動晉升，否則不能在同壹回合移動和攻擊。</Text>
+		</Replace>
+		<!-- Created by Laurana Kanan for LKs Units (18.02.10) -->
+		<!-- New promotion class for Steel & Thunder Automatic Guns -->
+		<Replace Tag="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME" Language="zh_Hans_HK">
+			<Text>火力支援</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_NAME" Language="zh_Hans_HK">
+			<Text>齊射</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗近戰和反騎兵單位時+4攻擊範圍[ICON_Ranged]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_NAME" Language="zh_Hans_HK">
+			<Text>火力對抗</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗遠程和攻城單位時+6攻擊範圍[ICON_Ranged]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_NAME" Language="zh_Hans_HK">
+			<Text>掩體</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>防禦時對抗遠程單位+7戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_NAME" Language="zh_Hans_HK">
+			<Text>戰壕</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>駐紮區域或堡壘防禦作戰時+10戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_NAME" Language="zh_Hans_HK">
+			<Text>神槍手</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>對抗陸地單位+7攻擊範圍[ICON_Ranged]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_NAME" Language="zh_Hans_HK">
+			<Text>掩護</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>建立區域控制並在對抗近距攻擊時+5戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME" Language="zh_Hans_HK">
+			<Text>機動火力</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>攻擊後可移動，對抗區域防禦時+5攻擊範圍[ICON_Ranged]。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_NAME" Language="zh_Hans_HK">
+			<Text>火力支援</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>爲相鄰處于進攻狀態騎兵單位提供+4戰鬥力[ICON_Strength]，相鄰處于防禦的反騎兵單位+4戰鬥力[ICON_Strength]，相鄰位于平原的近戰單位+2戰鬥力[ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_CAV_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>從相鄰機槍(攻擊時) +{1_Amount} 火力支援。</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_ANTICAV_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>從相鄰機槍(防禦時) +{1_Amount} 火力支援。</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>從相鄰機槍 +{1_Amount} 火力支援。</Text>
+		</Replace>
+		<Replace Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC" Language="zh_Hans_HK">
+			<Text>+{1_Amount} 對抗近戰、反騎兵、輕騎兵。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

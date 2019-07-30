@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_NAME" Language="ru_RU">
+			<Text>Ранняя мотопехота</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION" Language="ru_RU">
+			<Text>Юнит ближнего боя эпохи Атома.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME" Language="ru_RU">
+			<Text>Стрелки с композитным луком</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный юнит Древнего мира.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_NAME" Language="ru_RU">
+			<Text>Кулеврина</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный юнит эпохи Возрождения.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_NAME" Language="ru_RU">
+			<Text>Полевое орудие</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный юнит Нового времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_NAME" Language="ru_RU">
+			<Text>Штурмовое орудие</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный юнит эпохи Атома.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_NAME" Language="ru_RU">
+			<Text>Самоходная пушка</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный юнит Информационной эры.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_NAME" Language="ru_RU">
+			<Text>Тяжелая пехота</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION" Language="ru_RU">
+			<Text>Античный юнит ближнего боя эффективный против всадников.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_NAME" Language="ru_RU">
+			<Text>Противотанковая САУ</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_DESCRIPTION" Language="ru_RU">
+			<Text>Юнит ближнего боя эпохи Атома эффективный против кавалерийских соединений позднего образца.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_NAME" Language="ru_RU">
+			<Text>Уланы</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_DESCRIPTION" Language="ru_RU">
+			<Text>Быстрая лёгкая кавалерия эпохи Возрождения.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_NAME" Language="ru_RU">
+			<Text>Бронемашина</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_DESCRIPTION" Language="ru_RU">
+			<Text>Быстрая лёгкая кавалерия Нового времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_NAME" Language="ru_RU">
+			<Text>Бронированная кавалерия</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_DESCRIPTION" Language="ru_RU">
+			<Text>Быстрая лёгкая кавалерия эпохи Атома.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME" Language="ru_RU">
+			<Text>Тяжёлая конница</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION" Language="ru_RU">
+			<Text>Тяжёлое кавалерийское подразделение Античности.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_NAME" Language="ru_RU">
+			<Text>Рейтеры</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_DESCRIPTION" Language="ru_RU">
+			<Text>Тяжёлое кавалерийское подразделение эпохи Возрождения.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_NAME" Language="ru_RU">
+			<Text>Ландшип</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_DESCRIPTION" Language="ru_RU">
+			<Text>Тяжёлое кавалерийское подразделение Нового времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_NAME" Language="ru_RU">
+			<Text>Ранний бомбардировщик</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION" Language="ru_RU">
+			<Text>Первый бомбардировщик, доступный в эпоху Нового времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_NAME" Language="ru_RU">
+			<Text>Стелс-бомбардировщик</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION" Language="ru_RU">
+			<Text>Бомбардировщик будущего, оснащённый стелс-технологией.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_NAME" Language="ru_RU">
+			<Text>Стелс-истребитель</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION" Language="ru_RU">
+			<Text>Истребитель будущего, оснащённый стелс-технологией.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME" Language="ru_RU">
+			<Text>Ранний штурмовик</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION" Language="ru_RU">
+			<Text>Первый штурмовик, доступный в эпоху Нового времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_NAME" Language="ru_RU">
+			<Text>Штурмовик</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION" Language="ru_RU">
+			<Text>Воздушный юнит ближнего боя, доступный в эпоху Атома.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME" Language="ru_RU">
+			<Text>Реактивный штурмовик</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION" Language="ru_RU">
+			<Text>Воздушный юнит ближнего боя, доступный в Информационную эру.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_NAME" Language="ru_RU">
+			<Text>Стелс-штурмовик</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION" Language="ru_RU">
+			<Text>Штурмовик будущего, оснащённый стелс-технологией.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME" Language="ru_RU">
+			<Text>Воздушная атака</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_NAME" Language="ru_RU">
+			<Text>Дикие ласки</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION" Language="ru_RU">
+			<Text>+10 к [ICON_Strength] боевой мощи при защите от противовоздушных юнитов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_NAME" Language="ru_RU">
+			<Text>Контрмеры</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION" Language="ru_RU">
+			<Text>+7 к [ICON_Strength] боевой мощи против истребителей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_NAME" Language="ru_RU">
+			<Text>Воздушные вылазки</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION" Language="ru_RU">
+			<Text>Юнит может лечиться после атаки.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME" Language="ru_RU">
+			<Text>Корректируемые авиабомбы</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION" Language="ru_RU">
+			<Text>+10 к [ICON_Strength] боевой мощи против укрепившихся защитников.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Language="ru_RU">
+			<Text>Стратегическая бомбардировка</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Language="ru_RU">
+			<Text>+12 к [ICON_Strength] боевой мощи против укреплений района.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_NAME" Language="ru_RU">
+			<Text>Ковровая бомбардировка</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Language="ru_RU">
+			<Text>+15 к [ICON_Strength] боевой мощи против наземных юнитов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Language="ru_RU">
+			<Text>Воздушное превосходство</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Language="ru_RU">
+			<Text>+7 к [ICON_Strength] боевой мощи против штурмовиков.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_NAME" Language="ru_RU">
+			<Text>Корвет</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_DESCRIPTION" Language="ru_RU">
+			<Text>Быстрый морской юнит ближнего боя эпохи Возрождения.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_NAME" Language="ru_RU">
+			<Text>Ракетный эсминец</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION" Language="ru_RU">
+			<Text>Сильнейший морской юнит. Обнаруживает подводные лодки в пределах поля зрения.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_NAME" Language="ru_RU">
+			<Text>Гигантский авианосец</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION" Language="ru_RU">
+			<Text>Тяжёлый авианосец Информационной эры с большей вместимостью.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_NAME" Language="ru_RU">
+			<Text>Галеас</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный морской юнит Средневековья.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_NAME" Language="ru_RU">
+			<Text>Броненосный крейсер</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный морской юнит Промышленной эры.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_NAME" Language="ru_RU">
+			<Text>Линейный крейсер</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION" Language="ru_RU">
+			<Text>Дальнобойный морской юнит Нового времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_NAME" Language="ru_RU">
+			<Text>Галеон</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_DESCRIPTION" Language="ru_RU">
+			<Text>Мощный дальнобойный морской юнит Средневековья.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME" Language="ru_RU">
+			<Text>Линейный корабль</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION" Language="ru_RU">
+			<Text>Мощный дальнобойный морской юнит эпохи Возрождения.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME" Language="ru_RU">
+			<Text>Дредноут</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION" Language="ru_RU">
+			<Text>Мощный дальнобойный морской юнит Промышленной эры.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME" Language="ru_RU">
+			<Text>Морская бомбардировка</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION" Language="ru_RU">
+			<Text>Отменяет штрафы за бомбардировку против юнитов.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION" Language="ru_RU">
+			<Text>Увеличивает силу бомбардировки на +17 для тяжёлых морских юнитов.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_BOWMAN" Language="ru_RU">
+			<Text>Создайте трёх стрелков с композитным луком.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN" Language="ru_RU">
+			<Text>Изготовление большого количества композитных луков натолкнуло вас на мысль о более сложных механизмах.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

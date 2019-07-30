@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>摩托化騎兵是配備半履帶、裝甲運兵車(APCs)或步兵戰車(IFVs)用于運輸和戰鬥(也見機械化部隊)的步兵。裝甲步兵與摩托化步兵的區別在于，裝甲步兵的車輛在壹定程度上能抵禦敵方火力，而不是機動步兵的“軟皮”輪式車輛(卡車或吉普車)。裝甲步兵支援武器也提供機動運輸，或直接建造在戰鬥車輛中，以跟上裝甲步兵在戰鬥中的步伐。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>複合弓被廣泛認爲是所有弓箭設計中最複雜的壹種，它與其他傳統的弓不同之處在于它是由骨頭、角或其他材料粘合在壹起，形成壹個非常堅固的弓。複合弓被認爲起源于公元前壹或二千年的亞洲遊牧部落。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>蛇炮是毛瑟槍相對簡單的前身，後來是中世紀大炮，在15世紀被法國人使用，後來在16世紀後期被英國人海軍使用。卡韋林被用來從遠處轟擊目標。這種武器有壹個相對較長的槍管和壹個較輕的結構。卡韋林發射實心圓彈，炮口初速高，射程較遠，彈道較平。圓形炮彈指的是經典的球形炮彈。總的來說，蛇炮是壹個重大的進步。由于它發射的是鐵球，依靠火藥來推進，重球意味著相對穩定的飛行，火藥推進意味著快速和遠程。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>野戰炮是壹種火炮。最初這個術語指小槍可以陪野戰軍在3月和在戰鬥中可以移動的戰場上應對不斷變化的環境(野戰炮兵),而不是槍安裝在(要塞炮兵/海岸炮兵)堡或攻城大炮和迫擊炮迅速太大,和只用于長期圍攻。通過在戰鬥中逐點移動槍支，敵軍編隊可以在步兵集結的任何地方被分解，大大提高了步兵的整體戰鬥力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>方陣步兵是指訓練有素的全副武裝的步兵，接受正面攻擊和(或)固定戰線防禦中心的訓練。這使他們有別于中型或輕型步兵，中型或輕型步兵是相對機動和輕型裝甲的小規模戰鬥部隊，目的是檢查，偵察和其他不適合較重的士兵的角色。由于20世紀戰場戰術、小武器和防彈衣技術的進步，重步兵的概念已經基本過時了。因此，“重步兵”壹詞幾乎總是指前火藥時代的軍隊。在古希臘，Hoplite是壹種常見的重步兵形式。希羅多德描述了阿契美尼德帝國軍隊中壹支由10000名士兵組成的精銳步兵部隊。亞曆山大的軍隊雇傭了被稱爲“指骨軍”的步兵——裝備著小盾牌和長長矛的士兵，組成了薩瑞薩方陣。在前瑪麗安羅馬共和國的重裝步兵包括海主軍、普林西比軍和特裏亞裏軍。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>甲胄騎兵是古代歐亞大陸西部和歐亞大草原上許多民族在古代戰爭中使用的壹種重裝甲騎兵。英語單詞源自希臘語Kataphraktos(複數形式:Kataphraktoi)，字面意思是“裝甲的”或“完全封閉的”。從曆史上看，卡塔弗拉斯特是壹名全副武裝的騎士，騎手和駿馬從頭到腳都披著鱗甲，通常都是用康托斯或長矛作爲武器。甲胄騎兵是大多數帝國和國家的精銳騎兵或突擊部隊，主要用于沖鋒以突破步兵編隊。從古代的早期到中世紀的鼎盛時期，許多曆史學家都有記載，他們被認爲通過與拜占庭帝國的接觸影響了後來的歐洲騎士。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>黑騎士(德國:德國騎兵,或horserider,縮短從原來的“南部Reiter”勾當,“黑騎士”的顔色,他們的盔甲)是壹個類型的騎兵,在西歐的軍隊在16世紀的過時lance-armed騎士,同時鐵騎軍和龍騎兵開始實現類型區別其他種類的騎兵。黑騎士將火器提升到主要武器的地位，與早期主要依靠近戰武器的西歐重型騎兵形成對比。雷特家的主要武器是兩支或多支手槍和壹把劍;大多數人都戴著頭盔和鐵甲，胳膊和腿上通常都有額外的盔甲;有時他們還攜帶著壹種被稱爲火繩槍或卡賓槍的長騎兵武器(盡管這種類型的騎兵很快就被認爲是單獨的騎兵——火繩槍騎兵或英國火繩槍騎兵)。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>第壹次世界大戰期間，坦克的發展是對西線僵局的回應。雖然坦克的基本原理(裝甲、火力和全地形機動)在戰前的十年左右的時間裏就已經被設計出來了，但是在塹壕戰開始的時候造成了驚人的巨大傷亡，才刺激了發展。英國和法國都進行了研究，德國只是姗姗來遲地跟隨盟國的腳步。最初的坦克在機械上不可靠。在作戰部署和運輸過程中，有壹些問題造成了相當大的人員流失率。傳統的車輛無法通過重裝炮彈的地形，只有馬克和費茨這樣高度機動的坦克表現得相當好。Mark I的菱形外形、履帶和26英尺(8米)的長度意味著它可以穿越障礙物，尤其是寬闊的壕溝，而輪式車輛則不能。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>到1855年，膛線炮炮筒內的螺旋滑翔線在火炮上的應用更加頻繁，因爲它提供了火炮彈體的陀螺穩定性，從而提高了炮彈的精度。阿姆斯特朗意識到用後膛加農炮刺穿鐵的難度更大，于是他設計了帶膛線的炮，結果證明它是成功的;《泰晤士報》報道說:“即使是最相信我們現在的鐵甲軍堅不可摧的人也不得不承認，在這樣的射程內，他們的裝甲和側面幾乎和木船壹樣可以穿透。”西方世界的高炮在戰爭中給他們帶來了巨大的優勢。例如，在19世紀中國的第壹次鴉片戰爭中，英國戰艦從遠處轟炸沿海地區和防禦工事，使中國大炮無法觸及。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>重型榴彈炮是大口徑榴彈炮，裝備有自己的推進系統以向目標移動。它們是高機動性車輛，通常以連續軌道爲基礎，或封閉或覆蓋，並攜帶大口徑榴彈炮。它們通常用于戰場上的遠程間接轟炸支援。現代SP重型火炮具有高度計算機化的能力，能夠使用GPS和慣性導航系統等系統自行測量射擊位置。這與數字火控/彈道計算機和數字通信相結合，使單發炮能夠在廣闊的區域內分散，同時與炮台內的其他炮同時向目標發射炮彈。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>線列步兵是17世紀中期至19世紀中期組成歐洲陸軍的步兵類型。無論是在戰鬥還是閱兵演練中，它都由2到4名步兵組成，他們肩並肩地站成壹條直線，從而最大限度地發揮他們的火力。延伸開來，這個詞就被用來指“前線”的正規兵團，而非散兵、步兵、民兵和其他特殊類型的步兵。行軍步兵在作戰中主要使用三種陣型:行軍陣型、方陣陣型和縱隊陣型。面對周圍的敵軍騎兵，直線步兵可以迅速采用方陣來提供保護。這些正方形是中空的(由四條線組成)，不同于長槍手和老式火槍手的正方形。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>隨著20世紀的開放，世界經曆了人類曆史上最致命和最具破壞性的兩場戰爭。那是壹個殺戮技術突飛猛進的時代，第壹次世界大戰的步兵們面臨著全世界科學家和工程師們所能想到的各種恐怖襲擊。這些士兵通常只裝備了壹把突擊步槍和簡單的制服，他們冒著戰壕戰的危險保衛自己的家園和家庭。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>105毫米M101A1榴彈炮(以前指定爲M2A1)是美國開發和使用的火炮。它是第二次世界大戰中標准的美國輕型野戰榴彈炮，在歐洲和太平洋戰場上都有演出。1941年投入生産後，它迅速贏得了精確性和強大沖擊力的聲譽。M101A1型發射105毫米(4.1英寸)高爆炸(HE)半固定彈藥，射程12330碼(11270米)，適合支援步兵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>105毫米榴彈炮M102用于空中機動(直升機)、攻擊機和輕型步兵作戰。武器車廂是輕質焊接鋁，安裝在壹個可變後座機制。武器是手動裝載和定位的，可以由2噸重的卡車或高機動性多用途輪式車輛(HMMWV)拖曳，可以用UH-60黑鷹直升機運輸，也可以用空降兵空投。當被放置時，榴彈炮的大量火力彌補了彈的低爆炸重量，與陸軍的155毫米和8英寸榴彈炮相比。自1964年以來，陸軍購買了1150輛M102牽引榴彈炮。武器被m119 -系列105毫米榴彈炮取代。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>火繩槍輕騎兵是17世紀早期和中期西歐發現的最常見的騎兵形式。早期的火繩槍騎兵的特點是使用壹種叫做“豎琴”的卡賓槍。根據約翰·克魯索(John Cruso)1632年在他的《騎兵手冊》中所說，“豎琴最早發明于法國”。這種類型的騎兵的特點是使用壹種形式的卡賓槍，最早使用的卡賓槍被稱爲“火槍”(這個詞來源于較重的步兵武器“火槍”)。在16世紀晚期到下個世紀的頭幾十年裏，火繩槍輕騎兵和卡賓槍輕騎兵壹樣被設想爲支持更重的裝甲騎兵、半長矛騎兵或配備手槍的鐵騎軍和騎兵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>近代步兵成爲世界戰場上奪取和控制地面的主要力量，是聯合武器作戰的重要組成部分。隨著火力的繼續增加，使用的步兵線減少，直到所有的步兵在實踐中變成輕步兵。突擊步槍是壹種選擇步槍，使用壹個中間的子彈和壹個可拆卸的彈匣。突擊步槍第壹次使用是在第二次世界大戰期間。盡管西方國家在接受突擊步槍概念方面行動遲緩，但到20世紀末，它們已成爲世界上大多數軍隊的標准武器，在多數場合取代了全動力步槍和沖鋒槍。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>可以說，第壹批反坦克步槍可能是在第壹次世界大戰期間開發的反坦克步槍。反坦克步槍是壹種設計用來穿透裝甲車裝甲的步槍，尤其是坦克。步槍在這方面的用途從第壹次世界大戰坦克的引入壹直到朝鮮戰爭。雖然中型和重型坦克裝甲變得太厚了，無法被單兵攜帶的步槍的剛性炮彈穿透，但反坦克步槍繼續被用于對付其他目標。今天的反材料步槍，如巴雷特M82，是二戰技術的發展。雖然不再能夠穿透主戰坦克的側翼裝甲，但它們能夠對其外部裝備如潛望鏡和機關槍造成嚴重損害，並使裝甲和支撐物較差的車輛、直升機、低空飛行的無人機和人員致殘甚至摧毀。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>反坦克炮是設計用來從防禦陣地摧毀裝甲車的火炮。爲了穿透車輛裝甲，他們用長管炮發射小口徑炮彈，以達到比野戰火炮更高的初速，野戰火炮中有許多是榴彈炮。更高的速度，更平坦的彈道提供終端動能，以穿透移動/靜止目標的裝甲在給定的範圍和接觸角。任何炮管長度比其口徑長15到25倍的野戰火炮也能發射反坦克彈藥，比如蘇聯的A-19。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text>德國引進了更強大的反坦克炮，其中壹些在二戰前還處于早期發展階段。到1942年底，德國人有壹個優秀的50毫米高速設計，同時他們面對QF6磅由英國軍隊在北非戰役中引入，後來被美國軍隊采用。到1943年，國防軍被迫在東線采用更大的口徑，75毫米和著名的88毫米炮。紅軍使用各種45毫米、57毫米和100毫米炮，並在反坦克任務中部署通用76.2毫米和122毫米炮。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>19世紀中期，隨著精確快速步槍的發明，騎兵開始變得越來越脆弱。許多軍隊開始使用可以在馬背上作戰或步行作戰的部隊，視情況而定。騎在馬背上用劍或長矛作戰可以在沒有掩護的情況下快速移動，而用步槍作戰則可以利用掩護和形成防線。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text>在第二次布爾戰爭中，英國人模仿布爾人，並集結了大量自己的步兵。1900年和1901年，帝國約曼裏從英國的志願者中脫穎而出。來自澳大利亞、加拿大和新西蘭的許多特遣隊(例如澳大利亞輕騎兵)是MI(騎兵步兵)，以及“非常規”(當地飼養的)部隊，如帝國輕騎兵和南非輕騎兵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>火繩鈎槍起源于德國的Hakenbuchse，是15世紀出現在歐洲的壹種長槍。雖然arquebus壹詞在15世紀到17世紀被用于許多不同形式的火器，它最初指的是“壹種帶有鈎狀凸出物或耳片的手槍，在射擊時可用于使其與城垛或其他物體保持平衡。”這些“鈎槍”最早出現在15世紀初的德國城牆上，是用來防禦的武器，但到15世紀晚期，它們已成爲手持武器。火繩龍的發展多少與爲弩所開發的技術有關，因爲如果沒有弩杆，火繩鈎槍就不會有壹個穩定的平台可以依靠。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>中世紀的散兵陣通常手持弩或長弓，主要由平民使用。在14世紀，盡管卡斯提爾的重騎兵長期被貴族統治的騎兵所輕視，但弩兵對葡萄牙在阿盧瓦羅塔戰役中的勝利功不可沒。同樣，英國弓箭手在Crecy英格蘭戰勝法國重騎兵的比賽中扮演了關鍵角色。在接下來的壹個世紀裏，他們在阿金庫爾戰役中重複了這壹壯舉。這些災難被認爲標志著中世紀騎兵尤其是重騎兵統治的結束。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>標槍步兵(古希臘語:peltaste)是壹種輕步兵，發源于色雷斯和芍藥(Paeonia)，經常充當希臘和希臘軍隊的散兵。在中世紀時期，這個詞也被用來指壹種拜占庭步兵。Peltasts(拉丁語:Peltarion)帶著壹個新月形的柳條盾牌，叫做pelte，這就是他們的名字。這個護盾可以用壹個中心帶和壹個在邊緣附近的手握，或者只用壹個中心的手握。佩爾塔斯特的武器包括幾枚標槍(akontia)，它可能有投擲帶，以允許更多的力量用于投擲。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<!-- Air Units -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>第壹次世界大戰爆發時，包括英國、法國和德國在內的幾個國家都試驗過通過飛機進行爆炸轟炸的概念。在戰爭初期，各種類型的飛機都投下了炸彈，包括偵察機和戰鬥機。戰爭期間引進的首批真正的轟炸機之壹，Voisin III，是由法國飛機制造商Gabriel Voisin設計的。VoisinIII采用標准雙平面設計，由鋼架加固，能夠承載超過300磅的載荷。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>諾斯羅普(後來的諾斯羅普·格魯曼)B-2幽靈，也被稱爲隱形轟炸機，是壹種美國重型滲透戰略轟炸機，具有低可觀察隱身技術，設計用于穿透密集防空防禦;這是壹個有兩名機組人員的飛行機翼設計。轟炸機可以部署常規和熱核武器，如80枚500磅(230公斤)級(Mk 82) JDAM全球定位系統制導炸彈，或16 2400磅(1100公斤)B83核彈。B-2是唯壹壹種公認的能夠在隱形配置下攜帶大型空對地對峙武器的飛機。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>蘇霍伊Su-57(俄羅斯:СухойСу-57)是指定用于隱形,單座、雙引擎飛機多用途第五代戰鬥機設計空中優勢和攻擊行動。飛機産品的PAK FA(俄羅斯:ПАКФА,俄羅斯:Перспективныйавиационныйкомплексфронтовойавиации,Perspektivny Aviatsionny Kompleks Frontovoy Aviatsii,字面上的“未來航空複雜的前線航空”),俄羅斯空軍的第五代戰鬥機項目。蘇霍伊飛機的內部名稱是T-50。蘇-57將是俄羅斯服役中使用隱形技術的第壹架飛機。該戰鬥機計劃擁有超級巡航、隱形、超機動性和先進的航空電子設備，以克服前壹代戰鬥機以及地面和海上防禦。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>這種攻擊機的作用是在第壹次世界大戰期間被用來支援戰場上的地面部隊。戰場支援壹般分爲近距離空中支援和戰場空中攔截，前者要求嚴格，後者只與友軍地面部隊進行壹般合作。盡管這樣的飛機也攻擊了後方的目標。這類任務需要在預計會有輕型防空火力的地方飛行，並在低空作業，以精確識別目標。其他角色，包括輕型轟炸機、中型轟炸機、潛水轟炸機、偵察、戰鬥機、戰鬥轟炸機，可以也確實在戰場上進行空襲。所有這些類型的導彈都可能在低空飛行中對地面目標造成重大破壞，要麽是通過轟炸，要麽是機關槍，要麽兩者兼而有之。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>二戰初期，德國空軍的容克Ju-87s幾乎成了近距離空中支援的代名詞。英聯邦的沙漠空軍由阿瑟·特德成爲第壹個聯合戰術形成強調進攻的角色,通常在形式的單引擎小販飓風和柯蒂斯P-40戰鬥轟炸機或專門的“坦克驅逐”,如飓風可IID,手持兩40毫米維氏年代槍(尤其是6號中隊RAF)。與此同時，軸心國軍隊的大規模入侵迫使蘇聯空軍迅速擴大其陸軍支援能力，如伊爾-2斯圖爾莫維克(Ilyushin Il-2 Sturmovik)。被稱爲“夜女巫”的女飛行員在“騷擾轟炸”中使用了壹種過時的、木制的輕型教練機雙翼飛機、Polikarpov Po-2和小型殺傷炸彈。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>二戰後的空軍最初不願開發專門用于地面攻擊的固定翼噴氣式飛機。盡管近距離空中支援和攔截對現代戰場仍至關重要，但攻擊機的魅力不如戰鬥機，飛行員和軍事規劃者都對“泥巴搬運者”有壹種根深蒂固的蔑視。道格拉斯·a - 3 Skywarrior和北美5治安維持會成員設計飛機艦載核打擊的角色,而格魯曼公司a - 6入侵者,沃特公司a - 7海盜船II,蘇霍伊架蘇-25,A-10雷電,Panavia龍卷風,AMX,達索Etendard和超級Etendard和其他許多不太知名的飛機已經專門爲地面攻擊,罷工,親密的支持和反裝甲工作,很少或根本沒有空對空能力融入到設計中。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>洛克希德·馬丁公司F-35閃電II是壹種單座、單引擎、全天候隱形多用途戰鬥機。第五代戰鬥機被設計用來執行地面攻擊和空中優勢任務。它有三種主要型號:F-35A常規起降(CTOL)改型、F-35B短距起降和垂直起降(STOVL)改型、F-35C艦載彈射器輔助起降但滯回(CATOBAR)改型。2015年7月31日，美國海軍陸戰隊在密集測試後宣布准備部署首支F-35B戰鬥機中隊。2016年8月2日，美國空軍宣布其首個F-35A戰鬥機中隊已准備就緒。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>“野鼬鼠”是美國電子戰部隊，特別是美國空軍，給任何壹種裝備了雷達追蹤導彈的飛機起的代號，其任務是摧毀敵方防空系統的雷達和防空導彈裝置。“第壹次野生黃鼠狼的成功是在1965年12月20日的第壹次野生黃鼠狼任務之後不久。當時，Al Lamb和Jack Donovan上尉在越南河內西北75英裏的Yen Bai的鐵路院內發動了壹場雷鳴般的攻擊，他們在那裏占領了壹個地點。”野鼬概念是由美國空軍在1965年開發的，在蘇聯導彈和美國戰機在越南北部上空被擊落後。該項目由肯尼斯·登普斯特將軍領導。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>照明彈或誘餌照明彈是壹種空中紅外對抗措施，由飛機或直升機用來對抗紅外尋的地對空導彈或空對空導彈。耀斑通常由鎂或其他熱燃燒金屬的煙火成分組成，燃燒溫度等于或高于發動機排氣溫度。其目的是使紅外制導導彈從耀斑而不是飛機引擎中尋找熱信號。糠,最初叫窗口由英國和Duppel第二次世界大戰德國空軍時代(從柏林郊區,這是第壹個發達),是飛機或其他目標的雷達對抗蔓延壹團小,細薄的鋁,金屬玻璃纖維或塑料,要麽顯示爲壹個集群的主要目標在雷達屏幕上或屏幕沼澤多的回報。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>“突圍”(法語單詞，意爲“撤退”)是指在某壹軍事據點部署或派遣壹個軍事單位，無論是飛機、船只還是軍隊。無論由壹架或多架飛機或船只出動，通常都有特定的任務。架次率是給定單位在給定時間內能夠支持的架次數量。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>在雙翼戰鬥機上安裝了機槍後不久，飛行員們拿著未使用過的彈藥從任務中返回，他們自娛自樂地潛水並向地面目標射擊……通常是可憐的步兵和補給車隊被困在西部前線的泥濘中。在很短的時間內，將軍們看到了這樣做的價值，因此掃射成爲了空中戰術的壹部分(它沒有鬥狗那麽危險)。航空設計人員甚至開始建造專門用于地面攻擊的飛機，例如Junkers J.1型飛機，兩架向下對著機關槍。在第二次世界大戰來臨之際，大多數戰鬥人員都有專門用于掃射的戰鬥機，其中大多數配備了多挺機槍和壹些小型火箭。制導炸彈(也被稱爲智能炸彈，制導炸彈單位，或GBU)是精確制導彈藥設計，以實現較小的圓概率誤差(CEP)。因爲根據冪律，爆炸武器的破壞作用隨著距離的增加而減弱，即使在精度上的微小改進(從而減少脫靶量)也能使目標受到更少或更小的炸彈的有效攻擊。因此，有了制導武器，更少的空勤人員處于危險之中，更少的彈藥消耗，間接傷害減少。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>地毯式轟炸，也被稱爲飽和轟炸，是壹種大規模的空中轟炸，以循序漸進的方式對選定地區的每壹部分造成破壞。這個短語讓人想起爆炸完全覆蓋壹個區域的畫面，就像地毯覆蓋地板壹樣。地毯式轟炸通常是通過投擲許多非制導炸彈來實現的。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>戰略轟炸是在全面戰爭中使用的壹種軍事戰略，目的是通過摧毀敵人的士氣或其生産和運輸物資到軍事行動場所的經濟能力，或兩者兼而有之來擊敗敵人。它是壹種有系統地從空中組織和執行的攻擊，可以利用戰略轟炸機、遠程或中程導彈或核武裝戰鬥轟炸機攻擊被認爲對敵人的作戰能力至關重要的目標。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>空中優勢戰鬥機(air superiority fighter)又稱空中優勢戰鬥機(air advantage fighter)，是壹種用于進入並奪取對敵方領空控制權的戰鬥機，以建立對敵方空軍(air supremacy)全面控制的壹種戰鬥機。空中優勢戰鬥機的設計主要是爲了有效地與敵方戰鬥機交戰，比其他類型的飛機要多，盡管有些可能在空對地打擊中起次要作用。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>無人駕駛飛行器(UAV)，通常被稱爲無人駕駛飛機(drone)，是壹種無人駕駛飛機。無人機是無人機系統(UAS)的組成部分;它包括無人機、地面控制器和兩者之間的通信系統。無人機的飛行可以具有不同程度的自主性:由人類操作人員遠程控制，或由機載計算機自主控制。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>海防艦是壹艘小軍艦。它是傳統上被認爲是壹艘(或“被評級”的)軍艦的最小類別的船只。護衛艦上面的戰艦等級是護衛艦的等級，而下面的等級在曆史上是戰艦的等級。corvette這個詞最早出現在法語中，是荷蘭語corf的縮寫，意思是小船，來自拉丁語corbis，意思是籃子。在帆船時代，輕巡洋艦是許多比護衛艦還小、只有壹層炮甲板的軍艦之壹。他們與戰爭的sloope有非常密切的關系。護衛艦的作用主要是沿海巡邏，參加小型戰爭，支援大型艦隊，或參與展示旗幟的任務。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>導彈驅逐艦是設計用來發射導彈的驅逐艦。許多國家還裝備有反潛、防空和反水面作戰的裝備。這些船只的北約標准代號是DDG。不同的國家在使用驅逐艦D號的時候，在他們的船身三角旗編號，或前綴，或完全放棄它。美國海軍在美國船體分類系統中采用了DDG分類。除了火炮之外，壹艘導彈驅逐艦通常裝備兩個大型導彈彈匣，通常在垂直發射單元中。壹些導彈驅逐艦包含強大的雷達系統，如美國的宙斯盾戰鬥系統，可以用于反導或彈道導彈防禦任務。對于不再使用巡洋艦的海軍來說尤其如此，因爲必須采用其他船只來填補空白。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>超級航母是對最大類型航空母艦的非正式描述，通常是那些排水量超過7萬短噸(6.4萬公噸)的航母。超級航母是有史以來建造的最大戰艦，比任何國家建造的最大戰艦都要大。截至2015年，美國海軍擁有10艘現役超級航母，而英國將擁有兩艘——伊麗莎白女王級航母和威爾士親王級航母，目前正在建造中，預計2018年投入使用。俄羅斯擁有庫茲涅佐夫號，這是壹艘載機巡洋艦(俄羅斯分類中的重型飛機攜帶導彈巡洋艦(TAVKR))，作爲俄羅斯海軍的旗艦。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>三桅帆戰艦是壹種海軍軍艦，在16世紀逐漸流行起來，當時基于傳統加萊的設計被修改爲包括更重的武器。壹艘典型的加萊斯號最初是壹艘由槳驅動的商船，後來被升級爲帆的桅杆。有兩種形式的推進，三桅帆戰艦設計允許船保持傳統的三桅帆著名的速度，同時也攜帶重炮來抵禦潛在的攻擊。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>裝甲巡洋艦是19世紀末20世紀初的壹種軍艦。它和其他類型的巡洋艦壹樣，被設計成壹艘遠程獨立戰艦，能夠擊敗除戰艦以外的任何壹艘船，並且速度足以超過它遇到的任何壹艘戰艦。由于大小不同，它不同于其他類型的巡洋艦，因爲它在船體的大部分地方都鍍有壹層厚厚的鐵(或後來的鋼鐵)以保護船不受炮火的襲擊，就像戰艦上的炮火壹樣。到19世紀90年代，巡洋艦已經放棄了航行，呈現出壹種現代的外觀。幾十年來，海軍技術還沒有發展到足以讓設計人員制造出壹艘將裝甲帶與完成任務所需的長距離和高速相結合的巡洋艦。使用這種類型的船通常可以建造更快、更全面的巡洋艦，這種巡洋艦依靠較輕的裝甲甲板來保護船的重要部分;然而，到19世紀80年代末，快速火炮和高爆炮彈的發展使得重新引入側裝甲成爲必要。19世紀90年代中期，面部硬化裝甲的發明提供了比以前更輕的有效保護。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>戰鬥巡洋艦，或稱巡洋艦，是在20世紀上半葉建造的壹艘主力艦。它們在大小、成本和裝備上都與戰列艦相似，但爲了獲得更快的速度，它們通常只攜帶較少的裝甲。第壹艘戰列巡洋艦是在本世紀頭十年在英國設計的，作爲裝甲巡洋艦的發展，同時無畏級戰艦繼承了前無畏級戰艦。設計的目的是要跑過任何擁有相似武器裝備的船只，追過任何裝備較弱的船只;他們的目標是追擊速度較慢的老式裝甲巡洋艦，用重炮摧毀它們，同時避免與更強大但速度較慢的戰艦作戰。然而，隨著越來越多的戰列巡洋艦被建造出來，它們被越來越多地用于保護更好的戰艦。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>大帆戰艦是壹種大型、多層甲板的帆船，主要在16世紀至18世紀的航海時代被歐洲國家用作武裝貨船。直到17世紀中期英荷戰爭之前，帆船壹直是主要的軍艦編隊。加隆船通常有三根或三根以上的桅杆，後面的桅杆上有壹個後縱桁的帆架，後面的桅杆上有壹個突出的方形船尾，前桅和主桅上都有方形帆架。這樣的船是海上貿易的支柱到19世紀早期,和經常被用作輔助海軍戰爭vessels-indeed入伍,是競爭的主要艦隊通過的150歲的勘探之前,這家英荷戰爭生專用ship-rigged海上軍艦,此後主導戰爭在大航海時代的其余部分。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>壹艘主力艦是壹個從17到19世紀中葉參加海軍戰術類型,反對兩列的軍艦將策略帶來的最大重量較寬的火力。由于這些戰役幾乎都是由最沈重的船只贏得的，這些船只攜帶著最強大的武器，自然的進程是建造當時最大最強大的帆船。從19世紀40年代末開始，蒸汽動力的引入減少了戰爭中對風的依賴，並導致了螺旋驅動的木船的建造;許多純帆船被改裝成這種推進裝置。然而，鐵甲護衛艦在1859年的引入迅速導致了該艦的蒸汽輔助船的衰落。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>前無畏戰艦是在19世紀80年代中後期到1905年之間建造的海戰戰艦，在無畏號發射之前。前無畏級戰艦取代了19世紀70年代和80年代的鐵甲戰艦。前無畏級戰艦由鋼鐵建造，由堅硬的鋼甲保護，主要由壹排或多排輕型武器組成的二級炮台(開口或帶裝甲炮台)裝備著非常重的火炮。它們由煤驅動的三倍膨脹蒸汽機驅動。與之前幾十年鐵甲戰艦的混亂發展形成鮮明對比的是，19世紀90年代，世界各國海軍開始按照共同的設計建造戰列艦，因爲幾十艘軍艦基本上遵循了英國雄偉級的設計。19世紀90年代建造的戰艦數量不斷增加，突出了戰列艦在外觀上的相似性。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>攻擊潛艇或獵殺潛艇是專門爲攻擊和擊沈其他潛艇、水面戰鬥人員和商船而設計的潛艇。在蘇聯和俄羅斯海軍，它們過去和現在都被稱爲“多用途潛艇”。它們也被用來保護友好的水面戰艦和導彈潛艇。壹些攻擊潛艇還裝備了安裝在垂直發射管上的巡航導彈，增加了其潛在任務的範圍，包括陸地目標。攻擊型潛艇可采用核動力或柴電(“常規”)動力。在美國海軍命名系統和北約系統(STANAG 1166)中，核動力攻擊潛艇被稱爲SSNs，其柴油-電力前身是SSKs。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>海軍陸戰隊，也被稱爲海軍陸戰隊或海軍步兵，是壹個典型的步兵部隊，專門支持海上和陸上的海軍和陸軍行動，以及執行自己的行動。在大多數國家,海軍的海軍力量是不可分割的壹部分,但它也可以在軍隊像劇團de海洋(法國海軍陸戰隊)和Givati旅(以色列海軍陸戰隊),或者成立壹個獨立的服務分支機構如美國海軍陸戰隊和皇家海軍陸戰隊(盡管美國海軍陸戰隊是在美國海軍,和皇家海軍陸戰隊受到陛下的海軍服務)。曆史上,任務由海軍陸戰隊包括:幫助維護紀律和秩序船上(反映出按自然的船舶公司和叛亂的風險),船舶在戰鬥或捕獲的寄宿獎船只,並提供人力支持海軍的襲擊岸上目標。海軍陸戰隊進化成專門從事兩棲作戰所需的技能和能力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>海軍陸戰隊，也被稱爲海軍陸戰隊或海軍步兵，是壹個典型的步兵部隊，專門支持海上和陸上的海軍和陸軍行動，以及執行自己的行動。在大多數國家,海軍的海軍力量是不可分割的壹部分,但它也可以在軍隊像劇團de海洋(法國海軍陸戰隊)和Givati旅(以色列海軍陸戰隊),或者成立壹個獨立的服務分支機構如美國海軍陸戰隊和皇家海軍陸戰隊(盡管美國海軍陸戰隊是在美國海軍,和皇家海軍陸戰隊受到陛下的海軍服務)。曆史上,任務由海軍陸戰隊包括:幫助維護紀律和秩序船上(反映出按自然的船舶公司和叛亂的風險),船舶在戰鬥或捕獲的寄宿獎船只,並提供人力支持海軍的襲擊岸上目標。海軍陸戰隊進化成專門從事兩棲作戰所需的技能和能力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>海軍陸戰隊，也被稱爲海軍陸戰隊或海軍步兵，是壹個典型的步兵部隊，專門支持海上和陸上的海軍和陸軍行動，以及執行自己的行動。在大多數國家,海軍的海軍力量是不可分割的壹部分,但它也可以在軍隊像劇團de海洋(法國海軍陸戰隊)和Givati旅(以色列海軍陸戰隊),或者成立壹個獨立的服務分支機構如美國海軍陸戰隊和皇家海軍陸戰隊(盡管美國海軍陸戰隊是在美國海軍,和皇家海軍陸戰隊受到陛下的海軍服務)。曆史上,任務由海軍陸戰隊包括:幫助維護紀律和秩序船上(反映出按自然的船舶公司和叛亂的風險),船舶在戰鬥或捕獲的寄宿獎船只,並提供人力支持海軍的襲擊岸上目標。海軍陸戰隊進化成專門從事兩棲作戰所需的技能和能力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>希臘火帆是傳統帆船的壹種改進形式，在帝國統治時期，它是拜占庭海軍的壹個組成部分。具有槳和帆的力量，繩龍是高度機動和敏捷，但也危險裝備戰鬥。通過使用希臘火(現代凝固汽油彈的前身)，拜占庭人使用了壹種早期的火焰噴射器，在海上任何反對他們的人心中制造恐懼。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>在19世紀晚期的海軍術語中，魚雷快艇是壹種配備魚雷的炮艇，專爲搜尋和摧毀小型魚雷船而設計。到19世紀90年代末，魚雷炮艇被更成功的同時代驅逐艦所取代。壹些魚雷炮艇，1886年的響尾蛇原型，緊隨其後的是蚱蜢級(3艘船)，神射手級(13艘船)，警報級(11艘船)和森林女神級(5艘船)，在1880年代和1890年代爲皇家海軍建造;類似的船只也由壹些歐洲國家和日本建造或以其他方式獲得。魚雷炮艇本質上是非常小的巡洋艦，通常配備火車頭鍋爐，並配備魚雷發射管和足夠的武器裝備，旨在追捕較小的敵人魚雷快艇。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>輕巡洋艦是壹種小型或中型軍艦。“輕型裝甲巡洋艦”是“輕型裝甲巡洋艦”的縮寫，指的是壹艘小型船，它攜帶的裝甲與裝甲巡洋艦壹樣:壹條防護帶和甲板。在此之前，這種小型巡洋艦壹直是保護巡洋艦模型，只有裝甲甲板。盡管它們比其他當代船只更輕、更小，但它們仍然是真正的巡洋艦，保留了擴展的行動半徑和在世界各地獨立行動的自給自足能力。在他們的曆史上，他們曾擔任過各種各樣的角色，主要是作爲護衛隊和驅逐艦的指揮艦，但也作爲巡防隊和艦隊支援艦的戰鬥艦隊。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>無畏艦是20世紀早期最主要的戰艦類型。第壹艘皇家海軍無畏級戰艦在1906年發射時給人們留下了深刻的印象，隨後建造的類似戰艦被普遍稱爲“無畏級”，更早的戰艦被稱爲“前無畏級”。無畏級的設計有兩個革命性的特點:“全大槍”武器裝備計劃，比以前的艦艇擁有更多的重型火炮，以及汽輪機推進。隨著無畏級戰艦成爲國家實力的象征，這些新軍艦的到來成爲英國和德國之間日益激烈的海軍軍備競賽的關鍵催化劑。隨著壹艘名爲無畏級的軍艦的發射，海軍力量的規模在壹夜之間被重新調整。結果，在第壹次世界大戰之前，無畏級的種族在世界各地興起，包括在南美洲。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>軌道炮是壹種利用電磁力發射高速炮彈的裝置，通過沿壹對導電軌道加速的滑動電樞。[2]通常是作爲壹種武器建造的，並且彈丸通常不包含炸藥，依靠彈丸的高速造成傷害。軌道炮使用壹對平行導體或導軌，沿導軌滑動電樞會受到電流的電磁效應的加速，電流從壹根導軌流向電樞，然後沿另壹根導軌返回。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<!-- Deliverator's Units -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>從15世紀末到18世紀的發現或探索時代，是壹個非正式的、定義松散的歐洲曆史時期，標志著廣泛的海外探索成爲歐洲文化的壹個強大因素和全球化的開始。這也標志著歐洲普遍采用殖民主義和重商主義的時代的興起。在此期間發現了許多歐洲人以前不知道的土地，盡管大多數已經有人居住。從許多非歐洲人的角度來看，發現的時代標志著來自壹個以前未知大陸的定居者和侵略者的到來。
+</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text>全球探險始于葡萄牙人發現的大西洋群島馬德拉群島和亞速爾群島，非洲海岸，以及1498年發現的通往印度的海路;1492年至1502年克裏斯托弗·哥倫布橫越大西洋的航行，以及1519年至1522年第壹次環球航行，代表西班牙卡斯提爾王國。這些發現導致許多海軍遠征跨越大西洋、印度洋和太平洋，以及在美洲、亞洲、非洲和澳大利亞的陸地探險，持續到19世紀末，並在20世紀結束于極地地區的探險。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>長劍是中世紀/文藝複興時期戰場上最通用的武器。它比矛更輕，更容易攜帶，而且它可以用壹只或兩只手，使劍士也可以攜帶盾牌。在與長劍手面對面的戰鬥中，長劍手處于非常不利的地位，他們甚至在能夠進入攻擊距離之前就已經從較長的武器中奪取了許多傷亡。然而，長劍手部隊比長劍手更快、更靈活機動——如果他們能在側翼攻擊中擊中對手，長劍手就死定了。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>來複槍是設計用來從肩部發射的武器。槍管內部有“膛線”凹槽，設計用于在發射時旋轉彈丸，使其比無膛線彈丸具有更大的射程和精度。在歐洲，最早的有膛線的石油發明于15世紀，但由于制造上的困難，膛線直到19世紀才被廣泛使用。在美國獨立戰爭中，美國拓荒者攜帶步槍。在拿破侖戰爭和1812年戰爭期間，英國和美國的散兵手和偵察兵都裝備有來複槍，但是這些武器較慢的裝載時間使它們在接下來的幾年裏遠離普通步兵的控制。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text>“米尼球”的發明大大縮短了裝彈時間，美國內戰期間，歐洲所有主要軍隊都在使用帶膛線的步槍。內戰結束膛線的步槍被breech-loading重複呈現過時的步槍,也許壹槍發射率的第二個(盡快可以旋塞杠杆和扣動扳機),相比前裝槍的發射率大約20到30秒每拍攝壹個訓練有素的士兵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>重型抛石機是壹種利用杠杆的機械優勢投擲彈丸的複合機器。它們是典型的大型建築(最高可達30米(100英尺)或更高)，主要由木頭制成，通常用金屬、皮革、繩索和其他材料加固。它們通常是固定的，必須在現場組裝，可能使用當地的木材，只帶著軍隊的關鍵部件到圍城或戰鬥地點。後來的平衡投石錘，也被稱爲平衡投石錘，使用平衡錘來擺動手臂。它在12世紀出現在地中海周圍的基督教和穆斯林土地上，並在13世紀通過蒙古征服回到中國。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>曆史學家對馬蹄鐵的起源有不同的看法。由于鐵是壹種很有價值的商品，而且任何磨損的物品壹般都是重新鍛造和再利用的，因此很難找到明確的考古證據。雖然有些人相信德魯伊教，但沒有確鑿的證據支持這種說法。1897年，在伊特魯裏亞(Etruscan)壹座約公元前400年的古墓中發現了四個明顯帶有釘孔的青銅馬蹄鐵。壹些曆史學家斷言，羅馬人在公元前100年後的某個時候發明了“騾蹄”，卡圖盧斯(Catullus)曾在公元前54年去世。然而，這些在羅馬使用馬蹄鐵和馬蹄鐵的例子，可能是指“海馬”——用鐵板加固的皮靴，而不是釘馬蹄鐵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text>現有的關于釘馬蹄鐵的參考文獻相對較晚，最早出現于公元900年左右，但由于在土層中發現了壹些，可能有更早的用途。在利奧六世統治之前，沒有關于釘馬蹄鐵的現存文獻，到973年的時候也能找到。任何形式的,很少有證據表明存在的釘在鞋在公元500年或500年之前,盡管有壹個找到可追溯至公元5世紀的馬蹄,完全用釘子,法蘭克國王的墳墓中發現Childeric我在圖爾奈,比利時。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text>大約公元1000年，帶有釘孔的青銅馬蹄鐵在歐洲很常見。常見的設計有壹個扇形的外邊緣和六個釘子洞。13世紀和14世紀帶來了鐵馬蹄鐵的廣泛制造。在十字軍東征時期(1096-1270年)，馬蹄鐵廣泛流傳，在各種書面資料中經常被提及。在那個時期，由于鐵的價值，馬蹄鐵甚至被用來代替硬幣來交稅。到了13世紀，鞋子被大量鍛造出來，可以買到現成的。在16世紀，熱鞋，即在馬上把加熱過的馬蹄鐵放在馬背上的過程變得很普遍。從對馬蹄鐵的需求，鍛造工藝成爲“中世紀和現代的主要工藝之壹，並促進了冶金的發展。”</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>胸甲騎兵是裝備盔甲和火器的騎兵，首次出現在15世紀晚期的歐洲。這個法文術語的意思是“穿胸甲的人”，也就是他們所穿的胸甲。第壹種鐵甲騎兵是由裝甲騎兵(如步兵和半長矛兵)制造出來的，他們丟棄長矛，采用手槍作爲主要武器。在17世紀後期，鐵騎兵失去了護肢甲，後來只使用了鐵甲(胸甲和背甲)，有時還使用頭盔。這時，劍是鐵騎的主要武器，手槍被降級爲次要武器。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>加特林機槍是最著名的早期速射彈簧裝彈、手動曲柄武器和現代機槍的先驅之壹。它是由理查德·加特林發明的，因其在19世紀60年代美國內戰期間被聯邦軍隊使用而聞名。後來，它又在許多軍事沖突中使用，如博欣戰爭、盎格魯-祖魯戰爭和美西戰爭期間對聖胡安山的襲擊。在1877年的鐵路大罷工中，民兵和國民警衛隊也曾使用過它，特別是在賓夕法尼亞州的匹茲堡。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text>加特林機槍的操作以循環多管設計爲中心，這有利于冷卻和同步點火-重載順序。當槍管到達循環中的某個點時，每個槍管都會發射壹顆子彈，之後它會將用過的槍管彈射出來，裝上新的子彈，在此過程中，槍管會冷卻下來。這種結構使得在不發生燃料桶過熱的情況下，能夠實現更高的燃燒速率。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+	</LocalizedText>
+</GameData>

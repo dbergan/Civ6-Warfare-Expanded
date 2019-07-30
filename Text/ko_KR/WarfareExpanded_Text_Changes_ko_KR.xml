@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="ko_KR">
+			<Text>중화기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 화력지원 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="ko_KR">
+			<Text>현대 중화기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 화력지원 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_NAME" Language="ko_KR">
+			<Text>전투 헬리콥터</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="ko_KR">
+			<Text>빠르게 이동하는 대기병유닛으로 전차 및 차량에 탑승한 유닛에게 효과적입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="ko_KR">
+			<Text>많은 수의 합궁병을 보유했지만, 아직도 부족한점이 많습니다. 기계장치를 사용해보는건 어떨까요?</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="ko_KR">
+			<Text>인도 고유의 고전시대 중기병유닛이며 중장기병을 대체합니다. 인접한 적의 전투력[ICON_STRENGTH]이 -5 감소합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 화력지원 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 근접유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스시대의 대기병유닛으로 말에 탑승한 유닛에게 효과적입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 중기병유닛이며 ZOC를 무시합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME" Language="ko_KR">
+			<Text>주력전차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 지원유닛입니다. 인접한 공성유닛에게 사거리[ICON_Range] +1을 부여합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARTILLERY_NAME" Language="ko_KR">
+			<Text>야포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 차량에 탑승한 보병(경기병)유닛입니다.</Text>
+		</Replace>
+		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 폭격기 유닛입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BIPLANE_NAME" Language="ko_KR">
+			<Text>1차 세계대전 전투기</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 전투기 유닛입니다.</Text>
+		</Replace>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 근접해상유닛입니다. 기동력이 좋아서 탐험에 적합합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 근접해상유닛이며, 시야 범위 내의 해상 습격자들을 드러냅니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 해상포격유닛이며, 1타일 이내의 공중 및 핵 공격에 대한 방어를 제공합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="ko_KR">
+			<Text>핵 잠수함</Text>
+		</Replace>
+		<!-- S&T:UU -->
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_NAME" Language="ko_KR">
+			<Text>1급 전열함</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_DESCRIPTION" Language="ko_KR">
+			<Text>영국 특유의 르네상스시대 해상포격유닛이며, 전열함을 대체합니다. 다른 1급 전열함과 인접해 있을때 전투력[ICON_Strength] +7을 얻습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>In the rating system of the British Royal Navy used to categorise sailing warships, a first rate was the designation for the largest ships of the line, equivalent to the super-dreadnought of more recent times. Originating in the Jacobean era with the designation of Ships Royal capable of carrying at least 400 men, the size and establishment of first-rates evolved over the following 250 years to eventually denote ships of the line carrying at least 80 guns across three gundecks. By the end of the eighteenth century, a first-rate carried not less than 100 guns and more than 850 crew, and had a measurement tonnage of some 2,000 tons.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

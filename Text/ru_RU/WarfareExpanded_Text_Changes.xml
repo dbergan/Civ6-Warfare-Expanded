@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="ru_RU">
+			<Text>Противотанковая артиллерия</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="ru_RU">
+			<Text>Военная поддержка</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_AT_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Механизированная компания военной поддержки оказывает помощь при маневрах пехотных батальонов. Обычно имеет в своём распоряжении некоторое количество пулеметов, автоматических гранатометов, минометов, противоракетных ракет, зенитных ракет, разведывательных войск (в которые обычно входят снайперы) и пионеров нападений (специально подготовленных к штурмовой роли пехотинцев). Со времен Второй мировой войны они являются частью специализированных подразделений в механизированных пехотных батальонах.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="ru_RU">
+			<Text>Вы полагаетесь на строительство, чтобы улучшить эффективность ваших дальнобойных подразделений.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="ru_RU">
+			<Text>Индийский уникальный юнит Античности заменяющий тяжёлую конницу. Враги на соседних клетках получают штраф -5 [ICON_STRENGTH] к боевой мощи.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="ru_RU">
+			<Text>Быстрый морской юнит ближнего боя Нового времени. Обнаруживает подводные лодки в пределах поля зрения.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="ru_RU">
+			<Text>Мощный дальнобойный морской юнит Нового времени. Обеспечивает прикрытие от воздушных и ядерных атак в пределах одной клетки.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
