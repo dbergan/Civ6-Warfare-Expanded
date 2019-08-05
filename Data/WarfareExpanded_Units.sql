@@ -578,7 +578,7 @@ INSERT INTO Units_XP2
 (UnitType, 			ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
 VALUES
 ('UNIT_ARMORED_INFANTRY', 	1, 				1,		'RESOURCE_OIL', 		0,		1,			0,			1,				0),
-('UNIT_ARMORED_HORSEMAN', 	0, 				20, 		NULL, 				0,		1,			0,			1,				0) ;
+('UNIT_ARMORED_HORSEMAN', 	0, 				20, 		NULL, 				0,		1,			0,			1,				0),
 ('UNIT_REITER', 		0, 				20, 		NULL, 				0, 		1, 			0, 			1, 				0),
 ('UNIT_LANDSHIP',		1, 				1, 		'RESOURCE_OIL', 		0, 		1, 			0, 			1, 				0),
 ('UNIT_RIFLED_CANNON', 		0, 				20, 		NULL, 				0, 		1, 			0, 			1, 				0),
