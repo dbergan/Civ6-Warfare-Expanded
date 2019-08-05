@@ -111,6 +111,8 @@ UPDATE Units SET Maintenance = 4, MandatoryObsoleteTech = 'TECH_STEAM_POWER' WHE
 UPDATE Units SET BaseMoves = 5, Range = 2, PrereqTech = 'TECH_NUCLEAR_FUSION' WHERE UnitType = 'UNIT_MISSILE_CRUISER';
 UPDATE Units SET BaseMoves = 4, Cost = 600, Combat = 80, Bombard = 90, RangedCombat = 0, Maintenance = 7, PromotionClass = 'PROMOTION_CLASS_NAVAL_BOMBARD', PrereqTech = 'TECH_SYNTHETIC_MATERIALS', StrategicResource = 'RESOURCE_OIL' WHERE UnitType = 'UNIT_BATTLESHIP';
 UPDATE Units SET BaseMoves = 4, Cost = 520, Bombard = 82, RangedCombat = 0, PromotionClass = 'PROMOTION_CLASS_NAVAL_BOMBARD' WHERE UnitType = 'UNIT_BRAZILIAN_MINAS_GERAES';
+UPDATE Units SET PromotionClass = 'PROMOTION_CLASS_NAVAL_BOMBARD' WHERE UnitType = 'UNIT_ENGLISH_SHIP_OF_THE_LINE';
+
 -- GS Compatibility
 UPDATE Units SET MandatoryObsoleteTech = 'TECH_CARTOGRAPHY' WHERE UnitType = 'UNIT_SCOUT' AND EXISTS (SELECT UnitType FROM Units WHERE UnitType = 'UNIT_EXPLORER');
 UPDATE Units SET Cost = 95, MandatoryObsoleteTech = 'TECH_STIRRUPS' WHERE UnitType = 'UNIT_HORSEMAN' AND EXISTS (SELECT UnitType FROM Units WHERE UnitType = 'UNIT_MEDIEVAL_HORSEMAN');
