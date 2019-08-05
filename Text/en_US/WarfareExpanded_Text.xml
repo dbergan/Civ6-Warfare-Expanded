@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<BaseGameText>
+		<!-- Naval Class Descriptions -->
+		<Row Tag="LOC_NAVAL_MELEE_DESCRIPTION">
+			<Text>[NEWLINE][NEWLINE]Naval Melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities. They don't have a ranged attack and cannot attack land units.</Text>
+		</Row>
+		<Row Tag="LOC_NAVAL_RANGED_DESCRIPTION">
+			<Text>[NEWLINE][NEWLINE]Naval Ranged units are great at attacking land units, but have -17 [ICON_Ranged] Ranged Attack Strength against sea units. They also have -50% [ICON_Ranged] Ranged Attack Strength vs walled cities.</Text>
+		</Row>
+		<Row Tag="LOC_NAVAL_RAIDER_DESCRIPTION">
+			<Text>[NEWLINE][NEWLINE]Naval Raider units make ranged attacks and are great at attacking other ships. They can also perform coastal raids and are often unable to be seen by the enemy (unless adjacent to them). They can spot enemy Naval Raider units within their sight range. However, Naval Raiders have a -17 [ICON_Ranged] Ranged Attack Strength vs land units and -50% [ICON_Ranged] Ranged Attack Strength vs walled cities.</Text>
+		</Row>
+		<Row Tag="LOC_NAVAL_BOMBARD_DESCRIPTION">
+			<Text>[NEWLINE][NEWLINE]Naval Bombard units make ranged attacks and are designed to bombard cities and encampments doing full damage against them even when they are walled. However, they have -17 [ICON_Ranged] Ranged Attack Strength against both land and sea units.</Text>
+		</Row>
+		
 		<!-- Land Units -->
 		<Row Tag="LOC_UNIT_ARMORED_INFANTRY_NAME">
 			<Text>Armored Infantry</Text>
@@ -245,19 +259,19 @@
 			<Text>Merchant Raider</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RAIDER_DESCRIPTION">
-			<Text>Industrial era naval raider unit.</Text>
+			<Text>Industrial era Naval Raider unit.{LOC_NAVAL_RAIDER_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CORVETTE_NAME">
 			<Text>Corvette</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CORVETTE_DESCRIPTION">
-			<Text>Fast Renaissance era melee naval unit.</Text>
+			<Text>Fast Renaissance era melee naval unit.{LOC_NAVAL_MELEE_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_NAME">
 			<Text>Guided Missile Destroyer</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION">
-			<Text>Strongest melee naval unit. Reveals submarines within sight range.</Text>
+			<Text>Strong Naval Melee unit. Reveals submarines within sight range.{LOC_NAVAL_MELEE_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SUPERCARRIER_NAME">
 			<Text>Supercarrier</Text>
@@ -269,37 +283,37 @@
 			<Text>Galleass</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
-			<Text>Medieval era ranged naval unit.</Text>
+			<Text>Medieval era Naval Ranged unit.{LOC_NAVAL_RANGED_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARMORED_CRUISER_NAME">
 			<Text>Armored Cruiser</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION">
-			<Text>Industrial era ranged naval unit.</Text>
+			<Text>Industrial era Naval Ranged unit.{LOC_NAVAL_RANGED_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BATTLECRUISER_NAME">
 			<Text>Battlecruiser</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION">
-			<Text>Modern era ranged naval unit.</Text>
+			<Text>Modern era Naval Ranged unit.{LOC_NAVAL_RANGED_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GALLEON_NAME">
 			<Text>Carrack</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GALLEON_DESCRIPTION">
-			<Text>Medieval era naval bombard unit.</Text>
+			<Text>Medieval era Naval Bombard unit.{LOC_NAVAL_BOMBARD_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME">
 			<Text>Ship Of The Line</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION">
-			<Text>Renaissance era naval bombard unit.</Text>
+			<Text>Renaissance era Naval Bombard unit.{LOC_NAVAL_BOMBARD_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME">
 			<Text>Pre-Dreadnought Battleship</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION">
-			<Text>Industrial era naval bombard unit.</Text>
+			<Text>Industrial era Naval Bombard unit.{LOC_NAVAL_BOMBARD_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_VS_SEA_NAME">
 			<Text>Naval Bombard Less Effective vs Sea Units</Text>
@@ -332,7 +346,7 @@
 			<Text>Attack Submarine</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION">
-			<Text>Information era melee naval unit. Cannot be seen unless adjacent to it. Has a +15 [ICON_Strength] attack bonus vs Naval Raider units and a +7 [ICON_Strength] vs other warships.</Text>
+			<Text>Information era Naval Melee unit. Cannot be seen unless adjacent to it. Has a +15 [ICON_Strength] attack bonus vs Naval Raider units and a +7 [ICON_Strength] vs other warships.{LOC_NAVAL_MELEE_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME">
 			<Text>Naval Infantry</Text>
@@ -473,25 +487,25 @@
 			<Text>Torpedo Gunboat</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION">
-			<Text>Modern era naval melee unit.</Text>
+			<Text>Modern era naval melee unit.{LOC_NAVAL_MELEE_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_LIGHT_CRUISER_NAME">
 			<Text>Light Cruiser</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION">
-			<Text>Modern era naval ranged unit.</Text>
+			<Text>Modern era Naval Ranged unit.{LOC_NAVAL_RANGED_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_DREADNOUGHT_NAME">
 			<Text>Dreadnought</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION">
-			<Text>Modern era naval bombard unit.</Text>
+			<Text>Modern era Naval Bombard unit.{LOC_NAVAL_BOMBARD_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME">
 			<Text>Railgun Warship</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION">
-			<Text>Information era naval bombard unit.</Text>
+			<Text>Information era Naval Bombard unit.{LOC_NAVAL_BOMBARD_DESCRIPTION}</Text>
 		</Row>
 		<!-- Deliverator's Units -->
 		<Row Tag="LOC_UNIT_EXPLORER_NAME">
