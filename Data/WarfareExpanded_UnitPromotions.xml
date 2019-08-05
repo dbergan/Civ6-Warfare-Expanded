@@ -10,6 +10,7 @@
 		<Row Type="PROMOTION_CARPET_BOMBING" Kind="KIND_PROMOTION"/>
 		<Row Type="PROMOTION_STRATEGIC_BOMBING" Kind="KIND_PROMOTION"/>
 		<Row Type="PROMOTION_AIR_SUPERIORITY_FIGHTER" Kind="KIND_PROMOTION"/>
+		
 		<!-- Naval Units -->
 		<Row Type="PROMOTION_CLASS_NAVAL_BOMBARD" Kind="KIND_PROMOTION_CLASS"/>
 		<Row Type="PROMOTION_BOMBARD_VS_NAVAL" Kind="KIND_PROMOTION"/>
@@ -19,6 +20,7 @@
 		<Row Type="PROMOTION_BOMBARD_OUTSIDE_HEAL" Kind="KIND_PROMOTION"/>
 		<Row Type="PROMOTION_BOMBARD_VS_AIR" Kind="KIND_PROMOTION"/>
 		<Row Type="PROMOTION_BOMBARD_EXTRA_ATTACK" Kind="KIND_PROMOTION"/>
+		
 		<!-- Marine Units -->
 		<Row Type="PROMOTION_CLASS_MARINE" Kind="KIND_PROMOTION_CLASS"/>
 		<Row Type="PROMOTION_RIVER_PATROL" Kind="KIND_PROMOTION_CLASS"/>
@@ -28,6 +30,7 @@
 		<Row Type="PROMOTION_COMBINED_ARMS" Kind="KIND_PROMOTION"/>
 		<Row Type="PROMOTION_CORPSMEN" Kind="KIND_PROMOTION"/>
 		<Row Type="PROMOTION_ELITE_RAIDER" Kind="KIND_PROMOTION"/>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row Type="PROMOTION_CLASS_AUTOMATIC_GUN" Kind="KIND_PROMOTION_CLASS"/>
 		<Row Type="PROMOTION_LK_FUSILLADE" Kind="KIND_PROMOTION"/>
@@ -41,10 +44,13 @@
 	<UnitPromotionClasses>
 		<!-- Air Units -->
 		<Row PromotionClassType="PROMOTION_CLASS_AIR_ATTACK" Name="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME"/>
+		
 		<!-- Naval Units -->
 		<Row PromotionClassType="PROMOTION_CLASS_NAVAL_BOMBARD" Name="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME"/>
+		
 		<!-- Marine Units -->
 		<Row PromotionClassType="PROMOTION_CLASS_MARINE" Name="LOC_PROMOTION_CLASS_MARINE_NAME"/>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row PromotionClassType="PROMOTION_CLASS_AUTOMATIC_GUN" Name="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME"/>
 	</UnitPromotionClasses>
@@ -57,6 +63,7 @@
 		<Row UnitPromotionType="PROMOTION_STRATEGIC_BOMBING" Name="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Description="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Level="2" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_AIR_BOMBER"/>
 		<Row UnitPromotionType="PROMOTION_CARPET_BOMBING" Name="LOC_PROMOTION_CARPET_BOMBING_NAME" Description="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Level="2" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_AIR_BOMBER"/>
 		<Row UnitPromotionType="PROMOTION_AIR_SUPERIORITY_FIGHTER" Name="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Description="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Level="3" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_AIR_FIGHTER"/>
+		
 		<!-- Naval Units -->
 		<Row UnitPromotionType="PROMOTION_BOMBARD_VS_NAVAL" Name="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME" Description="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION" Level="1" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
 		<Row UnitPromotionType="PROMOTION_BOMBARD_EXTRA_MOVE" Name="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME" Description="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION" Level="1" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
@@ -65,6 +72,7 @@
 		<Row UnitPromotionType="PROMOTION_BOMBARD_OUTSIDE_HEAL" Name="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME" Description="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION" Level="3" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
 		<Row UnitPromotionType="PROMOTION_BOMBARD_VS_AIR" Name="LOC_PROMOTION_BOMBARD_VS_AIR_NAME" Description="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION" Level="3" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
 		<Row UnitPromotionType="PROMOTION_BOMBARD_EXTRA_ATTACK" Name="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME" Description="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION" Level="4" Specialization="" Column="2" PromotionClass="PROMOTION_CLASS_NAVAL_BOMBARD"/>
+		
 		<!-- Marine Units -->
 		<Row UnitPromotionType="PROMOTION_RIVER_PATROL" Name="LOC_PROMOTION_RIVER_PATROL_NAME" Description="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION" Level="1" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_MARINE"/>
 		<Row UnitPromotionType="PROMOTION_COAST_GUARD" Name="LOC_PROMOTION_COAST_GUARD_NAME" Description="LOC_PROMOTION_COAST_GUARD_DESCRIPTION" Level="1" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_MARINE"/>
@@ -73,6 +81,7 @@
 		<Row UnitPromotionType="PROMOTION_COMBINED_ARMS" Name="LOC_PROMOTION_COMBINED_ARMS_NAME" Description="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION" Level="3" Specialization="" Column="1" PromotionClass="PROMOTION_CLASS_MARINE"/>
 		<Row UnitPromotionType="PROMOTION_CORPSMEN" Name="LOC_PROMOTION_CORPSMEN_NAME" Description="LOC_PROMOTION_CORPSMEN_DESCRIPTION" Level="3" Specialization="" Column="3" PromotionClass="PROMOTION_CLASS_MARINE"/>
 		<Row UnitPromotionType="PROMOTION_ELITE_RAIDER" Name="LOC_PROMOTION_ELITE_RAIDER_NAME" Description="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION" Level="4" Specialization="" Column="2" PromotionClass="PROMOTION_CLASS_MARINE"/>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row UnitPromotionType="PROMOTION_LK_FUSILLADE" Name="LOC_PROMOTION_LK_FUSILLADE_NAME" Description="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION" Level="1" Column="1" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
 		<Row UnitPromotionType="PROMOTION_LK_COUNTER_FIRE" Name="LOC_PROMOTION_LK_COUNTER_FIRE_NAME" Description="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION" Level="1" Column="3" Specialization="" PromotionClass="PROMOTION_CLASS_AUTOMATIC_GUN"/>
@@ -92,6 +101,7 @@
 		<Delete UnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT" PrereqUnitPromotion="PROMOTION_EVASIVE_MANEUVERS"/>
 		<Delete UnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT" PrereqUnitPromotion="PROMOTION_BOX_FORMATION"/>
 		<Delete UnitPromotion="PROMOTION_LONG_RANGE" PrereqUnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT"/>
+		
 		<!-- New Air UnitPromotionPrereqs -->
 		<Row UnitPromotion="PROMOTION_AIR_SORTIES" PrereqUnitPromotion="PROMOTION_TORPEDO_BOMBER"/>
 		<Row UnitPromotion="PROMOTION_GUIDED_BOMBS" PrereqUnitPromotion="PROMOTION_AIR_SORTIES"/>
@@ -99,6 +109,7 @@
 		<Row UnitPromotion="PROMOTION_STRATEGIC_BOMBING" PrereqUnitPromotion="PROMOTION_BOX_FORMATION"/>
 		<Row UnitPromotion="PROMOTION_CARPET_BOMBING" PrereqUnitPromotion="PROMOTION_EVASIVE_MANEUVERS"/>
 		<Row UnitPromotion="PROMOTION_AIR_SUPERIORITY_FIGHTER" PrereqUnitPromotion="PROMOTION_STRAFE"/>
+		
 		<!-- Modified Air UnitPromotionPrereqs -->
 		<Row UnitPromotion="PROMOTION_TANK_BUSTER" PrereqUnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT"/>
 		<Row UnitPromotion="PROMOTION_DROP_TANKS" PrereqUnitPromotion="PROMOTION_AIR_SUPERIORITY_FIGHTER"/>
@@ -106,6 +117,7 @@
 		<Row UnitPromotion="PROMOTION_TACTICAL_MAINTENANCE" PrereqUnitPromotion="PROMOTION_STRATEGIC_BOMBING"/>
 		<Row UnitPromotion="PROMOTION_CLOSE_AIR_SUPPORT" PrereqUnitPromotion="PROMOTION_COUNTERMEASURES"/>
 		<Row UnitPromotion="PROMOTION_LONG_RANGE" PrereqUnitPromotion="PROMOTION_CARPET_BOMBING"/>
+		
 		<!-- New Naval UnitPromotionPrereqs -->
 		<Row UnitPromotion="PROMOTION_BOMBARD_VS_LAND" PrereqUnitPromotion="PROMOTION_BOMBARD_VS_NAVAL"/>
 		<Row UnitPromotion="PROMOTION_BOMBARD_VS_DISTRICT" PrereqUnitPromotion="PROMOTION_BOMBARD_EXTRA_MOVE"/>
@@ -113,6 +125,7 @@
 		<Row UnitPromotion="PROMOTION_BOMBARD_VS_AIR" PrereqUnitPromotion="PROMOTION_BOMBARD_VS_DISTRICT"/>
 		<Row UnitPromotion="PROMOTION_BOMBARD_EXTRA_ATTACK" PrereqUnitPromotion="PROMOTION_BOMBARD_OUTSIDE_HEAL"/>
 		<Row UnitPromotion="PROMOTION_BOMBARD_EXTRA_ATTACK" PrereqUnitPromotion="PROMOTION_BOMBARD_VS_AIR"/>
+		
 		<!-- New Marine UnitPromotionPrereqs -->
 		<Row UnitPromotion="PROMOTION_EXPEDITIONARY_FORCE" PrereqUnitPromotion="PROMOTION_RIVER_PATROL"/>
 		<Row UnitPromotion="PROMOTION_RESERVE_FORCES" PrereqUnitPromotion="PROMOTION_COAST_GUARD"/>
@@ -120,6 +133,7 @@
 		<Row UnitPromotion="PROMOTION_CORPSMEN" PrereqUnitPromotion="PROMOTION_RESERVE_FORCES"/>
 		<Row UnitPromotion="PROMOTION_ELITE_RAIDER" PrereqUnitPromotion="PROMOTION_COMBINED_ARMS"/>
 		<Row UnitPromotion="PROMOTION_ELITE_RAIDER" PrereqUnitPromotion="PROMOTION_CORPSMEN"/>
+		
 		<!-- New Automatic Gun UnitPromotionPrereqs - Created by Laurana Kanan -->
 		<Row UnitPromotion="PROMOTION_LK_MANTLET" PrereqUnitPromotion="PROMOTION_LK_FUSILLADE"/>
 		<Row UnitPromotion="PROMOTION_LK_MANTLET" PrereqUnitPromotion="PROMOTION_LK_COUNTER_FIRE"/>
@@ -160,6 +174,7 @@
 			<UnitPromotionType>PROMOTION_AIR_SUPERIORITY_FIGHTER</UnitPromotionType>
 			<ModifierId>ASF_BONUS_VS_GROUND_ATTACK</ModifierId>
 		</Row>
+		
 		<!-- Naval Bombard -->
 		<Row>
 			<UnitPromotionType>PROMOTION_BOMBARD_VS_NAVAL</UnitPromotionType>
@@ -197,6 +212,7 @@
 			<UnitPromotionType>PROMOTION_BOMBARD_EXTRA_ATTACK</UnitPromotionType>
 			<ModifierId>BOMBARD_MOVE_AFTER_ATTACKING</ModifierId>
 		</Row>
+		
 		<!-- Marines -->
 		<Row>
 			<UnitPromotionType>PROMOTION_RIVER_PATROL</UnitPromotionType>
@@ -230,6 +246,7 @@
 			<UnitPromotionType>PROMOTION_ELITE_RAIDER</UnitPromotionType>
 			<ModifierId>ELITE_RAIDER_BONUS_MOVE_AFTER_ATTACKING</ModifierId>
 		</Row>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row>
 			<UnitPromotionType>PROMOTION_LK_FUSILLADE</UnitPromotionType>
@@ -294,6 +311,7 @@
 			<RequirementSetId>AIR_SUPERIORITY_FIGHTER_REQUIREMENTS</RequirementSetId>
 			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
 		</Row>
+		
 		<!-- Naval Bombard -->
 		<Row>
 			<RequirementSetId>BOMBARD_VS_NAVAL_REQUIREMENTS</RequirementSetId>
@@ -307,11 +325,13 @@
 			<RequirementSetId>BOMBARD_VS_DISTRICT_REQUIREMENTS</RequirementSetId>
 			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
 		</Row>
+		
 		<!-- Marines -->
 		<Row>
 			<RequirementSetId>RIVER_PATROL_REQUIREMENTS</RequirementSetId>
 			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
 		</Row>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row>
 			<RequirementSetId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS</RequirementSetId>
@@ -390,6 +410,7 @@
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>AIR_SUPERIORITY_FIGHTER_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
+		
 		<!-- Naval Bombard -->
 		<Row>
 			<ModifierId>BOMBARD_BONUS_VS_NAVAL</ModifierId>
@@ -414,6 +435,7 @@
 			<ModifierId>BOMBARD_MOVE_AFTER_ATTACKING</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_ATTACK_AND_MOVE</ModifierType>
 		</Row>
+		
 		<!-- Marines -->
 		<Row>
 			<ModifierId>RIVER_PATROL_COMBAT_BONUS</ModifierId>
@@ -451,6 +473,7 @@
 			<ModifierId>ELITE_RAIDER_BONUS_MOVE_AFTER_ATTACKING</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_ATTACK_AND_MOVE</ModifierType>
 		</Row>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row>
 			<ModifierId>LK_FUSILLADE_RANGED_VS_MELEE_ANTI_CAV</ModifierId>
@@ -524,6 +547,7 @@
 			<Name>Amount</Name>
 			<Value>7</Value>
 		</Row>
+		
 		<!-- Naval Bombard -->
 		<Row>
 			<ModifierId>BOMBARD_BONUS_VS_NAVAL</ModifierId>
@@ -550,6 +574,7 @@
 			<Name>CanMove</Name>
 			<Value>True</Value>
 		</Row>
+		
 		<!-- Marines -->
 		<Row>
 			<ModifierId>RIVER_PATROL_COMBAT_BONUS</ModifierId>
@@ -586,6 +611,7 @@
 			<Name>CanMove</Name>
 			<Value>true</Value>
 		</Row>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row>
 			<ModifierId>LK_FUSILLADE_RANGED_VS_MELEE_ANTI_CAV</ModifierId>
@@ -634,6 +660,7 @@
 			<RequirementId>OPPONENT_IS_GROUND_ATTACK_UNIT_REQUIREMENTS</RequirementId>
 			<RequirementType>REQUIREMENT_OPPONENT_UNIT_PROMOTION_CLASS_MATCHES</RequirementType>
 		</Row>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row>
 			<RequirementId>BOMBARDMENT_REQUIREMENTS_MET</RequirementId>
@@ -704,6 +731,7 @@
 			<Name>UnitPromotionClass</Name>
 			<Value>PROMOTION_CLASS_AIR_ATTACK</Value>
 		</Row>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row>
 			<RequirementId>BOMBARDMENT_REQUIREMENTS_MET</RequirementId>
@@ -806,6 +834,7 @@
 			<RequirementSetId>AIR_SUPERIORITY_FIGHTER_REQUIREMENTS</RequirementSetId>
 			<RequirementId>OPPONENT_IS_GROUND_ATTACK_UNIT_REQUIREMENTS</RequirementId>
 		</Row>
+		
 		<!--Naval Ranged-->
 		<Row>
 			<RequirementSetId>BOMBARD_VS_NAVAL_REQUIREMENTS</RequirementSetId>
@@ -831,6 +860,7 @@
 			<RequirementSetId>BOMBARD_VS_DISTRICT_REQUIREMENTS</RequirementSetId>
 			<RequirementId>PLOT_DISTRICT_IS_DEFENDED_REQUIREMENTS</RequirementId>
 		</Row>
+		
 		<!-- Marines -->
 		<Row>
 			<RequirementSetId>RIVER_PATROL_REQUIREMENTS</RequirementSetId>
@@ -840,6 +870,7 @@
 			<RequirementSetId>RIVER_PATROL_REQUIREMENTS</RequirementSetId>
 			<RequirementId>REQUIRES_PLOT_ADJACENT_TO_RIVER</RequirementId>
 		</Row>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row>
 			<RequirementSetId>LK_OPPONENT_MELEE_ANTI_CAV_REQUIREMENTS</RequirementSetId>
@@ -954,10 +985,12 @@
 		<Row ModifierId="STRATEGIC_BOMBING_VS_DISTRICTS" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_STRATEGIC_BOMBING_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="CARPET_BOMBING_BONUS_VS_LAND" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_CARPET_BOMBING_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="ASF_BONUS_VS_GROUND_ATTACK" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		
 		<!-- Naval Bombard -->
 		<Row ModifierId="BOMBARD_BONUS_VS_NAVAL" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="BOMBARD_BONUS_VS_LAND" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_BOMBARD_VS_LAND_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="BOMBARD_BONUS_VS_DISTRICT_DEFENSES" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		
 		<!-- Marines -->
 		<Row ModifierId="RIVER_PATROL_COMBAT_BONUS" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_RIVER_PATROL_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="EXPEDITIONARY_FORCE_FOREIGN_COMBAT" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
@@ -965,6 +998,7 @@
 		<Row ModifierId="COMBINED_ARMS_NO_REDUCTION_DAMAGE" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_COMBINED_ARMS_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="CORPSMEN_BONUS_HEALTH" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_CORPSMEN_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="ELITE_RAIDER_STRONG_WHEN_ATTACKING" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_ELITE_RAIDER_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
+		
 		<!-- Automatic Gun - Created by Laurana Kanan -->
 		<Row ModifierId="LK_FUSILLADE_RANGED_VS_MELEE_ANTI_CAV" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_FUSILLADE_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
 		<Row ModifierId="LK_COUNTER_FIRE_VS_RANGED_SIEGE" Context="Preview" Text="+{1_Amount} {LOC_PROMOTION_LK_COUNTER_FIRE_NAME} {LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT}"/>
