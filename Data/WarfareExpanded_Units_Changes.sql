@@ -234,7 +234,7 @@ UPDATE Units SET PromotionClass = 'PROMOTION_CLASS_MARINE' 					WHERE UnitType =
 UPDATE Units SET Combat = 28, RangedCombat = 33, Range = 1 					WHERE UnitType = 'UNIT_GREEK_PELTAST' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_GREEK_PELTAST');
 UPDATE Units SET Combat = 75, RangedCombat = 85, Range = 1, PrereqTech = 'TECH_STEALTH_TECHNOLOGY', PromotionClass = 'PROMOTION_CLASS_ANTI_CAVALRY' 
 												WHERE UnitType = 'UNIT_AMERICAN_AH64_APACHE' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_AMERICAN_AH64_APACHE');
-UPDATE Units SET Bombard = 60, RangedCombat = 0, PrereqTech = 'TECH_ASTRONOMY', PromotionClass = 'PROMOTION_CLASS_NAVAL_RANGED' 
+UPDATE Units SET Bombard = 60, RangedCombat = 0, PrereqTech = 'TECH_ASTRONOMY', PromotionClass = 'PROMOTION_CLASS_NAVAL_BOMBARD' 
 												WHERE UnitType = 'UNIT_ENGLISH_SHIP_OF_THE_LINE' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_ENGLISH_SHIP_OF_THE_LINE');
 UPDATE Units SET BaseMoves = 4, Cost = 600, Combat = 82, Bombard = 92, RangedCombat = 0, Maintenance = 7, PromotionClass = 'PROMOTION_CLASS_NAVAL_BOMBARD', PrereqTech = 'TECH_SYNTHETIC_MATERIALS', StrategicResource = null 
 												WHERE UnitType = 'UNIT_JAPANESE_YAMATO' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_JAPANESE_YAMATO');
