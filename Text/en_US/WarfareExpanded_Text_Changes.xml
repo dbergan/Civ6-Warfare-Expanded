@@ -83,5 +83,34 @@
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1">
 			<Text>In the rating system of the British Royal Navy used to categorise sailing warships, a first rate was the designation for the largest ships of the line, equivalent to the super-dreadnought of more recent times. Originating in the Jacobean era with the designation of Ships Royal capable of carrying at least 400 men, the size and establishment of first-rates evolved over the following 250 years to eventually denote ships of the line carrying at least 80 guns across three gundecks. By the end of the eighteenth century, a first-rate carried not less than 100 guns and more than 850 crew, and had a measurement tonnage of some 2,000 tons.</Text>
 		</Replace>
+		
+		<!-- DB's Naval Units Balance -->
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+			<Text>Fast Renaissance era exploration melee naval unit. Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KOREAN_TURTLE_SHIP_DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC__DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC__DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC__DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC__DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC__DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC__DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
+		<Replace Tag="LOC__DESCRIPTION">
+			<Text> Naval melee units are great at attacking other ships and coastal cities, but their damage is reduced by 85% against walled cities.</Text>
+		</Replace>
 	</BaseGameText>
 </GameData>
