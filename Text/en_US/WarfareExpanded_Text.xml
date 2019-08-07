@@ -60,13 +60,13 @@
 			<Text>Heavy Cannon</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION">
-			<Text>Industrial era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they have more than 2 movement (e.g. great general, logistics) or the Expert Crew promotion.</Text>
+			<Text>Industrial era bombard unit, ideal for attacking cities.  Cannot move and attack on the same turn unless they start the turn with more than 2 movement (e.g. great general, logistics) or have the Expert Crew promotion. (Or even if the denominator is greater than the base movement... for example when a seige unit starts with 2 movement, moves once, and then a great general comes alongside, it can bombard.)</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_NAME">
 			<Text>Heavy Howitzer</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION">
-			<Text>Atomic era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they have more than 2 movement (e.g. great general, logistics) or the Expert Crew promotion.</Text>
+			<Text>Atomic era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they start the turn with more than 3 movement (e.g. great general, logistics) or have the Expert Crew promotion. (Or even if the denominator is greater than the base movement... for example when a Heavy Howitzer starts with 3 movement, moves once, and then a great general comes alongside, it can bombard.)</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_LINE_INFANTRY_NAME">
 			<Text>Line Infantry</Text>
