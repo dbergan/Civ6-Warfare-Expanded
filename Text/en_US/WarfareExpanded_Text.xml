@@ -66,7 +66,7 @@
 			<Text>Heavy Howitzer</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION">
-			<Text>Atomic era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they start the turn with more than 3 movement (e.g. great general, logistics) or have the Expert Crew promotion. (Or at any point if the denominator is greater than the base movement... for example when a Heavy Howitzer starts with 3 movement, moves once, and then a great general comes alongside or logistics is adopted, it can bombard.)</Text>
+			<Text>Atomic era bombard unit, ideal for attacking cities and capable of launching nuclear weapons. Cannot move and attack on the same turn unless they start the turn with more than 3 movement (e.g. great general, logistics) or have the Expert Crew promotion. (Or at any point if the denominator is greater than the base movement... for example when a Heavy Howitzer starts with 3 movement, moves once, and then a great general comes alongside or logistics is adopted, it can bombard.)</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_LINE_INFANTRY_NAME">
 			<Text>Line Infantry</Text>
