@@ -239,3 +239,5 @@ UPDATE Units SET Bombard = 60, RangedCombat = 0, PrereqTech = 'TECH_ASTRONOMY', 
 												WHERE UnitType = 'UNIT_ENGLISH_SHIP_OF_THE_LINE' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_ENGLISH_SHIP_OF_THE_LINE');
 UPDATE Units SET BaseMoves = 4, Cost = 600, Combat = 82, Bombard = 92, RangedCombat = 0, Maintenance = 7, PromotionClass = 'PROMOTION_CLASS_NAVAL_BOMBARD', PrereqTech = 'TECH_SYNTHETIC_MATERIALS', StrategicResource = null 
 												WHERE UnitType = 'UNIT_JAPANESE_YAMATO' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_JAPANESE_YAMATO');
+UPDATE Units SET Combat = 88, PrereqTech = 'TECH_COMBINED_ARMS', MandatoryObsoleteTech = 'TECH_COMPOSITES' WHERE UnitType = 'UNIT_GERMAN_PANZER' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_GERMAN_PANZER');
+UPDATE Units SET Cost = 500, Combat = 88, PrereqTech = 'TECH_COMBINED_ARMS', MandatoryObsoleteTech = 'TECH_COMPOSITES' WHERE UnitType = 'UNIT_RUSSIAN_T34' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_RUSSIAN_T34');
