@@ -1,6 +1,4 @@
-# Civ6-Warfare-Expanded
-
-# What's this github for?
+# Civ6-Warfare-Expanded  -  What's this github for?
 GitHub is a great free resource for a team of people to work together on a programming project in a transparent and organized way. The files for this mod are hosted here at GitHub so that anyone can easily make suggestions, fix bugs, or provide translations. If you're new to GitHub, here are the basics:
 
 # These Data/Text files are more up to date than the ones at Steam, how can I download them and use them in my game?
