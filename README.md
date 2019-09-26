@@ -1,9 +1,9 @@
 # Civ6-Warfare-Expanded
 
 # What's this github for?
-GitHub is the best free way for a team of people to work together on a programming project in a transparent and organized way. The files for this mod are hosted here at GitHub so that anyone can easily make suggestions, fix bugs, or provide translations. If you're new to GitHub, here are the basics:
+GitHub is a great free resource for a team of people to work together on a programming project in a transparent and organized way. The files for this mod are hosted here at GitHub so that anyone can easily make suggestions, fix bugs, or provide translations. If you're new to GitHub, here are the basics:
 
-# How can I get the latest Data/Text files and put them into my mod?
+# These Data/Text files are more up to date than the ones at Steam, how can I download them and use them in my game?
 
 1) Go here: https://github.com/dbergan/WarfareExpanded
 2) Click the Green "Clone or Download" button
@@ -11,23 +11,24 @@ GitHub is the best free way for a team of people to work together on a programmi
 4) Extract the zip into a folder
 5) There should be two folders in there (Data and Text), Copy/Paste these folders into your WarfareExpanded folder and overwrite the existing files
 
-My WarfareExpanded folder is here, yours may be in a slightly different location.
-
+My WarfareExpanded folder is here:
 C:\SteamLibrary\steamapps\workshop\content\289070\1527621312
 
-# How do I suggesting a simple change?
+Yours may be in a slightly different location depending on how you set up Steam, but the part from \steamapps\ on should be the same.
 
-1) You will need a github account. Create one here:
+# How do I suggest a simple change?
+
+1) You will need a free github account. Create one here:
 https://github.com/join
 
-2) Once it's created and you've logged into github, go here: https://github.com/dbergan/WarfareExpanded
+2) Once it's created and you've logged in, go here: https://github.com/dbergan/WarfareExpanded
 
 3) Find the file where the change is to be made, for example, click on
 Text >> en_US >> WarfareExpanded_Text.xml
 
-4) Click the pencil icon on the top-left part of the code, now the code section will become editable.
+4) Click the pencil icon on the top-left part of the code, now the code section will become editable
 
-5) Make whatever changes you want to this file, then go to the bottom of the page.
+5) Make whatever changes you want to this file, then go to the bottom of the page
 
 6) Here you fill out a title and extended description of what you did, then press the green "Propose file change" button
 
@@ -36,9 +37,9 @@ Text >> en_US >> WarfareExpanded_Text.xml
 That's it! We automatically get a notification of the pull request and will merge it in at our convenience. If we have any questions, we'll let you know.
 
 
-# How do I suggesting a complex change?
+# How do I suggest a complex change?
 
-1) You will need a github account. Create one here:
+1) You will need a free github account. Create one here:
 https://github.com/join
 
 2) Once it's created and you've logged into github, go here: https://github.com/dbergan/WarfareExpanded
