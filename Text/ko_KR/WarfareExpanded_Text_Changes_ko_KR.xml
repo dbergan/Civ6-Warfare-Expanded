@@ -6,7 +6,7 @@
 			<Text>중화기병</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="ko_KR">
-			<Text>원자시대의 화력지원 유닛입니다.</Text>
+			<Text>원자시대 화력지원 유닛.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="ko_KR">
 			<Text>현대 중화기병</Text>
