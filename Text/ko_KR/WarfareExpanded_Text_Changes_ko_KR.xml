@@ -18,7 +18,7 @@
 			<Text>전투 헬리콥터</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="ko_KR">
-			<Text>빠르게 이동하는 대기병유닛으로 전차 및 차량에 탑승한 유닛에게 효과적입니다.</Text>
+			<Text>정보시대의 빠르게 이동하는 대기병 유닛으로 전차 및 차량에 탑승한 유닛에게 효과적입니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="ko_KR">
 			<Text>많은 수의 합궁병을 보유했지만, 아직도 부족한점이 많습니다. 기계장치를 사용해보는건 어떨까요?</Text>
@@ -27,7 +27,7 @@
 			<Text>인도 고유의 고전시대 중기병유닛이며 중장기병을 대체합니다. 인접한 적의 전투력[ICON_STRENGTH]이 -5 감소합니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="ko_KR">
-			<Text>현대시대의 화력지원 유닛입니다.</Text>
+			<Text>보너스 [ICON_STRENGTH]가 반 근거리 전투, 항 기갑부대 및 경기병 부대 유닛에 대한 전투력에 부여됩니다. 화력 또는 책략 향상이 없는 한 같은 턴에서 이동하고 공격할 수 없다.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="ko_KR">
 			<Text>원자시대의 근접유닛입니다.</Text>
@@ -81,7 +81,7 @@
 			<Text>영국 특유의 르네상스시대 해상포격유닛이며, 전열함을 대체합니다. 다른 1급 전열함과 인접해 있을때 전투력[ICON_Strength] +7을 얻습니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
-			<Text>In the rating system of the British Royal Navy used to categorise sailing warships, a first rate was the designation for the largest ships of the line, equivalent to the super-dreadnought of more recent times. Originating in the Jacobean era with the designation of Ships Royal capable of carrying at least 400 men, the size and establishment of first-rates evolved over the following 250 years to eventually denote ships of the line carrying at least 80 guns across three gundecks. By the end of the eighteenth century, a first-rate carried not less than 100 guns and more than 850 crew, and had a measurement tonnage of some 2,000 tons.</Text>
+			<Text>영국 왕실 해군의 군함 등급제에서 1급은 가장 큰 전함으로, 최신의 20세기 전함과 같다. 최소 400명의 남자를 수용 가능한 로얄 선박의 지명이 제임스 1세 시대에 유래하고, 향후 250년동안 1등급의 규모와 시설은 진화하여 마침내 최소 80정의 대포를 3개의 대포를 놓는 갑판에 배치한 선박을 대표했다. 18세기 말의 1등급 선박은 적어도 100정의 대포, 850명의 인원 그리고 대략 2000톤 가량을 실을 수 있었다.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
