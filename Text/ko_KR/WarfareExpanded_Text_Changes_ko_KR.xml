@@ -27,7 +27,7 @@
 			<Text>인도 고유의 고전시대 중기병유닛이며 중장기병을 대체합니다. 인접한 적의 전투력[ICON_STRENGTH]이 -5 감소합니다.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="ko_KR">
-			<Text>보너스 [ICON_STRENGTH]가 반 근거리 전투, 항 기갑부대 및 경기병 부대 유닛에 대한 전투력에 부여됩니다. 화력 또는 책략 향상이 없는 한 같은 턴에서 이동하고 공격할 수 없다.</Text>
+			<Text>현대 시대의 화력 지원 유닛 입니다. 보너스 [ICON_STRENGTH]가 반 근거리 전투, 항 기갑부대 및 경기병 부대 유닛에 대한 전투력에 부여됩니다. 화력 또는 책략 향상이 없는 한 같은 턴에서 이동하고 공격할 수 없다.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="ko_KR">
 			<Text>원자시대의 근접유닛입니다.</Text>
