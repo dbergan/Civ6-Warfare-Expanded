@@ -12,7 +12,7 @@
 			<Text>Composite Bowman</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION">
-			<Text>Ancient era ranged unit.</Text>
+			<Text>Classical era ranged unit.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_BOWMAN">
 			<Text>Own 3 Composite Bowman.</Text>
