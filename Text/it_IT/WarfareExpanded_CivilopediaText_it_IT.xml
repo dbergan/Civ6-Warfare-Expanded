@@ -1,984 +1,984 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<LocalizedText>
+	<BaseGameText>
 		<!-- Land Units -->
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_1">
 			<Text>La fanteria corazzata è una fanteria equipaggiata parzialmente con cingoli, per trasporto corazzato per il personale (APC) o come veicoli da combattimento da fanteria (IFV), per il trasporto e per il combattimento (vedi anche forze meccanizzate). La fanteria corazzata si distingue dalla fanteria motorizzata per il fatto che i suoi veicoli offrono una forma di protezione dal fuoco nemico, al contrario dei veicoli a ruote "morbidi" (come i camion o le jeep) della fanteria motorizzata. Le armi di supporto per la fanteria corazzata sono anche esse dotate di trasporto motorizzato, oppure sono costruite direttamente sui veicoli da combattimento per fornire aiuto in combattimento alla fanteria corazzata.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_INFANTRY_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>Ampiamente considerato il più sofisticato di tutti i modelli di arco, l'arco composito si differenzia dagli altri modelli tradizionali in quanto, essi sono costruiti con strisce stratificate di osso, corno o altri materiali incollati insieme per formare un arco estremamente forte e potente. Si pensa che l'arco composito sia originario dei nomadi tribali dell'Asia nel primo o secondo millennio AC.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMPOSITE_BOWMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_1">
 			<Text>La colubrina era un antenato relativamente semplice del moschetto, e in seguito è diventato un cannone medievale, adattato per essere usato dai francesi nel XV secolo, e successivamente adattato per uso navale dagli inglesi alla fine del XVI secolo. La colubrina veniva usata per bombardare bersagli a distanza. L'arma aveva una canna relativamente lunga e di fattura leggera. La colubrina sparava proiettili compatti e rotondi ad una elevata velocita di volo, raggiungeva una grande distanza e manteneva un tiro dritto e preciso. Il colpo era la classica palla di cannone sferica e solida. Nel complesso, la colubrina è stata un significativo progresso. Siccome sparava una palla di ferro e faceva affidamento sulla polvere da sparo per la propulsione, la pesante palla manteneva un volo relativamente stabile e la propulsione data dalla polvere da sparo rendeva il volo rapido e a distanza lunga.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULVERIN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
-			<Text>Il cannone da campo è un pezzo di artiglieria. In origine il termine si riferiva a cannoni piùttosto piccoli che potevano accompagnare un esercito in marcia, quando si trovavano in combattimento potevano essere facilmente spostati, sul campo di battaglia, in risposta alle mutevoli circostanze (artiglieria da campo), a differenza dei cannoni installati su un forte (artiglieria di guarnigione/artiglieria costiera ), o di cannoni o mortai d'assedio, i quali erano troppo grandi per essere spostati rapidamente, e utili solo per un assedio. Spostando i cannoni da un punto all'altro durante la battaglia, la fanteria poteva utilizzarli in qualunque terreno permettendo di rompere le formazioni nemiche, questo aumentava l'efficacia complessiva della fanteria.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_1">
+			<Text>Il cannone da battaglia è un pezzo di artiglieria. In origine il termine si riferiva a cannoni piùttosto piccoli che potevano accompagnare un esercito in marcia, quando si trovavano in combattimento potevano essere facilmente spostati, sul campo di battaglia, in risposta alle mutevoli circostanze (artiglieria da campo), a differenza dei cannoni installati su un forte (artiglieria di guarnigione/artiglieria costiera ), o di cannoni o mortai d'assedio, i quali erano troppo grandi per essere spostati rapidamente, e utili solo per un assedio. Spostando i cannoni da un punto all'altro durante la battaglia, la fanteria poteva utilizzarli in qualunque terreno permettendo di rompere le formazioni nemiche, questo aumentava l'efficacia complessiva della fanteria.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_GUN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_1">
 			<Text>La fanteria pesante si riferisce ai fanti pesantemente armati e addestrati a colpire con assalti frontali e/o a mantenere il corpo centrale dello schieramento difensivo di una linea di battaglia. Questo li differenzia dalla fanteria media o leggera che sono più truppe schermagliatrici relativamente mobili e leggermente armate, destinate più che altro al mantenimento, all'esplorazione e agli altri ruoli non adatti ai soldati pesanti. Il concetto di fanteria pesante è stato reso in gran parte obsoleto dai progressi del XX secolo nelle tattiche di battaglia, nelle armi leggere e nella tecnologia delle armature corporali che hanno prodotto un ruolo più consolidato per il soldato di fanteria. Come tale, il termine "fanteria pesante" si riferisce quasi sempre alle truppe dell'Età pre-polvere da sparo. Nell'antica Grecia l'oplite era una forma comune di fanteria pesante. Erodoto ha descritto un'unità di fanteria d'élite di 10.000 soldati, che chiamava gli Immortali, nell'esercito dell'impero achemenide. L'esercito di Alessandro impiegò la fanteria conosciuta come falange - soldati equipaggiati con un piccolo scudo e una lunga picca, e impiegati in una formazione conosciuta come la falange della sarissa. La fanteria pesante della repubblica romana pre-mariana includeva gli Hastati, i Principi e i Triarii.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_INFANTRY_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>Un catafratto era una forma di cavalleria pesante corazzata usata nell'antica guerra da un certo numero di popoli nell'Eurasia occidentale e nella steppa eurasiatica. La parola inglese deriva dal greco Kataphraktos (plurale: Kataphraktoi), che significa letteralmente "corazzato" o "completamente chiuso". Storicamente, il catafratto era un cavaliere pesantemente corazzato, sia il cavaliere che il destriero erano coperti dalla testa ai piedi da un'armatura di scaglie, mentre brandivano un kontos o una lancia come arma. I catafratti servivano sia come cavalieri d'élite che come forze d'assalto per la maggior parte degli imperi e delle nazioni che li avevano schierati, venivano usati principalmente per impetuose cariche per sfondare le formazioni della fanteria nemica. Le cronache di molti storici dai primi tempi dell'Antichità fino all'Alto Medioevo, ritengono, che, il catafratto abbia influenzato il concetto dei cavalieri europei, attraverso il contatto con l'impero bizantino.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_HORSEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_1">
 			<Text>Reiter (tedesco: Reiter, o cavaliere a cavallo, accorciato dall'originale "Schwarze Reiter" - letteralmente, "cavalieri neri" per il colore della loro armatura) erano un tipo di cavalleria, che apparve negli eserciti dell'Europa occidentale nel XVI secolo in luogo degli antiquati cavalieri armati di lancia, nello stesso momento in cui i corazzieri e i dragoni iniziarono a raggiungere la distinzione dagli altri tipi di cavalleria. I Reiters hanno reso le armi da fuoco come armi primarie, in contrasto con la precedente cavalleria pesante dell'Europa occidentale, che si basava principalmente sulle armi da mischia. Le armi principali dei Reiters erano due o più pistole e una spada; la maggior parte indossava elmi e corazze e spesso armature aggiuntive per le braccia e le gambe; qualche volta portavano anche una lunga arma da cavalleria nota come un arcabus o carabina (anche se questo tipo di cavalieri divenne presto considerato come una classe separata di cavalleria: arquebusier o la britannica harquebusier).</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_REITER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_1">
 			<Text>Lo sviluppo dei carri armati nella prima guerra mondiale fu una risposta alla situazione di stallo che si era sviluppata sul fronte occidentale. Sebbene i veicoli che incorporavano i principi di base del carro armato (armatura, potenza di fuoco e mobilità su tutti i terreni) fossero stati progettati nel decennio prima della Guerra, furono le allarmanti pesanti vittime dell'inizio della guerra di trincea che stimolarono il loro sviluppo. Le prime ricerche presero luogo sia in Gran Bretagna che in Francia, mentre la Germania ne ha tardivamente seguito il loro sviluppo. I primi carri armati erano meccanicamente inaffidabili. Ci sono stati dei problemi che hanno causato notevoli rallentamenti durante lo schieramento e il movimento. Il terreno con pesanti pendenze era invalicabile per i veicoli convenzionali, e solo i carri armati altamente mobili come il Mark e il FTs se la cavavano abbastanza bene. La forma romboidale del Mark I, completamente cingolato e la sua lunghezza di 26 piedi (8 m) rendeva possibile il superamento degli ostacoli, in particolare le trincee larghe, che i veicoli a ruote non potevano superare.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSHIP_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_1">
 			<Text>La pratica di rigatura di linee a spirale all'interno della canna del fucile venne applicata più frequentemente all'artiglieria dal 1855, poiché conferiva ai proiettili dei cannoni maggiore stabilità giroscopica, e ne migliorava l'accuratezza. Rendendosi conto che il ferro era più difficile da perforare con il cannone caricato a culatta, Armstrong progettò pistole a canna rigata, che si dimostrarono efficaci; Il Times scrisse: "Anche i più fedeli credenti nell'invulnerabilità delle nostre attuali corazzate furono obbligati a confessare che contro tali artiglierie, a tali distanze, i loro piatti lati erano quasi penetrabili come le vecchie navi di legno". Il cannone superiore del mondo occidentale portò enormi vantaggi nella guerra. Ad esempio, durante la prima guerra dell'oppio in Cina, nell XIX secolo, le navi da guerra britanniche bombardarono da lontano le zone costiere e le fortificazioni, al sicuro dalla portata dei cannoni cinesi.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLED_CANNON_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_1">
 			<Text>L'Obice pesante è un obice di grosso calibro equipaggiato con un proprio sistema di propulsione per muoversi verso il bersaglio. Sono veicoli ad alta mobilità, solitamente basati su binari continui, inclinati o coperti e con un obice di grosso calibro. Solitamente sono usati per il supporto del bombardamento indiretto a lungo raggio sul campo di battaglia. L'artiglieria pesante moderna SP è altamente informatizzata con la capacità di rilevare autonomamente le posizioni di tiro usando sistemi come il GPS e i sistemi di navigazione inerziale. Questo, in combinazione con i computer di controllo del fuoco digitale/balistici e le comunicazioni digitali, consente ai singoli cannoni di disperdere su un'ampia area una pioggia di proiettili sul bersaglio insieme agli altri cannoni della batteria.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HEAVY_HOWITZER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_1">
 			<Text>La fanteria di linea è il tipo di fanteria che ha costituito la base degli eserciti terrestri europei dalla metà del XVII secolo alla metà del XIX secolo. Per le esercitazioni sia di battaglia che di parata consisteva in 2-4 ranghi di soldati a piedi allineati l'uno accanto all'altro in un rigido allineamento, massimizzando così l'effetto della loro potenza di fuoco. Per estensione, il termine venne applicato ai reggimenti regolari "della linea" in contrasto con schermagliatori, guardie a piedi, milizie e altre categorie speciali di fanteria. La fanteria di linea usava principalmente tre formazioni nelle sue battaglie: la linea, il quadrato e la colonna. Contro la cavalleria nemica circostante, la fanteria di linea poteva adottare rapidamente formazioni quadrate per fornire protezione. Tali quadrati erano vuoti al centro (composti da quattro linee), a differenza del quadrato dei picchieri e dei moschettieri di vecchio stile.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LINE_INFANTRY_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_1">
 			<Text>All'inizio del XX secolo, il mondo ha vissuto due delle guerre più letali e distruttive della storia umana. Fu un periodo di notevole progresso nella tecnologia dell'uccidere, e i fanti della prima guerra mondiale dovettero affrontare ogni possibile orrore che gli scienziati e gli ingegneri del mondo potevano lanciare contro di loro. In genere armati di poco più di un fucile a scatto e di una semplice uniforme, queste truppe hanno sfidato gli orrori della guerra di trincea per difendere le loro case e le loro famiglie.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_INFANTRY_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_1">
 			<Text>L'obice M101A1 da 105 mm (precedentemente denominato M2A1) era un pezzo di artiglieria sviluppato e utilizzato dagli Stati Uniti. È stato l'obice leggero standard degli Stati Uniti per il campo di battaglia nella Seconda Guerra Mondiale e ha visto l'azione sia nei teatri europei che in quelli del Pacifico. Entrato in produzione nel 1941, ha rapidamente acquisito una reputazione di precisione e impatto potente. L'M101A1 ha sparato munizioni semi-fisse ad alto esplosivo (HE) da 105 mm (4.1 pollici) e ha una portata di 12.330 iarde (11.270 m), rendendolo adatto a supportare la fanteria.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_HOWITZER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_1">
 			<Text>L'obice M102 da 105 mm venne utilizzato nelle operazioni di volo aereo (gli elicotteri), attacco aereo e fanteria leggera. Il carrello dell'arma è in alluminio leggero saldato, montato su un meccanismo a rinculo variabile. L'arma viene caricata e posizionata manualmente e può essere rimorchiata da un camion da 2 tonnellate o da un veicolo multifunzionale ad alta mobilità (HMMWV), può essere trasportata da elicotteri UH-60 Black Hawk o può essere lanciata con il paracadute con unità aviotrasportate. Quando è collocato, l'alto volume di fuoco dell'obice compensa in larga misura il peso esplosivo inferiore del proiettile rispetto agli obici dell'esercito da 155 mm e da 8 pollici. Dal 1964, l'esercito acquisì 1.150 M102 trainati da obici. L'arma venne sostituita dall'obice da 105 mm della serie M119.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FIELD_ARTILLERY_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_1">
 			<Text>L'archibugiere era la forma di cavalleria più diffusa in tutta l'Europa occidentale durante l'inizio e la metà del XVII secolo. I primi archibugieri erano caratterizzati dall'uso di una forma di carabina, chiamata "archibugio". Secondo John Cruso nel suo manuale di cavalleria del 1632, l'archibugio fu "inventato per la prima volta in Francia". Questo tipo di cavalleggero era caratterizzato dall'uso di una forma di carabina, il primo tipo di carabina usata era chiamato "archibugio" (una parola derivata dall'arma più pesante della fanteria, l'archibugio). Nel tardo XVI secolo e nei primi decenni del secolo successivo, l'archibugiere fu concepito, come il simile e precedente petronel, come supporto per la cavalleria pesantemente armata, mezzi-lancieri o corazzieri armati di pistole e reiter.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_1" Language="it_IT">
-			<Text>La fanteria moderna dei fucilieri divenne la forza principale per prendere e tenere il terreno sui campi di battaglia in tutto il mondo, un elemento vitale del combattimento combinato delle armi. Man mano che la potenza di fuoco continuava ad aumentare, l'uso delle linee di fanteria diminuiva, fino a quando tutta la fanteria divenne in pratica solo fanteria leggera. Un fucile d'assalto è un fucile a fuoco selettivo che utilizza una cartuccia intermedia e un caricatore rimovibile. I fucili d'assalto furono usati per la prima volta durante la seconda guerra mondiale. Sebbene le nazioni occidentali fossero lente nell'accettare il concetto del fucile d'assalto, verso la fine del XX secolo erano diventate l'arma standard nella maggior parte degli eserciti del mondo, sostituendo i fucili a piena-propulsione e i mitraglieri nella maggior parte dei ruoli.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>La fanteria moderna dei fucilieri divenne la forza principale per conquistare e tenere il terreno sui campi di battaglia in tutto il mondo, un elemento vitale del combattimento combinato delle armi. Man mano che la potenza di fuoco continuava ad aumentare, l'uso delle linee di fanteria diminuiva, fino a quando tutta la fanteria divenne in pratica solo fanteria leggera. Un fucile d'assalto è un fucile a fuoco selettivo che utilizza una cartuccia intermedia e un caricatore rimovibile. I fucili d'assalto furono usati per la prima volta durante la seconda guerra mondiale. Sebbene le nazioni occidentali fossero lente nell'accettare il concetto del fucile d'assalto, verso la fine del XX secolo erano diventate l'arma standard nella maggior parte degli eserciti del mondo, sostituendo i fucili a piena-propulsione e i mitraglieri nella maggior parte dei ruoli.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_INFANTRY_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_1">
 			<Text>Discutibilmente, il primo MANPATS potrebbe essere il fucile anticarro sviluppato durante la prima guerra mondiale. Un fucile anticarro è un fucile progettato per penetrare l'armatura dei veicoli, in particolare quella dei carri armati. L'utilità dei fucili per questo scopo è diventata necessaria dall'introduzione dei carri armati nella prima guerra mondiale e fino alla guerra di Corea. Mentre l'armatura dei carri armati medi e pesanti diventava troppo spessa per essere penetrata dai proiettili rigidi dei fucili trasportati da un solo soldato, i fucili anticarro però continuavano ad essere usati anche contro altri bersagli. I fucili anti-materiali di oggi, come il Barrett M82, sono uno sviluppo della tecnologia della seconda guerra mondiale. Sebbene non siano più in grado di penetrare nemmeno le armature laterali dei principali carri armati, sono in grado di causare seri danni ai loro accessori esterni come periscopi e mitragliatrici, e di disabilitare o addirittura distruggere veicoli meno corazzati e di supporto, elicotteri, oggetti volanti a bassa quota come UAV e personale.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_RIFLE_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_1">
 			<Text>I fucili anticarro sono armi progettate per distruggere veicoli corazzati da posizioni difensive. Per penetrare nell'armatura del veicolo, sparano proiettili di calibro più piccolo da cannoni a canna più lunga per ottenere una velocità di volata più alta rispetto alle armi dell'artiglieria da campo, molti dei quali sono obici. La maggiore velocità e la balistica della traiettoria più dritta forniscono energia cinetica terminale in grado di penetrare l'armatura del bersaglio mobile/statico a un determinato raggio e angolo dell'impatto. Qualsiasi cannone da campo di artiglieria con canna lunga da 15 a 25 volte più lungo del suo calibro poteva anche sparare munizioni anticarro, come il Soviet A-19.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_2">
 			<Text>La Germania ha introdotto cannoni anticarro più potenti, alcuni dei quali erano stati sviluppati nelle prime fasi della seconda guerra mondiale. Alla fine del 1942, i tedeschi avevano un eccellente design da 50 mm ad alta velocità, mentre affrontarono il QF 6-pounder introdotto nella campagna nordafricana dall'esercito britannico e successivamente adottato dall'esercito statunitense. Nel 1943 Wehrmacht fu costretta ad adottare calibri ancora più grandi sul fronte orientale, i 75 mm e i famosi cannoni da 88 mm. L'Armata Rossa utilizzava una varietà di cannoni da 45 mm, 57 mm e 100 mm, oltre a schierare i cannoni generici da 76,2 mm e 122 mm nel ruolo di anticarro.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ANTI_TANK_GUN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_1">
 			<Text>Con l'invenzione di fucili a ripetizione più accurati e veloci a metà del 19° secolo, la cavalleria iniziò a diventare sempre più vulnerabile. Molti eserciti hanno iniziato a usare truppe che potevano combattere a cavallo o a piedi secondo le circostanze. Combattere a cavallo con spade o lance consentirebbe un rapido movimento senza copertura dal fuoco nemico, mentre i combattimenti a piedi con i fucili potevano utilizzare le coperture del terreno e di formare anche linee difensive.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_2">
 			<Text>Nella seconda guerra boera, gli inglesi copiarono i boeri e accrebbero le loro grandi forze con la loro fanteria montata. Tra le varie formazioni ad hoc, la Yeomanry imperiale è stata formata da volontari in Gran Bretagna dal 1900 al 1901. Molti dei contingenti provenienti da Australia, Canada e Nuova Zelanda (ad esempio la cavalleria leggera Australiana) erano MI (fanteria a cavallo), così come gli "irregolari"(localmente formate) unità come il cavaliere leggero Imperiale e il cavaliere leggero Sud Africano.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_RIFLES_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_1">
 			<Text>L'archibugio, derivato dal tedesco Hakenbüchse, era una forma di cannone lungo che apparve in Europa nel XV secolo. Anche se il termine archibugio è stato applicato a molte diverse forme di armi da fuoco dal XV al XVII secolo, in origine si riferiva a "un'arma-portatile con una sporgenza a forma di uncino o aletta sulla superficie inferiore, utile per stabilizzarla contro i merli o altri oggetti quando si sparava." Questi "fucili ad uncino" erano nelle loro prime forme armi difensive montate sulle mura tedesche nei primi anni del 1400, ma alla fine del 1400 erano diventate armi da fuoco portatili. Lo sviluppo dell'archibugio è in qualche modo legato alla tecnologia sviluppata per la balestra in quanto senza il calcio della balestra, l'archibugio non avrebbe una piattaforma stabile per appoggiarlo sulla spalla.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARQUEBUSIER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THReplaceER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_1">
 			<Text>Un guerriero o un soldato armato principalmente con uno o più giavellotti era detto giavellottiere ed era considerato normalmente una fanteria leggera. Un giavellotto era una lancia leggera designata principalmente per essere lanciata, storicamente come arma da lancio. Il giavellotto veniva sempre lanciato con le mani, diversamente da archi e frecce e fionde, i quali i loro proiettili venivano lanciati da un meccanismo. I giavellotti furono trasportati dalla fanteria leggera Egiziana, come arma principale, e come alternativa ad una lancia o arco e frecce, generalmente insieme ad uno scudo. I peltasti, usualmente venivano usati come schermagliatori, erano armati con molti giavellotti, spesso con cinghie di cuoio da lancio per aumentare il potere di lancio. Dal terzo secolo AC, la legione Romana aggiunse un tipo di soldato da schermaglia alla sua formazione tattica. I Velites, i quali erano fanteria leggera armata di una spada corta (il gladio o pugio), un piccolo scudo rotondo e diversi giavellotti. Questi giavellotti erano chiamati veruta (dal singolare di "verutum").</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THReplaceER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THReplaceER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THReplaceER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THReplaceER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AXE_THROWER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_1">
 			<Text>Nei campi da battaglia dell'antica Grecia, i psiloi erano una fanteria estremamente leggera che agivano come schermagliatori e truppe da lancio. Nella letteratura Greca e Bizantina, i psiloi erano truppe leggere equippaggiate con armi da lancio, abili a combattere in formazioni libere e irregolari. I psiloi erano addestrati come schermagliatori. Il loro compito era di molestare le falangi nemiche prima dello scontro, per tentare di provocare il disordine e per proteggere le proprie linee dagli schermagliatori nemici. Venivano inviate per occupare terreni sopraleveati, intorno o dentro il campo da battaglia, nonchè a sconvolgere il nemico in qualsiasi modo durante la sua marcia, dispiegamento, o accampamento.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PELTAST_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_1" Language="it_IT">
-			<Text>Picca e Pistola è una formazione di combattimento di fanteria storica che si è evoluta durante le guerre italiane prima dell'evoluzione della baionetta del tardo XVII secolo. Le formazioni di fanteria del periodo erano un mix di picca e armi da fuoco precoci ("spari"), sia archibugieri che moschettieri. All'inizio, questa formazione di fanteria mista fu definita colunella ("colonelcy"), ed era comandata da un colonnello. E' una formazione di uomini compatti intervallati da unità armate di picche con unità più libere armate con armi da fuoco, inizialmente l'archibugio.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_1">
+			<Text>Picca e Moschetto è una formazione di combattimento di fanteria storica che si è evoluta durante le guerre italiane prima dell'evoluzione della baionetta del tardo XVII secolo. Le formazioni di fanteria del periodo erano un mix di picca e armi da fuoco precoci ("spari"), sia archibugieri che moschettieri. All'inizio, questa formazione di fanteria mista fu definita colunella ("colonelcy"), ed era comandata da un colonnello. E' una formazione di uomini compatti intervallati da unità armate di picche con unità più libere armate con armi da fuoco, inizialmente l'archibugio.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WECE_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
+		</Row>
 		<!-- Air Units -->
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_1">
 			<Text>Con lo scoppio della prima guerra mondiale, diverse nazioni, tra cui Gran Bretagna, Francia e Germania, avevano tutti sperimentato il concetto di bombardamento esplosivo dall'aereo. Nei primi giorni della guerra, le bombe venivano lanciate da tutti i tipi di velivoli, compresi aerei da ricognizione e da combattimento. Uno dei primi veri bombardieri introdotti durante la guerra, il Voisin III, è stato progettato dal costruttore di aerei francese Gabriel Voisin. Caratterizzato da un design biplano standard rinforzato con una struttura in acciaio, il Voisin III era in grado di trasportare carichi di oltre 300 libbre.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_1">
 			<Text>Il Northrop (successivamente Northrop Grumman) B-2 Spirit, noto anche come Bombardiere Stealth, è un bombardiere strategico americano di penetrazione pesante, caratterizzato da una bassa tecnologia stealth progettata per penetrare le difese antiaeree molto fitte; è progettato come un ala volante con un equipaggio di due. Il bombardiere può schierare sia le armi convenzionali che quelle termonucleari, come le bombe guidate dal Global Positioning System JDAM da 500 lb (230 kg) (o Mk 82) o sedici bombe nucleari B83 da 2.400 lb (1.100 kg). Il B-2 è l'unico velivolo riconosciuto in grado di trasportare grandi armi aria-terra in una configurazione invisibile.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_1">
 			<Text>Il Sukhoi Su-57 (russo: Сухой Су-57) è la denominazione destinata a un jet da combattimento multiruolo jet di quinta generazione, a doppio sedile, progettato per la superiorità aerea e le operazioni di attacco. L'aereo è il prodotto del PAK FA (russo: ПАК ФА, russo: Перспективный авиационный комплекс фронтовой авиации, Perspektivny Aviatsionny Kompleks Frontovoy Aviatsii, letteralmente "Prospective Aviation Complex of Frontline Aviation"), un programma di caccia di quinta generazione della Russian Air Force. Il nome interno di Sukhoi per l'aereo è T-50. Il Su-57 sarà il primo aereo nel servizio militare russo ad utilizzare la tecnologia stealth. Si prevede che il caccia disporrà di supercruise, stealth, supermanovrabilità e avionica avanzata per superare gli aerei da caccia della generazione precedente e le difese di terra e marittime.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
 			<Text>Il ruolo dell'aereo d'attacco fu definito durante la prima guerra mondiale, a sostegno delle forze di terra sui campi di battaglia. Il supporto sul campo di battaglia è generalmente suddiviso in un supporto aereo ravvicinato o nell'interdizione aerea, il primo richiede una stretta cooperazione generale con le forze amichevoli di superficie. Sebbene tali velivoli attaccassero anche bersagli nelle retrovie. Tali missioni richiedevano il volo dove era previsto un leggero fuoco antiaereo e dovevano operare a basse altitudini per identificare con precisione i bersagli. Gli altri ruoli, compresi quelli di bombardieri leggeri, bombardieri medi, bombardieri di profondità, ricognitori, caccia, caccia-bombardieri, potevano effettuare attacchi aerei sui campi di battaglia. Tutti questi tipi potevano danneggiare in modo significativo i bersagli a terra da un volo di bassa quota, sia con bombardamenti, mitragliatrici o entrambi.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
 			<Text>I Junkers Ju 87s della Luftwaffe tedesca divennero praticamente i sinonimi di uno supporto aereo ravvicinato durante i primi mesi della seconda guerra mondiale. L'Air Force del Commonwealth, guidata da Arthur Tedder, divenne la prima formazione tattica alleata a enfatizzare il ruolo di attacco, solitamente sotto forma di cacciabombardieri Hawker Hurricane e Curtiss P-40 o di "tank-busters" specializzati, come l'Hurricane Mk IID, armato con due pistole Vickers S da 40 mm (in particolare il numero 6 dello Squadron RAF). Intorno allo stesso tempo, una massiccia invasione delle forze dell'Asse aveva costretto le forze aeree sovietiche a espandere rapidamente la loro capacità di supporto dell'esercito, come l'Ilyushin Il-2 Sturmovik. Le donne piloti conosciute come "le streghe notturne" utilizzavano un obliquo, biplano leggero di intelaiatura di legno, il Polikarpov Po-2 con piccole bombe antiuomo in attacchi di "bombardamenti molesti" che si dimostrarono difficili da contrastare.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1">
 			<Text>Le forze aeree del secondo dopoguerra furono inizialmente riluttanti a sviluppare velivoli ad ala fissa appositamente per l'attacco al suolo. Sebbene il supporto aereo e l'interdizione ravvicinati rimanevano cruciali per il moderno campo di battaglia, gli aerei d'attacco sono meno affascinanti dei caccia, e sia i piloti che i strateghi militari nutrono un certo disprezzo ben coltivato per gli "amanti-fango". Il Douglas A-3 Skywarrior e il nordamericano A-5 Vigilante sono stati progettati per i ruoli di attacco nucleare dalla portaerei, mentre Grumman A-6 Intruder, Vought A-7, Corsair II, Sukhoi Su-25, A-10 Thunderbolt, Panavia Tornado, AMX, Dassault Etendard e Super Etendard e numerosi altri velivoli meno conosciuti sono stati progettati specificamente per il lavoro di attacco sulla terra, di attacco, di supporto ravvicinato e anti-carro, con poca o nessuna capacità aria-aria integrata nel proprio design.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_1">
 			<Text>La Lockheed Martin F-35 Lightning II è una famiglia di caccia multiruolo stealth single-single, monomotore, per tutti climi. L'aereo da combattimento di quinta generazione è progettato per eseguire missioni di attacco al suolo e di superiorità aerea. Ha tre modelli principali: la variante di decollo e atterraggio convenzionale F-35A (CTOL), la variante F-35B di decollo corto e atterraggio verticale (STOVL), e il Catapult Assisted Take-Off basato per la portaerei F-35C, con Variante Recupero Arrestato (CATOBAR). Il 31 luglio 2015, i Marines degli Stati Uniti hanno dichiarato di essere pronti a schierare il primo squadrone di caccia F-35B dopo test intensivi. Il 2 agosto 2016, l'U.S. Air Force ha dichiarato che il suo primo squadrone di caccia F-35A sono pronti al combattimento.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_1">
 			<Text>Wild Weasel è un nome in codice dato dalle Forze Armate degli Stati Uniti, in particolare dalla US Air Force, ad un aereo, di qualsiasi tipo, equipaggiato con missili a ricerca radar incaricato di distruggere i radar e le installazioni SAM dei sistemi di difesa aerea nemica. "Il primo successo di Wild Weasel è arrivato poco dopo la prima missione Wild Weasel il 20 dicembre 1965 quando i Capitani Al Lamb e Jack Donovan hanno distrutto un sito durante l'attacco Rolling Thunder sulla ferrovia di Yen Bai, a circa 75 miglia a nord-ovest di Hanoi." Il progetto di Wild Weasel è stato sviluppato dalla United States Air Force nel 1965, dopo l'introduzione dei missili SAM sovietici e il loro abbattimento degli aerei da combattimento degli Stati Uniti nei cieli del Vietnam del Nord. Il programma era diretto dal generale Kenneth Dempster.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_1">
 			<Text>Un flare o un esca di flare è una contromisura a raggi infrarossi aerea utilizzata da un aereo o elicottero per contrastare un missile terra-aria a raggi infrarossi ("ricerca di calore") o missile aria-aria. I flare sono comunemente composti da una composizione pirotecnica a base di magnesio o di un altro metallo a combustione calda, con una temperatura di combustione uguale o superiore allo scarico del motore. L'obiettivo è quello di fare in modo che il missile a raggi infrarossi cerchi la firma del calore proveniente dal flare piuttosto che dai motori dell'aereo. Chaff, originariamente chiamata Window dagli inglesi e Düppel dall'epoca della Seconda Guerra Mondiale, la tedesca Luftwaffe (dal sobborgo di Berlino dove fu inizialmente sviluppata), è una contromisura radar in cui gli aerei o altri bersagli diffondono una nuvola di piccoli e sottili pezzi di alluminio , fibra di vetro metallizzata o plastica, che appare come un gruppo di bersagli primari sugli schermi radar o inondano lo schermo di ritorni multipli.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_1">
 			<Text>Una sortita (dalla parola francese che significa "uscita") è uno schieramento o una spedizione di un'unità militare, sia essa un velivolo, una nave o truppe, da un punto di forza. La sortita, di uno o più velivoli o navi, di solito ha una missione specifica. Il tasso di sortita è il numero di sortite che una data unità può eseguire in un dato momento.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_1">
 			<Text>Subito dopo che le mitragliatrici furono montate sui caccia biplani, i piloti con le munizioni inutilizzate, che tornavano da una missione, si divertivano a picchiare sparando contro dei bersagli a terra ... di solito i poveri convogli di fanteria e rifornimento che erano bloccati sotto il fango sul Fronte Occidentale. In breve tempo, i Generali vedendo l'utilità di quest'azione, cominciarono ad usare il bombardamento a terra come parte delle tattiche aeree (questa era meno pericolosa dei combattimenti aerei). I progettisti dell'aviazione hanno iniziato a costruire aerei dedicati all'attacco di terra, come gli Junkers J.1 con due mitragliatrici rivolte verso il basso. Durante la seconda guerra mondiale la maggior parte dei combattenti aveva aerei destinati a mitragliare, montando più mitragliatrici e anche alcuni piccoli razzi. Una bomba guidata (nota anche come bomba intelligente, unità bomba guidata o GBU) è una munizione di precisione progettata per ottenere un Cerchio di errore più piccolo possibile (CEP). Poiché gli effetti del danno delle armi esplosive si riducono con la distanza in base a una legge di potenza, anche i modesti miglioramenti in accuratezza (e quindi la riduzione dell'errore per la distanza) consentono di attaccare efficacemente un bersaglio con un numero sempre minore di bombe. Pertanto, con le armi guidate, vengono messi a rischio un minor numero di membri dell'equipaggio, meno armamenti impiegati e danni collaterali ridotti.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_1">
 			<Text>Il bombardamento a tappeto, noto anche come bombardamento di saturazione, è un grande bombardamento aereo fatto in modo progressivo per infliggere danni in ogni parte di un'area geografica selezionata. La frase evoca l'immagine di esplosioni che coprono completamente un'area, nello stesso modo in cui un tappeto copre un pavimento. Il bombardamento a tappeto si ottiene di solito facendo cadere molte bombe non guidate.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_1">
 			<Text>Il bombardamento strategico è una strategia militare utilizzata in una guerra totale con l'obiettivo di sconfiggere il nemico distruggendo il suo morale o la sua capacità economica di produrre e trasportare materiale nei teatri delle operazioni militari, o entrambi. Si tratta di un attacco aereo organizzato sistematicamente ed eseguito che può utilizzare bombardieri strategici, missili a lungo o medio raggio o aerei da caccia muniti di armi nucleari per attaccare obiettivi ritenuti vitali per la capacità bellica del nemico.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_1">
 			<Text>Un caccia di superiorità aerea, anche detto caccia superiorità-aerea, è un tipo di aereo da combattimento progettato per entrare e prendere il controllo dello spazio aereo nemico come mezzo per stabilire il completo dominio sull'aeronautica nemica (supremazia aerea). I caccia di superiorità aerea sono progettati principalmente per ingaggiare efficacemente i caccia nemici, più di tutti gli altri tipi di velivoli, anche se alcuni possono avere un ruolo secondario per gli attacchi aria-terra.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_1">
 			<Text>Un velivolo senza pilota (UAV), comunemente noto come un drone, è un velivolo senza un umano a bordo come pilota. Gli UAV sono un componente del sistema aereo senza pilota (UAS); che includono un UAV, un controllore di terra e un sistema di comunicazione tra i due. Il volo degli UAV può funzionare con vari gradi di autonomia: o sotto controllo remoto da parte di un operatore umano o autonomamente a bordo grazie ad un computer.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
+		</Row>
 		<!-- Naval Units -->
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
-			<Text>I razziatori mercantili sono dei commercianti armati che fanno incursioni con navi che si mascherano da navi mercantili non armate. Il raid commerciale è una forma di guerra navale usata per distruggere o disturbare la logistica del nemico in mare aperto attaccando le sue navi mercantili, piuttosto che ingaggiare le navi da guerra o imporre un blocco contro di loro. È anche conosciuto, in francese, come guerre de course (letteralmente, "guerra del inseguimento") e, in tedesco, Handelskrieg ("guerra commerciale"), dalle nazioni che storicamente hanno più volte usato questa strategia.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_1">
+			<Text>I mercanti incursori sono dei commercianti armati che fanno incursioni con navi che si mascherano da navi mercantili non armate. Il raid commerciale è una forma di guerra navale usata per distruggere o disturbare la logistica del nemico in mare aperto attaccando le sue navi mercantili, piuttosto che ingaggiare le navi da guerra o imporre un blocco contro di loro. È anche conosciuto, in francese, come guerre de course (letteralmente, "guerra del inseguimento") e, in tedesco, Handelskrieg ("guerra commerciale"), dalle nazioni che storicamente hanno più volte usato questa strategia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_1">
 			<Text>Una corvetta è una piccola nave da guerra. È tradizionalmente la più piccola classe di nave che può essere considerata come nave da guerra (o "valutata"). La classe di nave da guerra sopra la corvetta è quella della fregata, mentre la classe sottostante era storicamente quella del sloop-of-war. La parola "corvette" è stata trovata per la prima volta nella metà Francese, è un diminutivo della parola olandese corf, che significa una piccola nave, dal latino corbis, che significa "cestino". Durante l'Era della Vela, le corvette erano uno dei tanti tipi di navi da guerra più piccole di una fregata e con un singolo gruppo di cannoni. Erano strettamente imparentate con gli sloop-of-war. Il ruolo della corvetta consisteva principalmente in pattuglia costiera, combattendo battaglie minori, supportando le flotte di grandi dimensioni o partecipando alle missioni di show-the-flag (avvistamento bandiere).</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_1">
 			<Text>Un cacciatorpediniere missile-guidato è un cacciatorpediniere progettato per lanciare missili teleguidati. Molti sono anche equipaggiati per effettuare operazioni anti-sottomarino, anti-aria e anti-superficie. La designazione dello standard della NATO per queste navi è la DDG. Le nazioni variano la designazione D del cacciatorpediniere usando una numerazione come identificativo, anteponendolo o cancellandolo. La marina statunitense ha adottato la designazione DDG per il sistema americano di classificazione dello scafo. Oltre ai cannoni, un cacciatorpediniere è solitamente un cacciatorpediniere equipaggiato con due grandi file di missili, solitamente in nuclei di lancio verticale. Alcuni cacciatorpediniere contengono potenti sistemi radar, come il sistema di combattimento Aegis degli Stati Uniti, e possono essere adottati per l'uso in un ruolo di difesa anti-missile o di missili balistici. Questo è particolarmente utile per le marine dove non operano più gli incrociatori, e quindi devono essere adottate per colmare il divario.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_1">
 			<Text>La Superportaerei è un termine descrittivo non ufficiale per il più grande tipo di vettore aeromobile, in genere queste dislocano oltre 70.000 tonnellate (USA) (64.000 tonnellate). Le superportaerei sono le più grandi navi da guerra mai costruite, più grandi della più grande nave da battaglia classificata di qualsiasi paese. La Marina degli Stati Uniti ha dieci superportaerei attive a partire dal 2015, mentre il Regno Unito ne avrà due, di classe regina Elisabetta, le portaerei sono la Queen Elizabeth e la seconda è il Prince of Wales attualmente in costruzione, e dovrebbe entrare in servizio nel 2018. I russi hanno il Kuznetsov, che è un incrociatore di aerei (pesante incrociatore missilistico portaerei (TAVKR) nella classificazione russa) che serve come nave ammiraglia della Marina Militare russa.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_1">
 			<Text>La Galeazza era una classe di nave da guerra navale che crebbe in popolarità durante il sedicesimo secolo, quando i progetti basati sulla galea tradizionale furono modificati per includere armamenti più pesanti. Una tipica galeazza iniziò la vita come una nave mercantile sospinta da remi, che fu poi aggiornata per includere alberi per le vele. Con due forme di propulsione disponibili, il design della galeazza ha permesso alla nave di mantenere la maggior parte della famosa velocità della galea tradizionale, con tutto che trasportasse anche armi pesanti per respingere i potenziali aggressori.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_1">
 			<Text>L'incrociatore corazzato era un tipo di nave da guerra tra la fine del 19° e l'inizio del 20° secolo. È stato progettato come gli altri tipi di incrociatori per operare come nave da guerra indipendente a lungo raggio, capace di sconfiggere qualsiasi nave a parte una nave da guerra e abbastanza veloce da sfuggire a qualsiasi corazzata incontrata. Variabile in termini di dimensioni, si distingue dagli altri tipi di incrociatore per il suo rivestimento in ferro spesso corazzato (o acciaio più tardi) con una placcatura, su gran parte dello scafo per proteggere la nave dai colpi di fuoco, molto simile a quella sulle navi da guerra. Entro il 1890 gli incrociatori avevano abbandonato la vela e assunsero un aspetto più moderno. Per molti decenni la tecnologia navale non era avanzata a sufficienza per permettere ai progettisti di produrre un incrociatore che combinasse la corazzatura con la lunga autonomia e un'alta velocità richiesta per compiere la sua missione. Era spesso possibile costruire incrociatori che fossero veloci e completamente migliori usando questo tipo di nave, perchè facevano affidamento solo ad un ponte corazzato più leggero per proteggere le parti vitali della nave; tuttavia, verso la fine del 1880 lo sviluppo di cannoni a fuoco-rapido e di proiettili ad alto esplosivo rese necessario la reintroduzione dell'armatura laterale. L'invenzione di un'armatura a placche temprate a metà degli anni 1890 diede una protezione più efficace con molto meno peso.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_1">
 			<Text>Un incrociatore da battaglia, era una nave principale costruita nella prima metà del 20° secolo. Erano simili per dimensioni, costo e armamento delle navi da guerra, ma in genere avevano meno armatura per ottenere velocità più elevate. I primi incrociatori da battaglia furono progettati nel Regno Unito nel primo decennio del secolo, come miglioramento dell'incrociatore corazzato, contemporaneamente al Dreadnought successore e miglioramento della corazzata Pre-Dreadnought. L'obiettivo del progetto era di sfuggire a qualsiasi nave con armamenti simili, e inseguire qualsiasi nave con armamenti minori; erano destinati a dare la caccia agli incrociatori corazzati più vecchi e più lenti e distruggerli con armi da fuoco pesanti evitando il combattimento con le corazzate più potenti ma più lente. Tuttavia, man mano che sempre più incrociatori da battaglia venivano costruiti, essi vennero usati sempre più con le navi meglio protette come le corazzate.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_1" Language="it_IT">
-			<Text>Un galeone era un grande veliero a più ponti usato come una nave da carico armata, principalmente dagli stati europei durante l'età della vela dal 16° al 18° secolo e furono da principio le unità di flotta redatte per l'uso come navi da guerra fino alle guerre anglo-olandesi della metà del 1600. I galeoni generalmente sono sospinti da tre o più alberi sia a prua che a poppa con vele latine impiantate su di essi, sono stati costruiti da una caravella con una sporgente poppa sollevata e squadrata, e usava lo schema delle vele quadre sugli alberi anteriori e principali. Tali navi erano il cardine del commercio marittimo all'inizio del XIX secolo e furono spesso utilizzate come ausiliarie navi da guerra navali - anzi, erano il punto di forza delle flotte in lotta per la maggior parte dei 150 anni dell'Era Esplorazione - prima che le guerre anglo-olandesi generassero le navi costruite appositamente per la guerra che avrebbero dominato la guerra in mare durante il resto dell'Era della vela.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_1">
+			<Text>Una Caracca era una nave a vela oceanica con tre o quattro alberi fu sviluppata nel XIV e XV secolo in Europa (principalmente in Portogallo). Fu un'evoluzione della nave ad un albero chiamata Cog, la caracca fu usata dagli europei all'inizio come nave commerciale tra le rotte del Mediterraneo e il Baltico, poi fu facilmente adattata per le piu ricche rotte commerciali trans-Atlantiche tra Europa, Africa e anche America. Nella sua forma piu pienamente evoluta, la caracca fu la prima nave adatta alle lunghe tratte oceaniche: larga a sufficienza per affrontare il mare mosso e abbastanza spaziosa per portare sufficienti provviste per viaggi molto lunghi. Le ultime Caracche erano attrezzate con vele-quadre sia sull'albero maestro che su quello di trinchetto, mentre usava le vele-latine sull'albero di mezzana. Aveva la poppa alta e arrotondata, con cassero molto pronunciato e bompresso, e una prua rinforzata da un castello.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1">
 			<Text>Una nave di linea era un tipo di nave da guerra navale costruita dal 17° alla metà del 19° secolo per prendere parte alla tattica navale conosciuta come la linea di battaglia, in cui due colonne di navi da guerra nemiche manovravano per dare grande forza e supporto alla potenza di fuoco laterale. Da questo gli scontri erano quasi invariabilmente vinti dalle navi più pesanti e che trasportassero i cannoni più potenti, quindi fu naturale che la progressione fu quella di costruire navi a vela che fossero le più grandi e potenti del loro tempo. Dalla fine degli anni '40 dell'Ottocento, l'introduzione della potenza del vapore rese meno dipendente, la nave, dal vento in battaglia e portò alla costruzione di navi di linea con scafo in legno ad elica; c'erano un certo numero di navi a vela pura convertite a questo meccanismo di propulsione. Tuttavia, l'introduzione della ironclad nel 1859 circa condusse rapidamente al declino delle navi di linea assistite a vapore.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_1">
 			<Text>Le corazzate pre-dreadnought erano navi da guerra che si svilupparono tra la metà e la fine degli anni 1880 e 1905, prima del lancio di HMS Dreadnought. Le pre-dreadnought rimpiazzarono le Navi di Linea a vapore degli anni 1870 e 1880. Costruita in acciaio e protetta da un'armatura d'acciaio temprato, le corazzate pre-dreadnought portavano una batteria principale di cannoni molto pesanti nelle barbette (aperte o corazzate) supportate da uno o più batterie secondarie di armi più leggere. Erano alimentati da motori a vapore a tripla-espansione alimentati da carbone. E in contrasto con lo sviluppo caotico di navi da guerra corazzate nei decenni precedenti, nel 1890 videro le marine di tutto il mondo nella costruzione di navi da guerra seguendo un comune progetto, dato che dozzine di navi hanno sostanzialmente seguito il progetto della classe British Majestic. La somiglianza nell'aspetto delle navi da battaglia negli anni 1890 fu sottolineata dal numero crescente di navi in costruzione.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_1">
 			<Text>Un sottomarino d'attacco o sottomarino cacciatore-assassino è un sottomarino specifico progettato allo scopo di attaccare e affondare altri sottomarini, combattenti di superficie e navi mercantili. Nelle marine sovietiche e russe erano e sono chiamati "sottomarini polivalenti". Sono anche usati per proteggere i combattenti di superficie amichevoli e i sottomarini missilistici. Alcuni sottomarini di attacco sono anche muniti di missili cruiser montati in tubi di lancio verticali, aumentando la portata delle loro potenziali missioni per includere obiettivi di terre. I sottomarini d'attacco possono essere a propulsione nucleare o diesel-elettrica ("convenzionalmente"). Nel Sistema di denominazione della Marina degli Stati Uniti, e nell'equivalente sistema NATO (STANAG 1166), i sottomarini d'attacco nucleare sono noti come SSN e i loro predecessori diesel-elettrici erano SSK.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_1">
 			<Text>I marines, anche conosciuti come un corpo marino o fanteria navale, sono tipicamente una forza di fanteria specializzata nel supporto di operazioni navali ed esercito in mare e su terra, così come l'esecuzione delle proprie operazioni. Nella maggior parte dei paesi, la forza dei marine è parte integrante della marina, ma può anche essere sotto l'esercito come le Troupes de marine (I Marine francesi) e la Brigata Givati ​​(I marine Israeliani), o formare un ramo di servizio indipendente come il Corpo dei Marine degli Stati Uniti e i Royal Marines (anche se il Corpo dei Marine degli Stati Uniti è sotto il Dipartimento della Marina degli Stati Uniti e il Royal marines fanno parte del servizio navale di Sua Maestà). Storicamente, i compiti intrapresi dai marines hanno incluso: aiutare a mantenere la disciplina e l'ordine a bordo della nave (riflettendo sulla natura stretta a bordo delle navi e anche il rischio di ammutinamento), l'abbordaggio di navi durante il combattimento o la cattura di navi da premio e la fornitura di manodopera per razziare a terra a sostegno degli obiettivi navali. Le forze marine si sono evolute per specializzarsi nelle abilità e capacità richieste per la guerra anfibia.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_1">
 			<Text>I marines, anche conosciuti come un corpo marino o fanteria navale, sono tipicamente una forza di fanteria specializzata nel supporto di operazioni navali ed esercito in mare e su terra, così come l'esecuzione delle proprie operazioni. Nella maggior parte dei paesi, la forza dei marine è parte integrante della marina, ma può anche essere sotto l'esercito come le Troupes de marine (I Marine francesi) e la Brigata Givati ​​(I marine Israeliani), o formare un ramo di servizio indipendente come il Corpo dei Marine degli Stati Uniti e i Royal Marines (anche se il Corpo dei Marine degli Stati Uniti è sotto il Dipartimento della Marina degli Stati Uniti e il Royal marines fanno parte del servizio navale di Sua Maestà). Storicamente, i compiti intrapresi dai marines hanno incluso: aiutare a mantenere la disciplina e l'ordine a bordo della nave (riflettendo sulla natura stretta a bordo delle navi e anche il rischio di ammutinamento), l'abbordaggio di navi durante il combattimento o la cattura di navi da premio e la fornitura di manodopera per razziare a terra a sostegno degli obiettivi navali. Le forze marine si sono evolute per specializzarsi nelle abilità e capacità richieste per la guerra anfibia.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_1">
 			<Text>I marines, anche conosciuti come un corpo marino o fanteria navale, sono tipicamente una forza di fanteria specializzata nel supporto di operazioni navali ed esercito in mare e su terra, così come l'esecuzione delle proprie operazioni. Nella maggior parte dei paesi, la forza dei marine è parte integrante della marina, ma può anche essere sotto l'esercito come le Troupes de marine (I Marine francesi) e la Brigata Givati ​​(I marine Israeliani), o formare un ramo di servizio indipendente come il Corpo dei Marine degli Stati Uniti e i Royal Marines (anche se il Corpo dei Marine degli Stati Uniti è sotto il Dipartimento della Marina degli Stati Uniti e il Royal marines fanno parte del servizio navale di Sua Maestà). Storicamente, i compiti intrapresi dai marines hanno incluso: aiutare a mantenere la disciplina e l'ordine a bordo della nave (riflettendo sulla natura stretta a bordo delle navi e anche il rischio di ammutinamento), l'abbordaggio di navi durante il combattimento o la cattura di navi da premio e la fornitura di manodopera per razziare a terra a sostegno degli obiettivi navali. Le forze marine si sono evolute per specializzarsi nelle abilità e capacità richieste per la guerra anfibia.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_1">
 			<Text>Una forma modificata della galea tradizionale, il Dromone era parte integrante della Marina bizantina per tutto la durata dell'impero. Dotato di entrambi i remi e la forza della vela, il Dromone era altamente maneggevole e agile, ma anche pericolosamente equipaggiato per la battaglia. Grazie all'uso del fuoco greco, un precursore del moderno napalm, i bizantini usavano una forma primitiva del lanciafiamme per colpire con la paura nei cuori di chiunque si fosse opposto a loro sul mare.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_1">
 			<Text>Nella terminologia navale di fine Ottocento, le torpediniere siluranti erano una forma di cannoniera armata di siluri e progettata per la caccia e la distruzione di piccole torpediniere. Entro la fine del 1890 le torpediniere furono sostituite dai loro contemporanei di maggior successo, il cacciatorpediniere. Un numero vario di torpediniere siluranti, il prototipo Rattlesnake del 1886 seguito dalla classe Grasshopper (di 3 navi), la classe Sharpshooter (13 navi), la classe Alarm (11 navi) e la classe Dryad (5 navi), furono costruite per la Royal Navy durante il 1880 e il 1890; navi simili sono state costruite o altrimenti acquisite da un certo numero di Nazioni europee e dal Giappone. Essenzialmente erano incrociatori molto piccoli, le torpediniere siluranti erano tipicamente equipaggiate con caldaie per locomotive, ed erano equipaggiate con tubi lanciasiluri e un adeguato armamento di cannoni, destinato a dare la caccia alle più piccole torpediniere nemiche.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_1">
 			<Text>Un incrociatore leggero è un tipo di nave da guerra di piccole o medie dimensioni. Il termine è l'accorciamento della frase "light armored cruiser", che descrive una piccola nave che portava l'armatura allo stesso modo di un incrociatore corazzato: una cintura protettiva e un ponte. Prima di questo, gli incrociatori più piccoli erano stati protetti come il modello di un incrociatore, che posseddeva solo il ponte corazzato. Anche se più leggere e piccole di altre navi contemporanee, esse furono sempre dei veri e propri incrociatori, mantenendo un esteso raggio di azione e l'autosufficienza necessaria per agire in modo indipendente nel mondo. Attraverso la loro storia hanno servito in una varietà di ruoli, principalmente come scorta di convogli e cacciatorpediniere al comando delle navi, ma anche come esploratori e navi di supporto alla flotta in battaglia.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_1">
 			<Text>La dreadnought era il tipo predominante di corazzata all'inizio del XX secolo. Il primo del suo genere, il Dreadnought della Royal Navy ha avuto una così forte impressione nelle menti della gente quando fu varata nel 1906, che tutte le corazzate simili costruite successivamente vennero chiamate genericamente "dreadnought", e le precedenti navi da battaglia divennero note come "pre-dreadnought". Il design di Dreadnought aveva due rivoluzionarie caratteristiche: uno schema di armamento "all-big-gun", con più cannoni di grosso calibro rispetto alle navi precedenti e una turbina a vapore come propulsore. Quando le corazzate divennero un simbolo del potere nazionale, l'arrivo di queste nuove navi da guerra fu un cruciale catalizzatore nell'intensificarsi della corsa agli armamenti navali tra il Regno Unito e la Germania. Con la varatura di un'unica nave, il Dreadnought, le gamme del potere navale furono ripristinate durante una sola notte. Di conseguenza, le navi dreadnought comparvero in tutto il mondo, incluso in Sud America, durante la prima guerra mondiale.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_1">
 			<Text>Un cannone elettromagnetico è un dispositivo che utilizza la forza elettromagnetica per lanciare i proiettili ad alta velocità, per mezzo di un'armatura mobile che viene accelerata lungo una coppia di binari conduttivi.[2] È tipicamente costruita come un'arma, e il proiettile normalmente non contiene esplosivo, basandosi sull'alta velocità del proiettile per infliggere danni. Il cannone elettromagnetico usa un paio di conduttori paralleli, dette rotaie, nel quale un'armatura scorrevole viene accelerata dagli effetti elettromagnetici di una corrente che scorre lungo una rotaia, l'armatura poi torna indietro lungo l'altra rotaia.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
+		</Row>
 		<!-- Deliverator's Units -->
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_1">
 			<Text>L'età della scoperta o l'età dell'esplorazione dalla fine del XV secolo al XVIII secolo, fu un periodo storico europeo informale e vagamente definito che segna il periodo di tempo nel quale la vasta esplorazione oltreoceano è risultato come un potente fattore nella cultura europea e l'inizio della globalizzazione. Inoltre segna l'ascesa del periodo di diffusa adozione in Europa del colonialismo e del mercantilismo. Molte terre precedentemente sconosciute agli europei furono scoperte durante questo periodo, sebbene la maggior parte lo fosse già abitata dal punto di vista di molti non europei, l'eta della scoperta ha segnato l'arrivo di coloni e invasori da un continente precedentemente sconosciuto.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_2">
 			<Text>L'esplorazione globale è iniziata con le scoperte portoghesi nell'Atlantico degli arcipelaghi di Madeira e delle Azzorre, la costa africana e la scoperta della rotta marittima verso l'India 1498; e, a nome della Corona di Castiglia (Spagna), i viaggi transatlantici di Cristoforo Colombo tra il 1492 e il 1502 e la prima circumnavigazione del globo nel 1519-1522. Queste scoperte hanno portato a numerose spedizioni navali attraverso gli oceani Atlantico, Indiano e Pacifico e spedizioni terrestri nelle Americhe, Asia, Africa e Australia e continuarono fino alla fine del XIX secolo e finirono con l'esplorazione delle regioni polari nel 20° secolo.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>La spada lunga era l'arma più versatile nei campi di battaglia del Medioevo/Rinascimento. Era più leggera e più facile da trasportare di una picca, e poteva essere usata a una o due mani, rendendo possibile che lo spadaccino portasse anche uno scudo. Nel combattimento faccia a faccia contro i picchieri, i spadaccini con spada lunga erano in uno svantaggio significativo, subivano molte perdite dalle armi più lunghe prima che potessero arrivare a breve distanza. Tuttavia, le unità degli spadaccini erano più veloci e più manovrabili dei picchieri - e se potevano colpire i loro avversari in un attacco di fianco, i picchieri erano carne morta.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>Un fucile è un'arma da fuoco progettata per essere sparata dalla spalla. L'interno della canna ha delle scanalature "rigate" progettate per far ruotare su stesso il proiettile mentre viene sparato, dandogli una maggiore distanza di tiro e precisione rispetto a un proiettile sparato da un fucile non rigato. I primi fucili con rigatura in Europa apparvero nel XV secolo, ma le difficoltà di fabbricazione non lo resero standard fino al 19°. I coloni americani usarono i fucili nella guerra d'indipendenza americana. Gli schermagliatori e gli esploratori britannici e americani erano equipaggiati con fucili a moschetto durante le guerre napoleoniche e la guerra del 1812, ma il tempo di caricamento più lento delle armi li tenne fuori dalla portata della fanteria regolare per alcuni anni ancora.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_2">
 			<Text>L'invenzione della "minie ball" (Pallottola) ridusse notevolmente il tempo di caricamento, e dalla guerra civile americana, i fucili a moschetto furono utilizzati in tutti i principali eserciti europei. Alla fine della Guerra Civile il moschetto rigato fu reso obsoleto dal fucile a ripetizione che si caricava dalla culatta, che aveva un tasso di fuoco pari ad un colpo al secondo (veloce quanto il tempo di armare il cane e premere il grilletto), rispetto al tasso di fuoco del fucile ad avancarica che era di 20-30 secondi per colpo per un soldato ben addestrato.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RIFLEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_1">
 			<Text>Il trabucco era una macchina composta che sfruttava il vantaggio meccanico di una leva per lanciare un proiettile. Generalmente erano costruzioni di grandi dimensioni (fino a 30 metri [100 piedi] di altezza o più) realizzate principalmente in legno, generalmente rinforzate con metallo, pelle, corda e altri materiali. Solitamente erano immobili e dovevano essere assemblati in loco, probabilmente facendo uso del legname locale con le sole parti chiave portate dall'esercito sul luogo dell'assedio o della battaglia. Il più recente trabucco a contrappeso, noto anche come contrappeso a trabucco, utilizzava un contrappeso per oscillare il braccio. Apparve in entrambe le terre Cristiane e Musulmane attorno al Mediterraneo nel 12° secolo, e riapparve nella Cina attraverso le conquiste Mongole nel 13° secolo.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TREBUCHET_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1">
 			<Text>Gli storici differiscono sull'origine del ferro di cavallo. Poiché il ferro era un bene prezioso e qualsiasi oggetto logorato veniva generalmente riforgiato e riutilizzato, è difficile individuare evidenti prove archeologiche. Anche se alcuni danno credito ai Druidi, non ci sono prove concrete a supporto di questa affermazione. Nel 1897 in una tomba etrusca datata intorno al 400 a.C., sono stati rinvenuti quattro ferri di cavallo di bronzo con quelli che apparentemente sembrano i fori dei chiodi. L'affermazione di alcuni storici secondo cui i Romani inventarono le "scarpe da mulo" intorno al 100 aC è sostenuta da un riferimento di Catullo morto nel 54 aC. Tuttavia, questi riferimenti all'uso di ferri di cavallo e "scarpe da mulo" a Roma, potrebbero essere stati i citati stivali di pelle rinforzati da piastre di ferro detti "Ipposandali", piuttosto che da ferri di cavallo inchiodati.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2">
 			<Text>I riferimenti esistenti al ferro di cavallo inchiodato sono relativamente recenti, noti per la prima volta intorno al 900 d.C., ma potrebbero esserci stati usi precedenti dato che alcuni sono stati trovati in strati più profondi. Non ci sono però riferimenti esistenti ai ferri di cavallo inchiodati prima del regno dell'Imperatore Leone VI e dal 973 dc si possono trovare solo riferimenti occasionali. Esistono pochissime prove di qualsiasi tipo che suggeriscono l'esistenza di scarpe con chiodi prima del 500 d.C. o del 600, sebbene ci sia una scoperta datata al V secolo dC di un ferro di cavallo, completo di chiodi, trovato nella tomba di Childerico I Re dei Franchi a Tournai, in Belgio.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3">
 			<Text>Intorno al 1000 d.C., il ferro di cavallo fuso in bronzo con i fori dei chiodi divenne comune in Europa. La forma era simile con un bordo esterno smerlato e sei fori per i chiodi. Il 13° e il 14° secolo portarono alla diffusa produzione di ferri di cavallo in ferro. Al tempo delle Crociate (1096-1270), i ferri di cavallo erano diffusi e frequentemente menzionati in varie fonti scritte. In quel periodo, a causa del valore del ferro, i ferri di cavallo venivano persino accettati al posto delle monete per pagare le tasse. Dal 13° secolo, i ferri di cavallo furono forgiati in grandi quantità e potevano essere acquistate già-pronti. La ferratura a caldo, è un processo nel modellare il ferro di cavallo riscaldato immediatamente prima di metterlo sul cavallo, divenne comune nel 16° secolo. Per la enorme richiesta di ferri di cavallo, il mestiere del fabbro divenne "uno dei più grandi mestieri del periodo medievale e moderno e contribuì allo sviluppo della metallurgia."</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1">
 			<Text>I corazzieri erano cavalieri equipaggiati con armature e armi da fuoco, che apparvero per la prima volta nell'Europa nel tardo XV secolo. Questo termine francese significa "uno con una corazza", il Pettorale che indossavano. I primi corazzieri furono prodotti come evoluzione alla cavalleria corazzata, come l'armigero e il semi-lanciere, scartando le loro lance e adottando l'uso delle pistole come arma principale. Nel tardo 17° secolo, il corazziere perse anche le protezioni degli arti e successivamente impiegò solo il pettorale (corazza frontale e corazza posteriore), e qualche volta usava un elmo. In quel periodo, la spada era l'arma principale del corazziere e le pistole venivano relegate in una funzione secondaria.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_1">
 			<Text>La mitragliatrice Gatling è una delle più conosciute e migliori armi a manovella da fuoco rapido con caricamento a molla, è la precursora della moderna mitragliatrice. Inventata da Richard Gatling, è nota per il suo uso da parte delle forze dell'Unione durante la guerra civile americana nel 1860, che fu la prima volta che venne impiegata in combattimento. Più tardi, fu usata di nuovo in numerosi conflitti militari, come la Guerra Boshin, la Guerra Anglo-Zulu e l'assalto alla collina di San Juan durante la guerra Ispano-Americana. Fu anche usata dalle milizie e dalla Guardia Nazionale negli episodi del Grande Sciopero Ferroviario del 1877, in particolare a Pittsburgh, in Pennsylvania.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_2">
 			<Text>Il funzionamento della mitragliatrice Gatling era centrata su un sistema ciclico a più canne che facilitava il raffreddamento e sincronizzava la sequenza di ricarica. Ogni canna sparava un singolo colpo quando raggiungeva un certo punto nel ciclo, dopo di che espelleva la cartuccia esaurita, caricava un nuovo colpo e, nel processo, permetteva alla canna di raffreddarsi leggermente. Questa configurazione consentiva di ottenere tassi di fuoco più elevati senza che le canne si surriscaldassero.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GATLING_GUN_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_1">
 			<Text>Il Cog era un tipo di nave che apparve per la prima volta nel X secolo e fu ampiamente utilizzata dal 12° secolo in poi. I Cog erano costruiti in legno residuo, generalmente di quercia, che era un abbondante legname nella regione baltica della Prussia. Questa nave era equipaggiata con un solo albero e una vela singola quadra. Queste navi erano per lo più associate al commercio marittimo nell'Europa medievale, in particolare alla Lega anseatica, specialmente nella regione del Mar Baltico. Hanno una lunghezza compresa tra circa 15 e 25 metri (da 49 a 82 piedi) con un raggio di 5-8 metri (16 e 26 piedi), e le più grandi navi a cremagliera potevano trasportare fino a circa 200 tonnellate.</Text>
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_2">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_3">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_4">
 			<Text />
-		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_5" Language="it_IT">
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_5">
 			<Text />
-		</Replace>
-	</LocalizedText>
+		</Row>
+	</BaseGameText>
 </GameData>
