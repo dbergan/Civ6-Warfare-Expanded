@@ -568,7 +568,7 @@
 		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION" Language="zh_Hans_HK">
 			<Text>從相鄰機槍 +{1_Amount} 火力支援。</Text>
 		</Replace>
-		<Replace Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC" Language="zh_Hans_HK">
+		<Replace Tag="LOC_PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC" Language="zh_Hans_HK">
 			<Text>+{1_Amount} 對抗近戰、反騎兵、輕騎兵。</Text>
 		</Replace>
 	</LocalizedText>
