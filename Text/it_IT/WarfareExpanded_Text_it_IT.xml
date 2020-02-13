@@ -1,593 +1,593 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<!-- Land Units -->
-		<Row Tag="LOC_UNIT_ARMORED_INFANTRY_NAME">
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_NAME" Language="it_IT">
 			<Text>Fanteria Corazzata</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_INFANTRY_DESCRIPTION" Language="it_IT">
 			<Text>Unita di fanteria montata di epoca Atomica.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_NAME" Language="it_IT">
 			<Text>Arciere Composito</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_COMPOSITE_BOWMAN_DESCRIPTION" Language="it_IT">
 			<Text>Unita di epoca classica che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_BOWMAN">
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_BOWMAN" Language="it_IT">
 			<Text>Possiedi 3 Arcieri Compositi.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN">
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_BOWMAN" Language="it_IT">
 			<Text>Sviluppa la tecnologia della Meccanica per migliorare le prestazioni delle tue truppe a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_CULVERIN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_NAME" Language="it_IT">
 			<Text>Colubrina</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_CULVERIN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_CULVERIN_DESCRIPTION" Language="it_IT">
 			<Text>Unita di epoca Rinascimentale che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_FIELD_GUN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_NAME" Language="it_IT">
 			<Text>Cannone da Battaglia</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_GUN_DESCRIPTION" Language="it_IT">
 			<Text>Unita di epoca moderna che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_HEAVY_INFANTRY_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_NAME" Language="it_IT">
 			<Text>Fanteria Pesante</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_INFANTRY_DESCRIPTION" Language="it_IT">
 			<Text>Unita anti-cavalleria di epoca classica.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_NAME" Language="it_IT">
 			<Text>Cavaliere Corazzato</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION" Language="it_IT">
 			<Text>Unita di cavalleria pesante di epoca Classica, dall'attacco potente.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_REITER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_NAME" Language="it_IT">
 			<Text>Reiter</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_REITER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_REITER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di cavalleria pesante di epoca Rinascimentale, dall'attacco potente.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LANDSHIP_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_NAME" Language="it_IT">
 			<Text>Primo carroarmato</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LANDSHIP_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANDSHIP_DESCRIPTION" Language="it_IT">
 			<Text>Unita di cavalleria pesante di epoca Moderna, dall'attacco potente.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_RIFLED_CANNON_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_NAME" Language="it_IT">
 			<Text>Cannone pesante</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLED_CANNON_DESCRIPTION" Language="it_IT">
 			<Text>Unita da bombardamento di epoca Industriale, ideale per attaccare le citta. Non puo muoversi e attaccare nello stesso turno a meno che non abbia acquisito la promozione Equipaggio Esperto.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_NAME" Language="it_IT">
 			<Text>Obice Pesante</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_HOWITZER_DESCRIPTION" Language="it_IT">
 			<Text>Unita da bombardamento di epoca Atomica, ideale per attaccare le citta. Non puo muoversi e attaccare nello stesso turno a meno che non abbia acquisito la promozione Equipaggio esperto.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LINE_INFANTRY_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_NAME" Language="it_IT">
 			<Text>Fanteria di Linea</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION" Language="it_IT">
 			<Text>Unita anti-cavalleria di epoca Industriale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WW1_INFANTRY_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_NAME" Language="it_IT">
 			<Text>Prima Fanteria</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WW1_INFANTRY_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_INFANTRY_DESCRIPTION" Language="it_IT">
 			<Text>Unita da mischia di epoca Moderna.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_FIELD_HOWITZER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_NAME" Language="it_IT">
 			<Text>Obice da Campo</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_FIELD_HOWITZER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_HOWITZER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di epoca Atomica che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_FIELD_ARTILLERY_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_NAME" Language="it_IT">
 			<Text>Artiglieria da Campo</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_FIELD_ARTILLERY_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIELD_ARTILLERY_DESCRIPTION" Language="it_IT">
 			<Text>Unita dell'epoca dell'Informazione che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_HARQUEBUSIER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="it_IT">
 			<Text>Archibugiere</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di cavalleria leggera di epoca Rinascimentale, dal movimento veloce.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MODERN_INFANTRY_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_NAME" Language="it_IT">
 			<Text>Fanteria Moderna</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MODERN_INFANTRY_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_INFANTRY_DESCRIPTION" Language="it_IT">
 			<Text>Unita da mischia dell'epoca dell'Informazione.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ANTI_TANK_RIFLE_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_NAME" Language="it_IT">
 			<Text>Squadra con Fucile Anti-Carro</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ANTI_TANK_RIFLE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_RIFLE_DESCRIPTION" Language="it_IT">
 			<Text>Unita anti-cavalleria di epoca Moderna.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ANTI_TANK_GUN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_NAME" Language="it_IT">
 			<Text>Artiglieria Anti-Carro</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ANTI_TANK_GUN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTI_TANK_GUN_DESCRIPTION" Language="it_IT">
 			<Text>Unita anti-cavalleria e anti-aerea di epoca Industriale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MOUNTED_RIFLES_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_NAME" Language="it_IT">
 			<Text>Fucilieri a Cavallo</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MOUNTED_RIFLES_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_RIFLES_DESCRIPTION" Language="it_IT">
 			<Text>Unita di fanteria a cavallo di epoca Moderna.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ARQUEBUSIER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_NAME" Language="it_IT">
 			<Text>Archibugio</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Rinascimentale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_AXE_THROWER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THReplaceER_NAME" Language="it_IT">
 			<Text>Giavellottieri</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_AXE_THROWER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_AXE_THReplaceER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Medievale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_PELTAST_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_NAME" Language="it_IT">
 			<Text>Psiloi</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_PELTAST_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_PELTAST_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Classica.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_NAME" Language="it_IT">
 			<Text>Picca e Moschetto</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WECE_PIKE_AND_SHOT_DESCRIPTION" Language="it_IT">
 			<Text>Unita anti-cavalleria di epoca Rinascimentale.</Text>
-		</Row>
+		</Replace>
 		<!-- Air Units -->
-		<Row Tag="LOC_UNIT_WW1_BOMBER_NAME">
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_NAME" Language="it_IT">
 			<Text>Primo Bombardiere</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION" Language="it_IT">
 			<Text>Prima unita Bombardiere, disponibile in epoca Moderna.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_STEALTH_BOMBER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_NAME" Language="it_IT">
 			<Text>Bombardiere Stealth</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di Bombardiere di epoca Futura con capacita stealth.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_NAME" Language="it_IT">
 			<Text>Caccia Stealth</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di Caccia di epoca Futura con capacita stealth.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME" Language="it_IT">
 			<Text>Primo Caccia-Bombardiere</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION" Language="it_IT">
 			<Text>Primo Caccia-Bombardiere, disponibilie in epoca Moderna.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GROUND_ATTACK_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_NAME" Language="it_IT">
 			<Text>Caccia-Bombardiere</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION" Language="it_IT">
 			<Text>Unita di Caccia-Bombardiere di epoca Atomica.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME" Language="it_IT">
 			<Text>Jet Caccia-Bombardiere</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION" Language="it_IT">
 			<Text>Unita di Caccia-Bombardiere dell'epoca dell'Informazione.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_STEALTH_ATTACK_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_NAME" Language="it_IT">
 			<Text>Caccia-Bombardiere Stealth</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_ATTACK_DESCRIPTION" Language="it_IT">
 			<Text>Unita di Caccia-Bombardiere di epoca Futura con capacita stealth.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME" Language="it_IT">
 			<Text>Attacco Aria-Terra</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_WILD_WEASEL_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_NAME" Language="it_IT">
 			<Text>Wild Weasel</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Strength] Forza di Combattimento quando attaccano le unita Anti-Aeree.[NEWLINE]+10 [ICON_Strength] Forza di Combattimento vs danni da unita Anti-Aeree quando attacca zone protette da queste unita.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_NAME" Language="it_IT">
 			<Text>Countromisure</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento contro i Caccia.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_AIR_SORTIES_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_NAME" Language="it_IT">
 			<Text>Sortite Aeree</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION" Language="it_IT">
 			<Text>Puo curarsi dopo aver attaccato.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME" Language="it_IT">
 			<Text>Bombe Intelligenti</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Ranged] Forza di Combattimento contro difensori fortificati.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Language="it_IT">
 			<Text>Bombardamento Strategico</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Language="it_IT">
 			<Text>+12 [ICON_Bombard] Forza di Combattimento contro le citta e le difese dei distretti.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_NAME" Language="it_IT">
 			<Text>Bombardamento a Tappeto</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Language="it_IT">
 			<Text>+15 [ICON_Bombard] Forza di Combattimento contro unita di terra.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Language="it_IT">
 			<Text>Superiorita Aerea dei Caccia</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento contro i Caccia Bombardieri.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_UAV_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_NAME" Language="it_IT">
 			<Text>Veicoli Aerei Teleguidati</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_UAV_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_DESCRIPTION" Language="it_IT">
 			<Text>Drone d'attacco dell'epoca dell'Informazione.</Text>
-		</Row>
+		</Replace>
 		<!-- Naval Units -->
-		<Row Tag="LOC_UNIT_RAIDER_NAME">
+		<Replace Tag="LOC_UNIT_RAIDER_NAME" Language="it_IT">
 			<Text>Mercante Incursore</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_RAIDER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da incursione di epoca Industriale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_CORVETTE_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_NAME" Language="it_IT">
 			<Text>Corvetta</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_CORVETTE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_DESCRIPTION" Language="it_IT">
 			<Text>Veloce unita navale da mischia di epoca Rinascimentale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_NAME" Language="it_IT">
 			<Text>Cacciatorpediniere Lancia Missili</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION" Language="it_IT">
 			<Text>La piu forte unita navale da mischia di epoca dell'Informazione. Rivela i sottomarini all'interno del suo raggio di visione.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SUPERCARRIER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_NAME" Language="it_IT">
 			<Text>SuperPortaaereiu</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da mischia di epoca dell'Informazione che puo trasportare unita aeree.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GALLEASS_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_NAME" Language="it_IT">
 			<Text>Galeazza</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GALLEASS_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale di epoca Medievale che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ARMORED_CRUISER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_NAME" Language="it_IT">
 			<Text>Incrociatore Corazzato</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale di epoca Industriale che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_BATTLECRUISER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_NAME" Language="it_IT">
 			<Text>Incrociatore da Battaglia</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale di epoca Moderna che attacca distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GALLEON_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_NAME" Language="it_IT">
 			<Text>Caracca</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GALLEON_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da bombardamento di epoca Medievale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME" Language="it_IT">
 			<Text>Nave di Linea</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da bombardamento di epoca Rinascimentale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME" Language="it_IT">
 			<Text>Corazzata Pre-Dreadnought</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da bombardamento di epoca Industriale.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME" Language="it_IT">
 			<Text>Bombardamento Navale</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION" Language="it_IT">
 			<Text>Unita Navale da Bombardamento: Elimina la penalita di bombardamento contro le unita di terra.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION" Language="it_IT">
 			<Text>+17 Forza di Bombardamento per le unita navali da bombardamento.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME" Language="it_IT">
 			<Text>Sottomarino d'Attacco</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da mischia dell'epoca dell'Informazione. Non puo essere visto a meno che non adiacente. Ha un +15 [ICON_Strength] bonus d'attaco contro unita navali da Incursione e un +7 [ICON_Strength] contro le altre navi da guerra.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME" Language="it_IT">
 			<Text>Fanteria Navale</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION" Language="it_IT">
 			<Text>Unita di fanteria navale anfibia meccanizzata di epoca Industriale. Specializzata in assalti dal mare.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WW2_MARINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_NAME" Language="it_IT">
 			<Text>Marine</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION" Language="it_IT">
 			<Text>Unita di fanteria navale anfibia meccanizzata di epoca Atomica. Specializzata in assalti dal mare.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MODERN_MARINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_NAME" Language="it_IT">
 			<Text>Marine Moderno</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION" Language="it_IT">
 			<Text>Unita di fanteria navale anfibia meccanizzata dell'epoca dell'Informazione. Specializzata in assalti dal mare.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_MARINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_NAME" Language="it_IT">
 			<Text>Addestramento Anfibio Marine</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_MARINE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_DESCRIPTION" Language="it_IT">
 			<Text>I Marine non soffrono della penalita alla [ICON_Strength] Forza di Combattimento e al [ICON_Movement] Movimento quando attaccano dal mare o attraverso i fiumi e hanno +10 [ICON_Strength] Forza di Combattimento quando combattono sugli esagoni della Costa.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME" Language="it_IT">
 			<Text>Bombardamento Navale</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME" Language="it_IT">
 			<Text>Bombardamento Navale contro unita Navali</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Bombard] Forza di Combattimento a distanza contro unita Navali.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME" Language="it_IT">
 			<Text>Movimento Extra Navi da Bombardamento</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION" Language="it_IT">
 			<Text>+1 [ICON_Movement] Movimento.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME" Language="it_IT">
 			<Text>Bombardamento Navale contro Unita Terrestri</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Bombard] Forza di Combattimento a distanza contro le unita terrestri.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME" Language="it_IT">
 			<Text>Bombardamento Navale contro Distretti</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Bombard] Forza di Combattimento a distanza contro le citta e le difese dei distretti.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME" Language="it_IT">
 			<Text>Nave da Bombardamento si Cura al di Fuori</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION" Language="it_IT">
 			<Text>Si cura al di fuori dei confini amici.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME" Language="it_IT">
 			<Text>Fusibili di Prossimita</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento quando si difende da un attacco aereo.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME" Language="it_IT">
 			<Text>Nave da Bombardamento si Muove Dopo Attacco</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION" Language="it_IT">
 			<Text>Puo muoversi dopo aver attaccato.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CLASS_MARINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_MARINE_NAME" Language="it_IT">
 			<Text>Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_RIVER_PATROL_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_NAME" Language="it_IT">
 			<Text>Pattuglia Fiume Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento se adiacente a paludi o fiumi.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_COAST_GUARD_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_NAME" Language="it_IT">
 			<Text>Ricognizione Anfibia Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION" Language="it_IT">
 			<Text>L'unita con questa promozione puo scalare le pareti di una scogliera.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME" Language="it_IT">
 			<Text>Forza di Spedizione Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento se si trova in territorio straniero o nemico.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_NAME" Language="it_IT">
 			<Text>Riserva Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento se si trova in territorio amico.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_NAME" Language="it_IT">
 			<Text>Armi Combinate Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION" Language="it_IT">
 			<Text>Nessuna penalita in combattimento se l'unita e' danneggiata.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CORPSMEN_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_NAME" Language="it_IT">
 			<Text>Corpo dei Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION" Language="it_IT">
 			<Text>Si cura ogni turno anche se ha effettuato un'azione.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_NAME" Language="it_IT">
 			<Text>Incursori Elite Marine</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Strength] Forza di Combattimento quando attacca e puo muoversi dopo aver attaccato.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Strength] Forza di Combattimento quando combatte in un esagono di costa.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME" Language="it_IT">
 			<Text>Cacciatore Assassino</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION" Language="it_IT">
 			<Text>Il Sottomarino Cacciatore Assassino ha un +15 [ICON_Strength] di bonus d'attacco contro le unita navali da incursione e un +7 [ICON_Strength] contro le altre navi da guerra.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION" Language="it_IT">
 			<Text>+15 [ICON_Strength] Forza di Combattimento quando attacca altre unita Navali da Incursione.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento quando attacca le unita Navali non d'Incursione.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME" Language="it_IT">
 			<Text>Dromone con Fuoco Greco</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da bombardamento di epoca Classica.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME" Language="it_IT">
 			<Text>Torpediniera Silurante</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da mischia di epoca Moderna.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LIGHT_CRUISER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_NAME" Language="it_IT">
 			<Text>Incrociatore Leggero</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale di epoca moderna che attacca a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DREADNOUGHT_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_NAME" Language="it_IT">
 			<Text>Dreadnought</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da bombardamento di epoca Moderna.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME" Language="it_IT">
 			<Text>Corazzata con Cannone Elettromagnetico</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da bombardamento dell'epoca dell'Informazione.</Text>
-		</Row>
+		</Replace>
 		<!-- Deliverator's Units -->
-		<Row Tag="LOC_UNIT_EXPLORER_NAME">
+		<Replace Tag="LOC_UNIT_EXPLORER_NAME" Language="it_IT">
 			<Text>Esploratore</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_EXPLORER_DESCRIPTION" Language="it_IT">
 			<Text>Unita da ricognizione di epoca Rinascimentale, dal movimento veloce. Ignora i fiumi quando si muove e non ha un costo per sbarcare.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LONGSWORDSMAN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_NAME" Language="it_IT">
 			<Text>Spadaccino con Spada Lunga</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION" Language="it_IT">
 			<Text>Unita da mischia di epoca Medievale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_RIFLEMAN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_NAME" Language="it_IT">
 			<Text>Fuciliere</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION" Language="it_IT">
 			<Text>Unita da mischia di epoca Industriale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_TREBUCHET_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_NAME" Language="it_IT">
 			<Text>Trabucco</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_TREBUCHET_DESCRIPTION" Language="it_IT">
 			<Text>Unita da bombardamento di epoca Medievale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME" Language="it_IT">
 			<Text>Corsiero</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION" Language="it_IT">
 			<Text>Unita di cavalleria leggera di epoca Medievale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DLV_CUIRASSIER_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_NAME" Language="it_IT">
 			<Text>Corazziere</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di cavalleria pesante di epoca Industriale.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GATLING_GUN_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_NAME" Language="it_IT">
 			<Text>Mitragliatrice Gatling</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Industriale. Ha un Bonus [ICON_Strength] Forza di Combattimento contro unita da Mischia, Anti-Cavalleria e Cavalleria Leggera. Non puo muoversi e attaccare nello stesso turno a meno che non abbia la promozione Fuoco e Manovra.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_COG_NAME">
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_NAME" Language="it_IT">
 			<Text>Cog</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_COG_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da mischia di epoca Medievale.</Text>
-		</Row>
+		</Replace>
 		<!-- Created by Laurana Kanan for LKs Units (18.02.10) -->
 		<!-- New promotion class for Steel & Thunder Automatic Guns -->
-		<Row Tag="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME">
+		<Replace Tag="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME" Language="it_IT">
 			<Text>Supporto di Tiro</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_FUSILLADE_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_NAME" Language="it_IT">
 			<Text>Fucilate</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION" Language="it_IT">
 			<Text>+4 [ICON_Ranged] Forza a Distanza quando attacca unita da Mischia e Anti-Cavalleria.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_COUNTER_FIRE_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_NAME" Language="it_IT">
 			<Text>Fuoco di Risposta</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION" Language="it_IT">
 			<Text>+6 [ICON_Ranged] Forza a Distanza quando attacca unita da Distanza e d'Assedio.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_MANTLET_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_NAME" Language="it_IT">
 			<Text>Mantello</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_MANTLET_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Strength] Forza di Combattimento quando si difende da attacchi a distanza.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_ENTRENCH_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_NAME" Language="it_IT">
 			<Text>Trincerare</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION" Language="it_IT">
 			<Text>+10 [ICON_Strength] Forza di Combattimento quando si difende, o attacca da, un distretto o un forte.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_MARKSMAN_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_NAME" Language="it_IT">
 			<Text>Tiratore Scelto</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION" Language="it_IT">
 			<Text>+7 [ICON_Ranged] Forza a Distanza quando attacca unita di terra.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_OVERWATCH_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_NAME" Language="it_IT">
 			<Text>Copertura</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION" Language="it_IT">
 			<Text>Esercita una zona di controllo e +5 [ICON_Strength] Forza di Combattimento quando si difende dagli attacchi ravvicinati.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME" Language="it_IT">
 			<Text>Fuoco e Manovra</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION" Language="it_IT">
 			<Text>Puo attaccare dopo che si e' mosso e +5 [ICON_Ranged] Forza a Distanza quando attacca le difese dei distretti.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_NAME">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_NAME" Language="it_IT">
 			<Text>Supporto di Tiro</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_DESCRIPTION" Language="it_IT">
 			<Text>Fornisce alle unita di Cavalleria adiacenti +4 [ICON_Strength] Forza di Combattimento quando attaccano, alle unita di Anti-Cavalleria adiacenti +4 [ICON_Strength] Forza di COmbattimento quando si difendono, e alle unita da Mischia adiacenti un piccolo +2 [ICON_Strength] Forza di COmbattimento.</Text>
-		</Row>
-		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_CAV_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_CAV_DESCRIPTION" Language="it_IT">
 			<Text>+{1_Amount} Tiro di Supporto da adiacenti Armi Automatiche (quando attaccano).</Text>
-		</Row>
-		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_ANTICAV_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_ANTICAV_DESCRIPTION" Language="it_IT">
 			<Text>+{1_Amount} Tiro di Supporto da adiacenti Armi Automatiche (quando si difendono).</Text>
-		</Row>
-		<Row Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION">
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION" Language="it_IT">
 			<Text>+{1_Amount} Tiro di Supporto da adiacenti Armi Automatiche.</Text>
-		</Row>
-		<Row Tag="LOC_PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+		</Replace>
+		<Replace Tag="LOC_PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC" Language="it_IT">
 			<Text>+{1_Amount} Forza contro unita da Mischia, Anti-Cavalleria e Cavalleria Leggera.</Text>
-		</Row>
-	</BaseGameText>
+		</Replace>
+	</LocalizedText>
 </GameData>
