@@ -1,96 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<!-- Land Units -->
-		<Replace Tag="LOC_UNIT_AT_CREW_NAME">
+		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="it_IT">
 			<Text>Armi pesanti</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Atomica.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MODERN_AT_NAME">
+		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="it_IT">
 			<Text>Armi Pesanti Moderne</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto dell'epoca dell'Informazione.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_HELICOPTER_NAME">
+		<Replace Tag="LOC_UNIT_HELICOPTER_NAME" Language="it_IT">
 			<Text>Elicottero d'attacco</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="it_IT">
 			<Text>Unita anti-cavalleria dell'epoca dell'Informazione, dal movimento veloce.</Text>
 		</Replace>
-		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="it_IT">
 			<Text>Sviluppa la tecnologia della Costruzione per migliorare le prestazioni delle truppe a distanza.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="it_IT">
 			<Text>Unita esclusiva Indiana di epoca classica. Le unita nemiche adiacenti subiscono -5 [ICON_STRENGTH] alla Forza di Combattimento.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Moderna. Ha un Bonus [ICON_Strength] alla Forza di Combattimento contro unita da Mischia, Anti-Cavalleria e Cavalleria Leggera. Non puo muoversi e attaccare nello stesso turno a meno che non abbia la Promozione Fuoco e Manovra.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="it_IT">
 			<Text>Unita da mischa di epoca Atomica.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION" Language="it_IT">
 			<Text>Unita anti-cavalleria di epoca Rinascimentale.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION" Language="it_IT">
 			<Text>Unita di cavalleria pesante di epoca Atomica, dal movimento veloce che ignora le zone di controllo.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME">
+		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME" Language="it_IT">
 			<Text>Carroarmato principale da battaglia</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION" Language="it_IT">
 			<Text>Unita di supporto di epoca Industriale. Aggiunge +1 [ICON_Range] al Raggio alle unita d'assedio adiacenti.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_ARTILLERY_NAME">
+		<Replace Tag="LOC_UNIT_ARTILLERY_NAME" Language="it_IT">
 			<Text>Artiglieria Pesante</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION" Language="it_IT">
 			<Text>Unita di fanteria montata dell'epoca dell'Informazione.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION" Language="it_IT">
 			<Text>Unita esclusiva Svedese di epoca industriale che rimpiazza la Fanteria di Linea. Piu veloce della Fanteria di Linea. +3 [ICON_Strength] Forza di Combattimento per ogni punto [ICON_Movement] di movimento non usato.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="it_IT">
 			<Text>Unita esclusiva Macedone da mischia. +5 [ICON_Strength] Forza di Combattimento quando assedia i distretti cittadini. 50% Bonus aggiuntivo di supporto.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="it_IT">
 			<Text>Unita esclusiva Macedone di cavalleria pesante che rimpiazza il cavaliere corazzato. Aggiunge +5 [ICON_Strength] Forza di Combattimento quando e' adiacente al Grande Generale. +5 punti personaggio al Grande Generale quando uccide un'unita nemica. Inizia con una promozione gratuita.</Text>
 		</Replace>
 		<!-- Air Units -->
-		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION" Language="it_IT">
 			<Text>Aggiornamento del Primo Bombardiere di epoca Atomica.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_BIPLANE_NAME">
+		<Replace Tag="LOC_UNIT_BIPLANE_NAME" Language="it_IT">
 			<Text>Primo Caccia</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION" Language="it_IT">
 			<Text>Aggiornamento del Primo Caccia di epoca Atomica.</Text>
 		</Replace>
 		<!-- Naval Units -->
-		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da mischia di epoca medievale, dal movimento veloce, ideale per l'esplorazione.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da mischia di epoca Atomica. Rivela le unita navali da incursione entro il raggio di vista.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale da bombardamento di epoca Atomica. Fornisce copertura dagli attacchi aerei e nucleari fino ad una distanza di 1 casella.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME">
+		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="it_IT">
 			<Text>Sottomarino da Missile Balistico</Text>
 		</Replace>
 		<!-- S&T:UU -->
-		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_NAME">
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_NAME" Language="it_IT">
 			<Text>Prima-Classe</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_DESCRIPTION">
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_DESCRIPTION" Language="it_IT">
 			<Text>Unita navale esclusiva Inglese da bombardamento di epoca Rinascimentale che rimpiazza la Nave di Linea. +7 [ICON_Strength] Forza di Combattimento quando e' adiacente ad un'altra nave di Prima-Classe.</Text>
 		</Replace>
-		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1">
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="it_IT">
 			<Text>Nel sistema di classificazione della British Royal Navy era solito per designare le navi da guerra a vela, nelle prime classificazioni era la designazione per le grandi navi di linea, equivalenti alle super-corazzate dei tempi piu recenti. Durante l'epoca Giacobina la classificazione nella Ships Royal identificava una nave capace di trasportare almeno 400 uomini, le dimensioni e la classe di queste Prima-Classe si sono evolute nei successivi 250 anni per denotare navi in grado di portare almeno 80 cannoni su tre ponti. Alla fine del diciottesimo secolo, una prima-classe trasportava non meno di 100 cannoni ed un equipaggio di almeno 850 uomini, e aveva una stazza di almeno 2000 tonnellate.</Text>
 		</Replace>
-	</BaseGameText>
+	</LocalizedText>
 </GameData>
