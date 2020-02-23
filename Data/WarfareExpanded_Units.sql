@@ -563,150 +563,58 @@ WHERE NOT EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_CUIRASSIER');
 
 
 -- # Units_XP2 #
-DELETE FROM Units_XP2 WHERE UnitType = 'UNIT_INFANTRY' AND EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
+CREATE TABLE IF NOT EXISTS Units_XP2 (UnitType VARCHAR, ResourceMaintenanceAmount INTEGER, ResourceCost INTEGER, ResourceMaintenanceType VARCHAR, TourismBomb INTEGER, CanEarnExperience BOOLEAN, TourismBombPossible BOOLEAN, CanFormMilitaryFormation BOOLEAN, MajorCivOnly BOOLEAN) ;
 
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_ARMORED_INFANTRY', 	1, 							1,				'RESOURCE_OIL', 			0,				1,					0,						1,							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
+-- WECE Units
+DELETE FROM Units_XP2 WHERE UnitType = 'UNIT_INFANTRY' AND EXISTS (SELECT UnitType FROM Units WHERE UnitType = 'UNIT_COURSER');
 
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_ARMORED_HORSEMAN', 	0, 							20, 			NULL, 						0,				1,					0,						1,							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
+INSERT INTO Units_XP2
+(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
+VALUES
+('UNIT_ARMORED_INFANTRY', 	1, 							1,				'RESOURCE_OIL', 			0,				1,					0,						1,							0),
+('UNIT_ARMORED_HORSEMAN', 	0, 							20, 			NULL, 						0,				1,					0,						1,							0),
+('UNIT_REITER', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_LANDSHIP',			1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_RIFLED_CANNON', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_HEAVY_HOWITZER', 	1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_HARQUEBUSIER', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_MOUNTED_RIFLES', 	0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_WW1_BOMBER', 		1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						0, 							0),
+('UNIT_STEALTH_BOMBER',		1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0),
+('UNIT_STEALTH_FIGHTER', 	1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0),
+('UNIT_WW1_GROUND_ATTACK', 	1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						0, 							0),
+('UNIT_GROUND_ATTACK', 		1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0),
+('UNIT_JET_GROUND_ATTACK', 	1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0),
+('UNIT_STEALTH_ATTACK',		1,							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0),
+('UNIT_UAV', 				1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0),
+('UNIT_CORVETTE', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_TORPEDO_GUNBOAT', 	1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_SHIP_OF_THE_LINE', 	0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_SUPERCARRIER', 		1, 							1, 				'RESOURCE_URANIUM', 		0, 				1, 					0, 						1, 							0),
+('UNIT_GALLEON', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_GALLEASS', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_MISSILE_DESTROYER', 	1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_ARMORED_CRUISER', 	1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_BATTLECRUISER', 		1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_LIGHT_CRUISER', 		1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_PRE_DREADNOUGHT', 	1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_DREADNOUGHT', 		1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_RAILGUN_WARSHIP', 	1, 							1, 				'RESOURCE_OIL', 			0,				1, 					0, 						1, 							0),
+('UNIT_MODERN_MARINE', 		1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_AIRCRAFT_CARRIER', 	1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0),
+('UNIT_RIFLEMAN', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
+('UNIT_LONGSWORDSMAN', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0) ;
 
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_REITER', 				0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
+-- Deliverator's Units
+INSERT INTO Units_XP2
+(UnitType,					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
+SELECT 	UnitType,			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0 
+FROM Units WHERE UnitType = 'UNIT_DLV_CUIRASSIER';
 
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_LANDSHIP',			1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_RIFLED_CANNON', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_HEAVY_HOWITZER', 		1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_HARQUEBUSIER', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_MOUNTED_RIFLES', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_WW1_BOMBER', 			1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_STEALTH_BOMBER',		1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_STEALTH_FIGHTER', 	1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_WW1_GROUND_ATTACK', 	1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_GROUND_ATTACK', 		1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_JET_GROUND_ATTACK', 	1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_STEALTH_ATTACK',		1,							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_UAV', 				1, 							1, 				'RESOURCE_ALUMINUM', 		0, 				1, 					0, 						0, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_CORVETTE', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_TORPEDO_GUNBOAT', 	1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_SHIP_OF_THE_LINE', 	0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_SUPERCARRIER', 		1, 							1, 				'RESOURCE_URANIUM', 		0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_GALLEON', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_GALLEASS', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_MISSILE_DESTROYER', 	1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_ARMORED_CRUISER', 	1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_BATTLECRUISER', 		1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_LIGHT_CRUISER', 		1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_PRE_DREADNOUGHT', 	1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_DREADNOUGHT', 		1, 							1, 				'RESOURCE_COAL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_RAILGUN_WARSHIP', 	1, 							1, 				'RESOURCE_OIL', 			0,				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_MODERN_MARINE', 		1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_AIRCRAFT_CARRIER', 	1, 							1, 				'RESOURCE_OIL', 			0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_RIFLEMAN', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
-INSERT INTO Units_XP2	(UnitType, 					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_LONGSWORDSMAN', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
-
--- GS Compatibility
-INSERT INTO Units_XP2	(UnitType,					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_MEDIEVAL_HORSEMAN',	0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0 
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2')
-AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_MEDIEVAL_HORSEMAN');
-
-INSERT INTO Units_XP2	(UnitType,					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
-SELECT					'UNIT_DLV_CUIRASSIER',		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
-WHERE EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2')
-AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_DLV_CUIRASSIER');
+INSERT INTO Units_XP2
+(UnitType,					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
+SELECT UnitType, 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0
+FROM Units WHERE UnitType = 'UNIT_MEDIEVAL_HORSEMAN';
 
 
 -- # Unit Upgrades #
