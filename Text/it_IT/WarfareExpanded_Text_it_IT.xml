@@ -128,10 +128,10 @@
 		<Replace Tag="LOC_UNIT_ARQUEBUSIER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Rinascimentale.</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_AXE_THReplaceER_NAME" Language="it_IT">
+		<Replace Tag="LOC_UNIT_AXE_THROWER_NAME" Language="it_IT">
 			<Text>Giavellottieri</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_AXE_THReplaceER_DESCRIPTION" Language="it_IT">
+		<Replace Tag="LOC_UNIT_AXE_THROWER_DESCRIPTION" Language="it_IT">
 			<Text>Unita di tiro di supporto di epoca Medievale.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_PELTAST_NAME" Language="it_IT">
