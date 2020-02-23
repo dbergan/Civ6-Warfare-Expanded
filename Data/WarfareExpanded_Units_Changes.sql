@@ -181,10 +181,10 @@ WHERE UnitType = 'UNIT_SWEDEN_CAROLEAN' AND EXISTS (SELECT 1 FROM Units WHERE Un
 
 -- # Units_XP2 Changes #
 UPDATE Units_XP2 SET ResourceMaintenanceType = 'RESOURCE_OIL'
-WHERE UnitType ='UNIT_BATTLESHIP' AND EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
+WHERE UnitType ='UNIT_BATTLESHIP' AND EXISTS (SELECT 1 FROM Units WHERE UnitType = 'UNIT_COURSER');
 
 UPDATE Units_XP2 SET ResourceMaintenanceType = 'RESOURCE_IRON'
-WHERE UnitType = 'UNIT_ARTILLERY' AND EXISTS (SELECT name FROM sqlite_master WHERE type='table' AND name='Units_XP2');
+WHERE UnitType = 'UNIT_ARTILLERY';
 
 
 -- # Unit Upgrades Changes #
