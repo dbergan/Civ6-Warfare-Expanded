@@ -607,7 +607,7 @@ VALUES
 ('UNIT_RIFLEMAN', 			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0),
 ('UNIT_LONGSWORDSMAN', 		0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0) ;
 
--- Deliverator's Units
+-- R&F Compatability
 INSERT INTO Units_XP2
 (UnitType,					ResourceMaintenanceAmount, 	ResourceCost,	ResourceMaintenanceType, 	TourismBomb,	CanEarnExperience,	TourismBombPossible,	CanFormMilitaryFormation,	MajorCivOnly)
 SELECT 	UnitType,			0, 							20, 			NULL, 						0, 				1, 					0, 						1, 							0 
