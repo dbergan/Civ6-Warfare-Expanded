@@ -524,5 +524,70 @@
 		<Replace Tag="LOC_UNIT_COG_DESCRIPTION" Language="de_DE">
 			<Text>Marine-Nahkampfeinheit des Mittelalters.</Text>
 		</Replace>
+		<!-- Created by Laurana Kanan for LKs Units (18.02.10) -->
+		<!-- New promotion class for Steel & Thunder Automatic Guns -->
+		<Replace Tag="LOC_PROMOTION_CLASS_AUTOMATIC_GUN_NAME">
+			<Text>Fire Support</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_NAME">
+			<Text>Fusillade</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FUSILLADE_DESCRIPTION">
+			<Text>+4 [ICON_Ranged] Fernkampfstärke beim Angriff auf Nahkampf- und Anti-Kavallerieeinheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_NAME">
+			<Text>Gegenbeschuss</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_COUNTER_FIRE_DESCRIPTION">
+			<Text>+6 [ICON_Ranged] Fernkampfstärke beim Angriffen auf Fernkampf- und Belagerungseinheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_NAME">
+			<Text>Mantlet</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MANTLET_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Kampfstärke bei der Verteidigung gegen Distanzangriffe.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_NAME">
+			<Text>Entrench</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_ENTRENCH_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Kampfstärke beim Verteidigen von oder beim Angreifen aus einem Distrikt oder einer Festung.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_NAME">
+			<Text>Scharfschütze</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_MARKSMAN_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] Fernkampfstärke bei Angriffen auf Landeinheiten.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_NAME">
+			<Text>Wacht</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_OVERWATCH_DESCRIPTION">
+			<Text>Übt Kontrollzone aus und erhält +5 [ICON_Strength] Kampfstärke bei der Verteidigung gegen Nahkampf-Angriffe.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_NAME">
+			<Text>Feuer und Bewegung</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_LK_FIRE_AND_MANEUVER_DESCRIPTION">
+			<Text>Kann nach der Bewegung angreifen und erhält +5 [ICON_Ranged] Angriffstärke bei Distanzangriff auf Distrikte.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_NAME">
+			<Text>Unterstützungsfeuer </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LK_AUTOMATIC_GUN_DESCRIPTION">
+			<Text>Bietet benachbarte Kavallerieeinheiten +4 [ICON_Strength] Kampfstärke, wenn sie angreifen, benachbarte Anti-Kavallerieeinheiten +4 [ICON_Strength] Kampfstärke, wenn sie verteidigen, und allen benachbarte Nahkampfeinheiten +2 [ICON_Strength] Kampfstärke.</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_CAV_DESCRIPTION">
+			<Text>+{1_Amount} Unterstützungsfeuer aus angrenzender Automatische Schusswaffe (beim Angriff).</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_ANTICAV_DESCRIPTION">
+			<Text>+{1_Amount} Unterstützungsfeuer aus angrenzender Automatische Schusswaffe (beim Verteidigen).</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_LK_AUTOMATIC_GUN_MELEE_DESCRIPTION">
+			<Text>+{1_Amount} Unterstützungsfeuer aus angrenzender Automatische Schusswaffe.</Text>
+		</Replace>
+		<Replace Tag="LOC_PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Stärke gegen Nahkampf, Anti-Kavallerie und leichte Kavallerie.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
